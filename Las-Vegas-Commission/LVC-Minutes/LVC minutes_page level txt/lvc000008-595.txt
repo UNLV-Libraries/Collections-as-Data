@@ -1,0 +1,102 @@
+﻿pm
+
+565
+
+EIGHT BALL BAR	Robert & Abe Kroloff	117 No. 1st	Tavern
+EL CHOLO CAFE	Hortense A. McKieman	625 So. 5th	Rest. Bev.
+EL CORTEZ BAR	By: W. J. Moore	612 Fremont	Tavern  Cocktail Lounge
+ELITE MARKET	Earle W. Vause	831 So Main	Ret. Bev.
+EL MORROCCO CLUB	Oscar L. Crozier	1332 No. E	Tavern
+EL SOMBRERO CAFE	C. J. Griego	807 So Main	Rest. Bev.
+HOTEL ELWELL BAR	Wm H. Elwell	20b So 1st	Tavern
+ESQUIRE BAR	Isadore Bernson	120 So 2nd	Tavern
+FIFTH ST. LIQUOR STORE	Gordon W. Potter	725 So. 5th	Ret. Liq. (Mina)
+FILIPOS ITALIAN FOODS	Harriet Cicchetti	6l4 So. 5th	Rest. Bev.
+FITCHS MARKET	R. J. Fitch	107 St. Louis	Ret. Bev.
+FOOD CENTER	Harry C. Levy	770 Fremont	Ret. Liq.
+FOODLAND	By: E.D. Ciliax	1500 Fremont	Ret. Liq.
+FORTUNE CLUB BAR	Louis J. Wiener	109 Fremont	Tavern
+FREMONT DRUG	Harvey G. Parvin	6ll Fremont	Ret. Liq.
+GALENS LIQUOR STORE	Galen Barrow	1216 So Main	Ret. Liq (Mina)
+GILBERT BROS. LIQUOR	Harry V. T. Gilbert	404 W. Bonanza	Ret. Liq. (Mina)
+GILBERT BROS.	Harry V. T. Gilbert	400 W. Bonanza	Ret. Bev.
+GOLDEN NUGGET	By: C. C. King	129 Fremont	Tavern
+GOLDEN NUGGET	By: C. C. King	129 Fremont	Tavern
+HICKORY WOOD BAR B Q	Helen P. Corey	315 Fremont	Rest. Bev.
+HUNTRIDGE LIQUOR STORE	W. J. Holst, Jr.	1320 E Charleston	Ret. Liq (Mina)
+JOHNNYS SUPER MARKET	John Nassar	2200 E Charleston	Ret. Bev.
+KATYDID BAR	George S. Norris	113 No. 1st	Tavern
+KEYHOLE BAR	John Harrell	13 Fremont	Tavern
+L & W CAFE	Robert Wilson	18 Garces	Rest. Bev.
+LARRYS MARKET	Jesse T. Howard	631 So. 1st	Ret. Bev
+LAS VEGAS CLUB	Scherer & Schelland	18 Fremont	Tavern
+LAS VEGAS LIQUOR STORE	Alfred Lindgren	812 Fremont	Ret. Liq (Mina)
+LIDO BAR	Anna Mae Weller	107 No. 1st	Tavern
+LINCOLN MARKET	Vaughn K. Leavitt	1502 So. 5th	Ret. Bev.
+LITTLE CASINO	A. J. Quodbach	110 No. 1st	Tavern
+LOG CABIN BAR	A. & D. Mengarelli	122 No 1st	Tavern
+MAIN LIQUOR STORE	Lillian Winesky	416 No. 5th	Ret. Liq. (Mina)
+MARKET SPOT	Harry C. Levy	117 Carson	Ret. Liq. (Mina)
+MAYFAIR LIQUOR STORE	Blaine Beckwith	l418 Fremont	Ret. Liq. (Mina)
+MCKESSON LIQUOR CO.	A. E. Anderson	729 No Main	Whse Liquor & Importers Bev.
+MIKES 5TH ST. MKT	F. A. Messina	630 So. 5th	Ret. Bev.
+MIKES LIQUOR STORE	Alfred Ripps	106 Fremont	Ret. Liq. (Mina)
+MODERN MARKET	J.A. Gordon, L.D. Stein	121 No. 5th	Ret. Liq.
+MONTE CARLO INC.	D Fred Soly	15 Fremont	Tavern
+NEVADA BEVERAGE	R.J. McElhone	719 No Main	Whse Liq. Imp. Bev
+0 BRIENS LIQUOR STORE	Cardinal, Sullivan & O'Brien	1311 E Charleston	Ret. Liq. (Mina)
+PARK MARKET	Albert Goot	424 No. 5th	Ret. Bev.
+PAYLESS DRUG	Tom O'Larey	215 Fremont	Ret. Liq.
+PAYLESS LIQUOR STORE	Joseph Nosanchick	1509 Fremont	Ret. Liq. (Mina)
+PIONEER COCKTAIL LOUNGE	William Curland	25 Fremont	Tavern (2 oper.)
+PIONEER DISTRIBUTING CO.	B. J. Swanson	1129 So. A	Whse & Impr. Bev.
+PLAYLAND BAR	George G. Parry	131 So. 1st	Tavern
+PRIME MEATS & PROV CO.	Wollenzien & Wendelboe	820 So. 5th	Ret. Bev.
+RANDLES CAFE	Amy Randle	1329 No. E	Rest. Bev.
+RED & WHITE CAFE	Julia Bananto	801 So. 1st	Rest. Bev.
+REX BAR	Mrs. Andrew Petitti	124 So 1st	Tavern
+RINGSIDE LIQUOR STORE	R. L. Russell	1516 So. 5th	Ret. Liq. (Mina)
+ROACH DISTRIBUTINGCO.	Carl A. Henatsch	828 So Main	Whse & Impr. Bev.
+ROUND UP DRIVE IN	Bob Baskin	So 5th at Main	Rest Bev.
+ROUND UP LIQUOR STORE	Bob Basking	So 5th at Main	Ret. Liq. (Mina)
+SAFEWAY STORES	Dale Cook	122 So. 2nd	Ret. Bev.
+SAFEWAY STORES	Robert E. Schoberth	1300 E Charleston	Ret. Bev.
+SALSAGEV TAVERN	J. Kell Houssels	1 Fremont	Tavern
+SALLIE’S LIQUOR STORE	M. H. & Sallie Gordon	2120 E Charleston	Ret. Liq. (Mina)
+SAV ON LIQUOR	Sam Don	504 No Main	Ret. Liq. (Mina)
+SAVOY CLUB BAR	Emile Ease	116 Fremont	Tavern
+SELEX COFFEE SHOP	Irving I. Gelsin	209 No Main	Rest. Bev.
+SHAMROCK HOTEL	Clem Malone	600 No Main	Tavern
+SHERIFF'S MTD POSSE	Al Proctor	Cashman Field	Club Liq.
+SILLS	Miller, Sill & Christian	1002 So. 5th	Rest. Bev.
+SILVER STATE LODGE	Henry Moore	504 W. Jackson	Club Liq.
+SKILLET	James Page	1519 So. Main	Rest. Bev.
+SPORTS LIQUOR	Hans Eberhardt	419 No Main	Ret. Liq. (Mina)
+STEWARTS MARKET	S. Grant Stewart	2021 Stewart	Ret. Bev.
+SUES LIQUOR STORE	Bernice Morris	1232 So. 5th	Ret. Liq. (Mina)
+SUNDOWN LIQUOR	W. B. Wells	218 No Main	Ret. Liq. (Mina)
+SWINGING DOOR SALOON	Jackson Gilson	111 No. 1st	Tavern
+SWISS VILLAGE REST.	Marion Wolfinger	116 No. 5th	Cabaret Liq.
+TATUM'S BAR B Q	James J. Tatum	4l0 W Bonanza	Rest. Bev.
+TEN PIN TAVERN	Rugeroli, Mirabelli, Monteverde	123 So. 2nd	Tavern
+THRIFTY MARKET	Mark J. Klein	1054 So Main	Ret. Bev.
+TOWN BARBECUE	G. O. Ciliax	506 Fremont	Rest. Bev
+TWIN LAKES LODGE	Lloyd St. John	Tonopah Hwy	Tavern
+VETERANS CLUB OF SO. NEV.	Francis Ellis	115 No. 4th	Club Liquor
+THE WESTERNER	E. Giorgetti	23 Fremont	Tavern
+WESTERN LIQUOR STORE	M. C. Britton	6 E Charleston	Ret. Liq. (Mina)
+WESTSIDE GROCERY	Elijah Pullens	322 Madison	Ret. Bev.
+WESTSIDE TAVERN	C. H. Murray	206 W. Wilson	Rest. Bev.
+WHITEY HAYES NEW YORKER	Beryl B. Hayes	115 So. 1st	Tavern
+WITTWER CAFE	Ray Knearl	720 No. Main	Rest. Bev.
+Motion seconded by Commissioner Bunker and carried by the following vote: Commissioners Bunker, Jarrett, Sharp, Whipple and His Honor voting aye; noes, none.			
+
+SARATOGA RACE BOOK Commissioner Jarrett moved that the Saratoga Race Book be granted a gaming license for 90 days
+	for Mr. Cohen to dispose of his business.
+
+Motion seconded by Commissioner Sharp and carried by the following vote:	Commissioners Jarrett
+
+Sharp, and His Honor voting aye; noes, Commissioners Bunker and Whipple.
+
+The City Manager was directed to get a report from the Saratoga Race Book every thirty days
+as to the progress made in the sale of the business.	12-29-53

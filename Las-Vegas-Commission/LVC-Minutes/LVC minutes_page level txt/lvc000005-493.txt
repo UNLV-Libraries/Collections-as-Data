@@ -1,0 +1,121 @@
+﻿ADMINISTRATIVE & SUPERVISORY     Annual Increase
+Starting   Maximum	in Monthly Rate
+
+Rating	Title	Salary	Salary	Each Employment Yr.
+
+1	Jr. Clerks
+Jr. Typists
+
+Jr. Recreation Leaders
+
+Jr. Librarians	$125.00	$150.00	$5.00
+
+EMPLOYEES WITHOUT PREVIOUS EXPERIENCE IN LINE OF DUTIES.
+
+2	Deputy Treasurer
+Deputy Clerks 
+
+Deputy Typists
+Recreation Leaders
+Lifeguards
+Librarians
+
+Jr. Storekeepers	$150.00	$175.00	$5.00
+
+EMPLOYEES WITH ACCEPTABLE RECORD OF PAST EXPERIENCE ELSEWHERE.
+
+3	Deputy Chief Clerks
+
+Stenos & Secretaries
+Bookkeepers -
+Corpsmen
+Cashiers
+Chief Librarian
+Asst. Recreation Directors
+
+Storekeepers	$175.00	$200.00	$5.00
+
+EMPLOYEES WITH CONSIDERABLE EXPERIENCE AND TRAINING IN DUTIES
+
+4	Accountants 
+
+Deputy Inspectors
+Auditors
+Instrument Man
+Deputy Controller
+Legal Clerk
+Chief Storekeepers
+
+Asst. Foreman	$200.00	$275.00	$25.00
+
+EMPLOYEES QUALIFIED BY TRAINING, EXPERIENCE AND EXECUTIVE ABILITY DEMONSTRATED.
+
+5	Chief Deputy Controller 
+
+Chief Inspectors
+Recreation Director
+Purchasing Agent
+Foremen
+
+Asst. Engineers & Draftsmen 
+
+Chief of Party	$275.00	$325.00	$25.00
+
+EMPLOYEES WELL ADVANCED AND TRAINED IN METHODS, PROCEDURE AND POSSESSING NECESSARY
+SKILL AND EXECUTIVE ABILITY.
+
+6	Controller 
+
+Police Chief, Fire Chief
+Office Engineer
+
+City Electrician	$325.00	$400.00	$25.00
+
+EMPLOYEES FULLY TRAINED AND POSSESSING FULL KNOWLEDGE OF METHODS, PROCEDURE AND
+TECHNICAL SKILL.
+
+6	Director of Police Works	$450.00	$550.00	$25.00
+
+City Engineer	$450.00	$550.00	$25.00
+
+7	City Manager	$600.00
+
+POLICE
+
+CHIEF AND INSPECTOR COVERED UNDER ADMINISTRATIVE ABOVE.
+
+Capt. Detective	$260.00	$300.00	$20.00
+
+Capt. Police	$250.00	$290.00	$20.00
+
+Sergeant Detective	$250.00	$280.00	$20.00
+
+Sergeant Police	$230.00	$270.00	$20.00
+
+Capt. Identification	$260.00	$300.00	$20.00
+
+Detectives	$220.00	$260.00	$20.00
+
+Patrolman	$210.00	$250.00	$20.00
+
+Cook	$160.00	$200.00	$20.00
+
+Clerks (48 hrs.)	$160.00	$200.00	$20.00
+
+Dept. Poundmaster (7 da.)
+
+(Quarters furnished)	$200.00	$225.00	$10.00
+
+Policewomen	$200.00	$240.00	$20.00
+
+FIRE
+
+CHIEF COVERED UNDER ADMINISTRATIVE ABOVE.
+
+Marshall & Captains	$260.00	$300.00	$20.00
+
+Drivers	$250.00	$260.00	$ 5.00
+
+Fireman	$210.00	$250.00	$20.00
+
+Engineer	$265.00	$275.00	$ 5.00

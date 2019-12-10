@@ -1,0 +1,153 @@
+﻿NAME	REPRESENTATIVE	ADDRESS	TYPE
+
+S and S Donut Shop	Jack Pruitt	124½ North First	1 slot
+
+Sal Sagev Hotel-lobby	Abe Miller	1 Fremont	5 slots
+
+Sal Sagev Tavern	J. K. Houssels	l Fremont	8 slots
+
+Sam's Cafe	John A. Katsaros	320 Fremont	5 slots
+
+Saveway Drug	Jack Weisberger	14 Fremont	1 slot
+
+Saveway Drug	Max Ingalls	18 Fremont	7 slots
+
+Sewell's	V. R. Shurtleff	307 Fremont	2 slots
+
+Shady Rest Cafe	Lee	Hughes	F and Jackson	2	slots
+
+Sill's	Orpha Sill Miller	5th and	Charleston	4	slots
+
+Silver Cafe	Joe	Morgan	106 No.	1st. St.	4	slots
+
+Silver Club	Joe	Morgan	108 No.	1st. St.	2	slots
+
+2 "21"	1	crap
+
+1 roulette
+
+Silver State Newsstand	R. Roschl	110 South Second	4 slots
+
+Silver State Texaco	Lee Hughes	5th and Fremont	1 slot
+
+Smith’s Drive In	Walter Askew	513 Stewart	2 slots
+
+Smith's Root Beer Stand	R. Roschl	Third & Stewart	1 slot
+
+Snyder’s Grocery	L. L. Snyder	300	Bonanza	1	slot
+
+Snyder's Grocery	Frank Lancaster	300	Bonanza	2	slots
+
+Southwestern Liquor	Ted Konduris	101	Carson	3	slots
+
+Spic 'N Span	Lester Goldring	129	Fremont	1	slot
+
+State Cafe	M. C. Kress	20 Fremont	4 slots
+
+The Slot Machine	M. B. Abrams	101	Fremont	35	slots
+
+Thrifty Market	R. Roschl	1st	and Charleston	3	slots
+
+Tip's Cafe	Edward Tip Rowe	1516 So. 5th. St.	2 slots
+
+Tivoli Bar	Lee Hughes	126	North 1st. St.	1	slot
+
+Tivoli Tavern	J. B. Gaut	126	North 1st. St.	3	slots
+
+Town Barbecue	E. D. Ciliax	506	Fremont	3	slots
+
+Trail Cafe	John Katsaros	13 Fremont	1	slot
+
+Underhill's Bowling	C. C. Underhill	125	South Second	8	slots
+
+White Cross Drug	Aurelia Scheel	201	Fremont	2	slots
+
+White Spot Cafe	J. S. Pappas	109	Fremont	8	slots
+
+Wimpy's	Orpha Sill Miller	210	Fremont	3	slots
+
+Westside Tavern	Charley Welch	206	Wilson	3	slots
+
+Westside Cafe	Lee Hughes	D and Madison	2 slots
+
+Al's Bar	Al Salton	111 So. First	Retail Tavern
+
+Apache Bar-back	P.	O.	Silvagni	2nd	and Fremont	Retail Tavern
+
+Apache Bar-front	P.	O.	Silvagni	2nd	and Fremont	Retail Tavern
+
+Apache Bar	P.	O.	Silvagni	2nd	and Fremont   Importers
+
+Apache Lounge	P.	O.	Silvagni	2nd	and Fremont	Cocktail Lounge
+
+B and B Market	F.	J.	Brady	818	South Fifth	Retail Liquor
+
+B.P.O.E.	O.	K.	Adock	128	South Third	Club Liquor
+
+Ball Grocery	Lewis E. Ball	404 South Second	Retail Beverage
+
+Barbecue Corral	Eugene Gilbert	1407 South Fifth	Retail Beverage
+
+Betty’s Cafe	Bessie Fraser	1039 South Main	Retail Beverage
+
+Bill’s Lunch	O.	H.	Hillman	217	North Main3	Retail Beverage
+
+Boulder Club Inc.	P.	J.	Goumond	122	Fremont	Retail Tavern
+
+Boulder Club Inc.	P.	J.	Goumond	120	Fremont	Retail Beverage
+
+Boulder Liquor Store	L.	R.	Schway	423	Fremont	Importer’s
+
+Sealed Pkg-mina.
+
+Brown Derby Bar	P. L. Jefferson	320 Monroe        Retail 	Beverage
+
+Cardinal Sand. Shop	Ray Knearl	508 Fremont	Retail Beverage
+
+Charleston Grocery	A. R. Stowell	Charleston Blvd.	Retail Beverage
+
+Cotton Club	Moe Taub	500 Jackson	Retail Tavern
+
+Coca-Cola Bottling	E. 0. Underhill	424 North Main Whl. Beverage
+
+Importers
+
+Cut Rate Liquor	Store	Josie Dondich	132 So. Fifth	Sealed	pkg.-mina.
+
+Dick’s Bar	Richard D. Gard	118 North 1st. St. Retail Beverage
+
+Do Drop In	Jake Ensley	1315 Jackson	Retail Beverage
+
+Dollar Market	Herman Silverman	419 North Main	Retail Beverage
+
+El Cortez Hotel	M. B. Hicks	600 Fremont	Retail Tavern
+
+Cocktail Lounge
+
+El Morrocco	Frank Wilson	1322 F Street	Retail	Tavern
+
+Eight Ball Bar	Abe Kroloff	117	North 1st.	Retail	Tavern
+
+Esquire	Louis Mack	120	South 2nd.	Retail	Tavern
+
+Ethel's Store #1	Ethel Rapaport	28 Fremont	Sealed	pkg-mina.
+
+Importers
+
+Ethel's Store #2	Ethel Rapaport	411	Fremont	Sealed	pkg-mina.
+
+Food Center	Albert Goot	770	Fremont	Retail	Liquor
+
+Importers
+
+Foreign Club	Walter Argyle	111	First St.	Retail	Tavern
+
+Fremont Tavern Inc.	James Fare	105	So. 1st.	Retail	Tavern
+
+Frontier Club	J. W. Schaum	117	Fremont	Retail	Beverage
+
+Gilbert Bros.	C.V.T. Gilbert	314 	Bonanza	Retail	Liquor
+
+Golden Camel Bar	Joe Morgan	110	North 1st.	Retail	Tavern
+
+Green Lantern	George Guice	501	Jackson	Retail	Beverage

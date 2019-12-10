@@ -1,0 +1,83 @@
+﻿Place	Operator	Address	Type
+
+299
+
+Apache Bar- Front	P. O. Silvagni
+
+B & C #1 Service Station	Vegas Sweet Shop
+
+B & H Grocery	Frank Lancaster
+
+Ball Grocery	lewis Ball
+
+Barrett's Garage	Virginia Barrett
+
+Beacon Shop	L.p. Lawrence
+
+Belvedere Grocery	Gayer Co. - Lee Hughes
+
+Bonanza Liquor Store	Raymond Salmon
+
+Boulder Club Inc.	A. H. Stevenson
+
+Boulder Liquor Store	Raymond Salmon
+
+Boyce's Chevron Station	Gayer Co. - Lee Hughes
+
+Bravos Market	Frank Lancaster
+
+Brown Derby Cafe	P. L. Jefferson
+
+Busy Bee Cafe	John Stathis
+
+Butterly's Cafe	Walter Butterly
+
+Butterly's Cafe	Vegas Sweet Shop
+
+Chili King Cafe	Vegas Enterprises Co
+
+Cinnabar	L. P. Lawrence
+
+City Drug	Kroloff Distributing Co
+
+Clark Market	Marks Food Corporation
+
+Cliff's 5th St. Market	G. C. Luzier
+
+Club Ebony	Boysie Ensley
+
+Club Ebony	Gayer Co.- Lee Hughes
+
+Club Savoy	M. B. Hicks & H. C. Badger
+
+Coney Island	Vegas Enterprise
+
+Corey's Fine Foods	John D. Corey
+
+Cork 'N Bottle	J. Kell Houssells
+
+Comet Stores	J. D. Bentley
+
+Cotton Club	Uvalde Caperton
+
+The Crossroads	Ted Patton Music	Co
+
+Dairy Bar	V. H. Dillehunt
+
+Danny's Market	L.P. Lawrence
+
+Delux Cafe	Ted Patton Music	Co
+
+Desert Inn Liquor Store	George Pappas
+
+Dixie Waffle Shop	Sylvia Sirotta
+
+Douglas & Shafter Service	Vegas Sweet Shop
+
+Wight Ball Bar	Kroloff Dist. Co
+
+El Cortez Bar	El Cortez Hotel,	Inc
+
+El Cortez Casino	El Cortez Hotel,	Inc
+
+EL Cortez Hotel	El Cortez Hotel,	Inc

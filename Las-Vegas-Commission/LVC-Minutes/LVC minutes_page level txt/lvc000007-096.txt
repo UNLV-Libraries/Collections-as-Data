@@ -1,0 +1,135 @@
+﻿Tract #3
+
+United Plumbing Co	280	126.13	8,9	1
+
+2000 F Street - City
+
+Willard, Wayne	420	189.23	10,11,12	1
+
+Box 1765 - City	575
+
+Merrall, W. W.	560	252.30	13,14,15,16	1
+
+221 W. 57th St - New York
+
+Leon, Geo. & Frances	280	126.15	17,18	1
+
+217	No 11th - City
+
+Cottam, Owen	280	126.15		19,20	1
+
+Box 223, St. George, Utah
+
+Sewell , Minnie O.	420	189.23		29,30,31	1
+
+2013 Marlin - City	2020
+
+Blakeman, Adoph S. & Mary                840	378.45	32,33,34,35,36,37	1
+
+Box 824 - City	2000
+
+Hunt, Charlie & Tina	560	252.30	38,39,40,41	1
+
+1999 Marlin - City	500
+
+Coffman, Nellie &	280	126.15	42,43	1
+
+Nelva Jean Gilmore
+1999 Marlin - City
+
+	
+
+Brown, Perle S,	420	189.22	44,E½ of 45	1
+
+c/o Sheriff's Office - City                         200	W½ of 45,46
+
+Crosse, F. P. & Phyllis	280	126.15	47,48	1
+
+218 So 4th, City
+
+Crosse, F.P. & Phyllis	280	126.15	1,2	2
+
+218 So 4th Street
+
+City
+
+Roberts, Ivan	420	189.23	3,4,5	2
+
+916 Fremont - City	200
+
+Carr, Sara Wilson	420	189.23	6,7,8	2
+
+Rockin, California
+
+Lowe, Wilbur C. & J. M.	280	126.15	9,10	2
+
+Box 1227 - City	575
+
+Monson, Theodore B. & M.J.	280	126.15	11,12	2
+
+Box 64 - City	1550
+
+Lowe, Walter C. & V.L.	560	252.30	13,14,15,16	2
+
+Box 1227 - City
+
+McConnell, Russell L. & L.L.	560	252.30	17,18,19,20	2
+
+2010 Marlin - City	1845
+
+Girard, G.
+
+841 So Bixel, Los Angeles	280	126.15	21,22	2
+
+Merrall, W. W.	280	126.15	23,24	2
+
+221 West 57th - New York
+
+McKesson, Paul & Virginia	420	189.23	4,5,6	4
+
+1706 Marlin - City	1650
+
+Cardinal, Teresa P.	140	63.08	3	4
+
+810 So Main - City
+
+Whitaker, Verna	280	126.15	7,8	4
+
+Box 168 - City
+
+Ruiz, Solita                                              140                                63.08                 9	4
+
+1309 Silver Lake Blvd
+Los Angeles, Calif
+
+Long, Herman T. & O. G.	140
+
+Box 1469 - City	400	63.08	10	4
+
+Lancaster, Vernon	560
+
+Box 384 - City	900	252.30	11,12,13,14	4
+
+Case, Marion B.	280	126.15	15,16	4
+
+1806 Marlin - City	1025
+
+Haley, Roscoe M. & Lucille	280	126.15	17,18	4
+
+Caliente, Nev
+
+Laub, Geo. O. & Helen R.	280	126.15	19,20	4
+
+711 North E Street - City
+
+Barnum, J. M. & Rhoda	560	252.30	21,22,23,24		4
+
+Box 384, City	150
+
+Tramontin, Julius	280	126.15	1,2	3
+
+1211 So Main - City	1170
+
+Henry Ned & Catherine Jones	280	126.15	3,4	3
+
+2609 E Charleston

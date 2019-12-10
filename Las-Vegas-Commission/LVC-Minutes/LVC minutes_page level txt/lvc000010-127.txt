@@ -1,0 +1,176 @@
+﻿LOT #	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA	FINAL COST
+
+20	Same	as	above	350.00	425.00	44	277.95
+
+21	Same	as	above	350.00	425.00	44	277.95
+
+22	Same	as	above	350.00	425.00	44	277.95
+
+23	Same	as	above	350.00	425.00	44	277.95
+
+24	Same	as	above	350.00	425.00	44	277.95
+
+BLOCK 5 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Goldstein, Harry	¼ Int.
+
+King, Mildred	¼ Int.
+
+Gilson, Mac L.       ¼ Int.
+
+Shoren, Norman	¼ Int.
+
+412 Bonanza Rd., L.V.	865.00	510.00	40	331.54
+
+2	Same	as	above	720.00	510.00	4l	105.09
+
+3	Same	as	above	720.00	510.00	4l	105.09
+
+4	Same	as	above	720.00	510.00	4l	105.09
+
+5	Same	as	above	720.00	510.00	4l	105.09
+
+6	Same	as	above	720.00	510.00	4l	105.09
+
+7	Arebalo, Eliberia	(Marie)
+
+620 Clark Ave., L.V.	720.00	355.00	4l	105.09
+
+8	Same	as	above	720.00	355.00	4l	105.09
+
+9	Ardsley, Inc.
+
+c/o Pioneer Title
+
+125	S. 4th St.,L.V.	720.00	295.00	4l	105.09
+
+10	Same	as	above	720.00	295.00	4l	105.09
+
+11	Same as above	720.00	4l	105.09
+
+12	Same as above	865.00	40	331.54
+
+13	Tate, Roland S.& LeVoice
+
+707 S. Tonopah Dr.,L.V.	350.00	605.00	44	277.95
+
+14	Same	as	above	350.00	605.00	44	277.95
+
+15	Same	as	above	350.00	605.00	44	277.95
+
+16	Same	as	above	350.00	605.00	44	277.95
+
+17	Same	as	above	350.00	605.00	44	277.95
+
+18	Same	as	above	425.00	615.00	45	521.83
+
+19	Casados, Juvencia	S. & Charles M.
+
+609 Wilson Ave., L.V.	425.00	700.00	45	521.83
+
+20	Same	as	above	350.00	700.00	44	277.95
+
+21	Lovell, Jay L.
+
+617 N. "F" St., L.V.	350.00	1,375.00	44	277.95
+
+22	Same	as	above	350.00	1,375.00	44	277.95
+
+23	Murray, Laura
+
+611	N. "F" St., L.V.	350.00	1,090.00	44	277.95
+
+24	Same	as	above	350.00	1,090.00	44	277.95
+
+BLOCK 6 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Fox, Victor William
+
+706	W.Bonanza Rd., L.V.	865.00	925.00	40	331.54
+
+2	Same	as	above	720.00	525.00	4l	105.09
+
+3	Same	as	above	720.00	525.00	4l	105.09
+
+4	Same	as	above	720.00	525.00	4l	105.09
+
+5	Fenda, R.D.
+
+710	W. Bonanza Rd.,L.V.	720.00	1,074.00	4l	105.09
+
+6	Same	as	above	720.00	1,074.00	4l	105.09
+
+7	(E15')	Same	as	above	430.00	642.00	253	49.04
+
+7	(W 10')	Thiele, Walter & Jeanette
+
+716 W.Bonanza Rd., L.V.	205.00	180.00	254	32.69
+
+8	Same	as	above	720.00	640.00	48	81.74
+
+$	Clement, LyDell V.
+
+Box 1257, L.V.	720.00	767.50	48	81.74
+
+10	Same	as	above	720.00	767.50	48	81.74
+
+11	Same	as	above	720.00	767.50	48	81.74
+
+12	Same	as	above	865.00	767.50	4$	308.20
+
+13	Brewster, William C.
+
+2508 Via La Salva
+
+Palos Verde Estates,Calif.	350.00	265.00	50	251.01
+
+14	Same	as	above	350.00	265.00	50	251.01
+
+15	Hammond, Mattie & Howell
+Hammond, Hazel
+
+2647 Aldin St.,
+
+Salt Lake City, Utah (6)	350.00	710.00	50	251.01
+
+16	Same	as	above	350.00	710.00	50	251.01
+
+17	(W½)	Same	as	above	175.00	355.00	255	147.28
+
+18	(W ½)	Same	as	above	175.00	355.00	257	265.22
+
+17	(E½)	Same	as	above	175.00	180.00	256	103.73
+
+18	(E ½)	Same	as	above	175.00	180.00	258	225.67
+
+1$	Winder, Charles & Agnes C.
+
+612	McWilliams Ave., L.V.	425.00	485.00	45	521.83
+
+20	Same	as	above	350.00	485.00	44	277.95
+
+21	Schumke, Robert F.W. & Josephine
+
+512 W. Adams Ave., L.V.	350.00	560.00	44	277.95
+
+22	Same	as	above	350.00	1,040.00	44	277.95
+
+23	Rivers, Carmen & Rivers, Raymond
+
+613	N. "G" St., L.V.	350.00	2,475.00	44	277.95
+
+24	Same	as	above	350.00	2,475.00	44	277.95
+
+BLOCK 7 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Jenkins, Tom
+
+700	Wilson Ave., L.V.	425.00	180.00	45	521.83
+
+2	Same	as	above	350.00	180.00	44	277.95
+
+3	Butler, Cary Jr. & Marrie
+
+704 Wilson Ave., L.V.	350.00	2,425.00	44	277.95
+
+4	Same	as	above	350.00	2,425.00	44	277.95

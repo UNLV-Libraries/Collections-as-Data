@@ -1,0 +1,52 @@
+﻿99
+
+
+
+
+
+
+
+
+
+
+
+LOG CABIN BAR	John Buckley	122 North 1st	3 slots
+MAYFAIR LIQUOR STORE	Blaine Beckwith	1418 Fremont	4 slots
+MIKE’S FIFTH STREET MARKET	F. Anthony Messinae and Floyd Hixeribaugh	630 South 5th	3 slots
+MIKE'S LIQUOR STORE	Sallie & Mike Gordon & Frlednash	106 Fremont	13 slots
+MODERN MARKET	J.A. Gordon & L.D. Stein	121 North 5th	3 slots
+MONTE CARLO	Soly, Leach, and McMahon	15 Fremont	120 slots
+ORANGE RUFUS CO.	Fat Rozzelle	409 Fremont	12 slots
+OVERLAND HOTEL	By: Charles H. Richardson	#1 North Main	2 slots
+PALACE BARBECUE	Abe Kroloff	210 South 2nd	2 slots
+PARK MARKET	Albert Goot	424 North 5th	4 slots
+PAYLESS LIQUOR STORE	Joseph Nosanchuck	1509 Fremont	4 slots
+PIONEER CLUB \	Charles Addison	25 Fremont	79 slots 3 poker 1 pan  1	race horse  keno 4 "21"  3 craps  2	roulette
+PIONEER COCKTAIL LOUNGE	Charles Addison	25 Fremont	9 slots
+PLAYLAND ARCADE	George G. Parry	129 South 1st	39 slots
+PLAYIAND	George G. Parry	131 South 1st	5 slots
+PRIME MEATS & PROVISION CO.	Wollenzien & Wendelboe	820 South 5th	5 slots
+RANCHO ANITA MOTEL	W. Norman McConkey	2121 South 5th	3 slots
+RANCHO GRANDE CREAMERY	Bert O'Donnell	406 South 2nd	1 slot
+REX BAR	Mrs. Andrew Petitti	124 South 1st	3 slots
+RICHFIELD TRUCK TERMINAL	Del Barkhuff	629 South Main	3 slots
+ROUND UP DRIVE IN	Round Up,Inc. By: Bob Baskin	Corner South 5th & Main	6 slots
+ROUND UP LIQUOR STORE	Round Up, Inc. By: Bob Baskin	Corner South 5th & Main	5 slots
+SAL SAGEV HOTEL LOBBY	John F. Miller	3 Fremont	3 slots
+SAL SAGEV RESTAURANT	Abe P. Miller	5 Fremont	1 slot
+SAL SAGEV RESTAURANT	John F. Miller	5 Fremont	2 slots
+SANTA ANITA TURF & BAR	Dave Stearns & Joseph Wolf	113 E. Fremont	9 slots 3 "21"  1 craps 1 roulette
+SAVE ON LIQUOR	John and P.J. Buckley	504 North Main	1 slot
+SAV-ON LIQUOR STORE	Sam Don	$504 North Main	3 slots
+SAVOY CAFE	D.T. Shea	624 South 5th	3 slots
+SELEX COFFEE SHOP	Richard B. Borders	209 North Main	3 slots
+SILL'S	Miller, Sill, Christian	1002 South 5th	8 slots
+SILVER CLUB	By: C.W. Woods	108 North 1st	2 slots 1 crap 1 "21"
+STEWARTS MARKET	S. Grant Stewart	2021 Stewart	3 slots
+SUNSET LIQUOR STORE	Del Barkhuff	1027 South Main	1 slot
+SWISS VILLAGE RESTAURANT	Lawrence S. Henry	116 North 5th	3 slots
+TATUM'S BARBECUE	Abe Kroloff	410 West Bonanza	2 slots
+TWIN LAKES FARM	By: Lloyd L. St. John	Bonanza Road	2 slots
+VERA'S CAFE	C.R. Millhizer	415 Jackson	1 slot
+WESTERN LIQUOR STORE	M.C. Britton	#6 East Charleston Blvd.	5 slots
+WEST SIDE GROCERY	C.R. Millhizer	422 Madison	1 slot

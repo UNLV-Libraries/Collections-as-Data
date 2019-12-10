@@ -1,0 +1,183 @@
+﻿BONDLEY, GEORGE
+
+Las Vegas	Precinct No.	1	22
+
+Las Vegas	Precinct No.	2	8
+
+Las Vegas	Precinct No.	3	5
+
+Las Vegas	Precinct No.	4	6
+
+Las Vegas	Precinct No.	5	4
+
+Las Vegas	Precinct No.	6	8
+
+Las Vegas	Precinct No.	7	9
+
+Las Vegas	Precinct No.	8	3
+
+Las Vegas	Precinct No.	9	12
+
+Las Vegas	Precinct No.	10	10
+
+Las Vegas	Precinct No.	11	15
+
+Las Vegas	Precinct No.	12	12
+
+Las Vegas	Precinct No.	13	8
+
+Las Vegas	Precinct No.	14	11
+
+Las Vegas	Precinct No.	15	4
+
+Las Vegas	Precinct No.	16	14
+
+Total 151
+
+JOHNSON, E.H. "JACK"
+
+Las Vegas	Precinct No.	1	31
+
+Las Vegas	Precinct No.	2	15
+
+Las Vegas	Precinct No.	3	7
+
+Las Vegas	Precinct No.	4	11
+
+Las Vegas	Precinct No.	5	10
+
+Las Vegas	Precinct No.	6	19
+
+Las Vegas	Precinct No.	7	16
+
+Las Vegas	Precinct No.	8	8
+
+Las Vegas	Precinct No.	9	18
+
+Las Vegas	Precinct No.	10	14
+
+Las Vegas	Precinct No.	11	17
+
+Las Vegas	Precinct No.	12	22
+
+Las Vegas	Precinct No.	13	20
+
+Las Vegas	Precinct No.	14	23
+
+Las Vegas	Precinct No.	15	10
+
+Las Vegas	Precinct No.	16	13
+
+Total 254
+
+FOR COMMISSIONER FIRST CLASS
+
+BATES. WALTER B.
+
+Las Vegas	Precinct No.	1	108
+
+Las Vegas	Precinct No.	2	69
+
+Las Vegas	Precinct No.	3	91
+
+Las Vegas	Precinct No.	4	62
+
+Las Vegas	Precinct No.	5	96
+
+Las Vegas	Precinct No.	6	88
+
+Las Vegas	Precinct No.	7	102
+
+Las Vegas	Precinct No.	8	46
+
+Las Vegas	Precinct No.	9	69
+
+Las Vegas	Precinct No.	10	69
+
+Las Vegas	Precinct No.	11	77
+
+Las Vegas	Precinct No.	12	103
+
+Las Vegas	Precinct No.	13	89
+
+Las Vegas	Precinct No.	14	89
+
+Las Vegas	Precinct No.	15	75
+
+Las Vegas	Precinct No.	16	45
+
+Total 1,278
+
+TINCH, M. C.
+
+Las Vegas	Precinct No.	1	92
+
+Las Vegas	Precinct No.	2	56
+
+Las Vegas	Precinct No.	3	56
+
+Las Vegas	Precinct No.	4	39
+
+Las Vegas	Precinct No.	5	39
+
+Las Vegas	Precinct No.	6	47
+
+Las Vegas	Precinct No.	7	30
+
+Las Vegas	Precinct No.	8	26
+
+Las Vegas	Precinct No.	9	46
+
+Las Vegas	Precinct No.	10	22
+
+Las Vegas	Precinct No.	11	61
+
+Las Vegas	Precinct No.	12	46
+
+Las Vegas	Precinct No.	13	46
+
+Las Vegas	Precinct No.	14	52
+
+Las Vegas	Precinct No.	15	40
+
+Las Vegas	Precinct No.	16	47
+
+Total 745
+
+FOR COMMISSIONER THIRD CLASS
+
+CORRADETTI, A.
+
+Las Vegas	Precinct No.	1	67
+
+Las Vegas	Precinct No.	2	47
+
+Las Vegas	Precinct No.	3	72
+
+Las Vegas	Precinct No.	4	53
+
+Las Vegas	Precinct No.	5	71
+
+Las Vegas	Precinct No.	6	71
+
+Las Vegas	Precinct No.	7	71
+
+Las Vegas	Precinct No.	8	35
+
+Las Vegas	Precinct No.	9	27
+
+Las Vegas	Precinct No.	10	41
+
+Las Vegas	Precinct No.	11	39
+
+Las Vegas	Precinct No.	12	88
+
+Las Vegas	Precinct No.	13	45
+
+Las Vegas	Precinct No.	14	55
+
+Las Vegas	Precinct No.	15	57
+
+Las Vegas	Precinct No.	16	43
+
+Total 882

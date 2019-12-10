@@ -1,0 +1,32 @@
+﻿(66
+
+Block 8 (con't)
+
+Boulder Addition
+
+LOT		REALTY	IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+13	Graveley, A.L.  Box 122 Miami, Ariz.	800.00		800.00	50	334.34
+14	Same as above	800.00		800.00	50	334.34
+15	Molina, Guadlupe & Dolores Box 888, City	450.00	750.00	1,200.00	50	334.34
+16 Snyder, H.W. & Marie 130 Colorado St., L. V.  Block 9  Boulder Addition		500.00	1,050.00	1,550.00	50	334.34
+LOT		REALTY	IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+9	Weinroth, Minnie 1306 So. 2nd St., L. V.	$ 800.00		$ 800.00	50	$ 334.34
+10	Same as above	1.50.00	6,350.00	6,800.00	50	334.34
+11	Sutton, Joseph W. & Ada Ione 1310 So. 2nd St., L. V.	1.50.00	1,020.00	1,1.70.00	50	334.34
+12	Beirnes, Edward E. & Esther A. 1316 So. 2nd St., L. V.	450.00	1,040.00	1,490.00	50	334.34
+13	Same as above	450.00	2,230.00	2,680.00	50	334.34
+14	Tenesch, Dora A. Box 1574  Henderson, Nevada	800.00		800.00	50	334.34
+15	Stephens, R.J. & Lavinn 1134 Westwood Ave., L. V.	800.00		800.00	50	334.34
+16 Same as above Block 10  Boulder Addition		800.00		800.00	50	334.34
+LOT		REALTY	IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+9&  10	McNatt, Chloe J. & Grace W. 117 Imperial, City	$ 950.00	$ 2,21.0.00	$ 3,190.00	175	$ 1,170.17
+11	Norman, B. Jeane Box 2092, City	800.00		800.00	50	334.34
+12 	Meehna, Thomas H. & Frances H. 11.20 So. 2nd St., L. V.	800.00		800.00	50	334.34
+13	Same as above	1.50.00	820.00	1,270.00	50	334.34
+14	Dorman, Vera  1422 So. 2nd St., L. V.	1.50.00	790.00	1,21.0.00	50	334.34
+115&16	Cole, Katherine M.  116 E. Utah St., L. V.	950.00	5,735.00	6,685.00	175	1,170.17
+E75' Drummond, Fred 7&8 102 Utah, City  Block 11 Boulder Addition				9,275.00	75	501.50
+LOT		REALTY	IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+9	Faxon, Marie L.  2201 Larkin St.  San Francisco, California-	$ 800.00	$	$ 800.00	50	$ 334.34
+10	Same as above	800.00		800.00	50	334.34
+11	Wallace, Charles L. 1510 So. 2nd St., L. V.	450.00	840.00	1,290.00	50	334.34

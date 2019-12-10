@@ -1,0 +1,177 @@
+﻿LAS VEGAS PRECINCT NO. 60B          VOTING BOARD (DAY)
+
+Rufus T. McConnell	420	Harrison	Insp.	#1
+
+Norma Helen Richardson	1643	G	Insp.
+
+Obera Turmon	218	George	"
+
+Velma Kellough	305	Paul	Clerk
+
+Rose M. Daniels	1601 North A
+
+COUNTING BOARD (NIGHT)
+
+Velma Kellough	305 Paul	Insp.
+
+Sylvester C. Fennell	223 George Pl	"
+
+Rodelmas Bell	1631 North G	"
+
+James Lee Snowden	1625 North G	Clerk
+
+Corrine Graham	1768 North D	"
+
+LAS VEGAS PRECINCT NO. 6l          VOTING BOARD (DAY)
+
+Hazel Longo	l409	Sharon	Insp.	#1
+
+Laura Shaffer	1920	W. Bonanza	Insp.
+
+Viola Haygood	1718	Goldhill	"
+
+June Murphy	1130	Virginia City	Clerk
+
+Virginia R. Zobrist	1801	Ophir	"
+
+COUNTING BOARD (NIGHT)
+
+Mildred Leak	1905 W. Bonanza	Insp.
+
+Venice W. Bunker	1726 W. Bonanza	"
+
+Roberta Gaughan	1131 Comstock	"
+
+John L. Seymour	1119 Comstock	Clerk
+
+Eileen McCann	1800 Sutro Lane	"
+
+LAS VEGAS PRECINCT NO. 62         VOTING BOARD (DAY)
+
+Fern H. Hartsell	803	Dyke Lane	Insp. #1
+
+Effie S. Keele	2221	W. Bonanza	Insp.
+
+Nona L. Sholes	2221	W. Bonanza	"
+
+Elizabeth Zimmer	1118	Ramona Circle	Clerk
+
+Martha Broad	2107	W. Bonanza	"
+
+COUNTING BOARD (NIGHT)
+
+Mary E. Stevens	2110 W. Bonanza	Insp.
+
+Rowena Warner	2223 W. Bonanza	"
+
+Nona L. Sholes	2221 W. Bonanza	"
+
+Fern H. Hartsell	803	Dyke Lane	Clerk
+
+Rozette Pulsipher	708	Dyke "	"
+
+LAS VEGAS PRECINCT NO. 63          VOTING BOARD (DAY)
+
+Nellie F. Feour	3615 W. Charleston	Insp.	#1
+
+Aline Johnson	1312 Melville Dr.	Insp.
+
+Grace Laun	1134 Melville Dr.	"
+
+Dorothy S. Yeager	3612 Westleigh	Clerk
+
+Hildegard E. Domina	1201 Darmak	"
+
+COUNTING BOARD (NIGHT)
+
+Lois M. Denley	1267 Melville	Insp.
+
+Richard L. Woods	1330 Darmak	"
+
+Jeaneen Kahre	1336 Darmak	"
+
+Willie Lambeth	1133	Darmak	Clerk
+
+Margaret Lawler	900½ Rancho Circle	"
+
+LAS VEGAS PRECINCT NO. 64         VOTING AND COUNTING BOARD (DAY AND NIGHT)
+Thelma Caton	2304 S. 6th	Insp .#1
+
+Stella E. Reed	2019 Santa Rita	Insp.
+
+Bonnie Jane O'Connor	2007 Van Patten Pl.	"
+
+Artie M. Allen	2220 Santa Ynez	Clerk
+
+Dorothy B. Amaru	2212 Santa Ynez	"
+
+LAS VEGAS PRECINCT NO. 65          VOTING BOARD (DAY)
+
+Agness T. Hile	1301 Maryland Pkwy	Insp. #1
+
+Myrtle L. Shelley	2033	Griffith	Insp.
+
+Pat Woodruff	2025	Peyton	"
+
+E. Virginia Reynolds	1605 Pacific	Clerk
+
+Beverly D. Trice	1400 Ardmore	"
+
+COUNTING BOARD (NIGHT)
+
+Dorothy L. Warren	2012 Bracken	Insp.
+
+Katherine Farmow	1927 Peyton	"
+
+Thora B. Darling	1904 Sweeney	"
+
+Shirley L. Shortslieve	2404 Canosa	Clerk
+
+Betty Lough	1203 S. l6th	"
+
+LAS VEGAS PRECINCT NO. 66          VOTING BOARD (DAY)
+
+Alice M. Ladd	1223	Exley	Insp.
+
+Agnes Rothschild	1423	Exley	Insp. #l
+
+Rose Nordhagen	1812	Weldon Pl.	Insp.
+
+Alma McCombs	1217	Exley	Clerk
+
+Helen M. Brown	624	N. l6th	"
+
+COUNTING BOARD (NIGHT)
+
+Alice M. Ladd	1223	Exley	Insp.
+
+Betty Brownstien	1215	Phillips	"
+
+Alma McCombs	1219	Exley	"
+
+Jean Wolf	812	Bonita	Clerk
+
+Dorothy Nielsen	201	S. 19th	"
+
+LAS VEGAS PRECINCT NO. 67          VOTING AND COUNTING BOARD (DAY AND NIGHT)
+Hazel W. Jarnovich	1633 E. San Francisco	Insp.
+
+B. Jeanne Norman	Box 2092	"
+
+Anna L. Fayle	1301 S. 7th	Insp.#l
+
+Yvonne L. Bartlett	1212 S. 9th	Clerk
+
+Doris Sellman	1612 S. 6th	"
+
+LAS VEGAS PRECINCT NO. 68          VOTING AND COUNTING BOARD (DAY AND NIGHT)
+
+Sara Feldman	1707	Santa Paula	Insp.
+
+Gladys Louque	524	Maryland	Pkwy	Insp.#l
+
+Nora Arnold	1061	Bracken	Insp.
+
+Beverly Johnson	1733	Howard	Clerk
+
+Georgia Butterfield	1415	Francis	"

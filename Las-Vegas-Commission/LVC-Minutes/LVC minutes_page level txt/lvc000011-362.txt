@@ -1,0 +1,52 @@
+﻿3 5 2 - B
+
+PRECINCT NUMBER
+
+62 a	Fire	Station #3,	West Bonanza Road
+
+62	b	Fire	Station #3,	West Bonanza Road
+
+63	Our Lady of Las Vegas School, Alta & Campbell Drive
+
+64	John C. Fremont Junior High School, 11th & St. Louis
+
+65	Carpenter's Hall, 2035 East Charleston Blvd.
+
+66	Christ Church Episcopal, 1100 St. Louis
+
+67	Christ Church Episcopal, 1100 St. Louis
+
+68	Culinary Worker's Hall, 110 New York
+
+69	Twin Lakes School, 3300 Riverside Drive
+
+70	Griffith Methodist Church, 1701 East Oakey Blvd.
+
+71	Griffith Methodist Church, 1701 East Oakey Blvd.
+
+72	Fire	Station #5,	Hinson Street
+
+73	Fire	Station #5,	Hinson Street
+
+74	Fire	Station #5,	Hinson Street
+
+75	Red Rock School All Purpose Room, Upland & Mayflower
+
+76	Madison School, Madison Avenue & "J" Street
+
+77	Kit Carson Elementary School, 1735 North	"D"	Street
+
+78	Kit Carson Elementary School, 1735 North	"D"	Street
+
+79	Cashman's Equipment Co., 1132 West Bonanza
+
+80	Kit Carson Elementary School, 1735 North "D" Street
+
+81	Jefferson Recreation Center, Jefferson & "D" Street
+
+82	ABSENT VOTERS - City Hall - 400 E. Stewart Avenue
+
+DATED this 27th day of March, 1959.
+
+/s/ C. D. Baker
+C. D.  BAKER, Mayor

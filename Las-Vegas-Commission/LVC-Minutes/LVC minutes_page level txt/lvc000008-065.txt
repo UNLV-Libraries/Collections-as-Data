@@ -1,0 +1,31 @@
+﻿Block 5
+
+Noblitt Addition
+
+LOT		REALTY	IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+1&2	Kaiser, Harry D. & Anne R. 200 Cervantes, City	$ 150.00	$ 1,420.00	$ 1,570.00	67.5	$ 125.07
+3&4	Baca, J.H. & Stella 204 Cervantes, L. V.	150.00	1,490.00	1,640.00	50	218.57
+5&6	Holm, Arne 0. & Dolores 208 Cervantes, L. V.	150.00	1,490.00	1,640.00	50	218.57
+7&8	Fitzgerald, Maurice E. & Beverley L.  212 Cervantes, L. V.	150.00	1,520.00	1,670.00	50	218.57
+9&  10	Strickler, Edwin C. &  Geraldine M  216 Cervantes, L. V.	150.00	1,460.00	1,610.00	5o	218.57
+11&  12	Edwards, Alton J. & Eunola M. 220 Cervantes, L. V.	150.00	1,460.00	1,610.00	50	218.57
+13&  14	Conner, Samuel Wills & Barbara Eunice 224 Cervantes, L. V.	150.00	1,460.00	1,610.00	5o	218.57
+15&  16	Kent, James C. & Marzelle 1913 So. 11th St., L. V.	150.00	1,460.00	1,610.00	5o	218.57
+17&  18	O’Connor, Dorothy B. 232 Cervantes, L. V.	150.00	1,1.60.00	1,610.00	5o	218.57
+19&  20	Teissedre, James C. & Louise M.  236 Cervantes, L. V.	150.00	1,1.60.00	1,610.00	5o	218.57
+21&  22	Skelton, John Ernest 240 Cervantes, L. V.	150.00	1,460.00	1,610.00	50	218.57
+23&  24	Johnson, Donald L. & Marilyn E. 244 Cervantes, L. V.	150.00	1,460.00	1,610.00	5o	218.57
+25&  26	Cook, Robert E. & Jeanette  Stanton Cook  2016 Stewart St., L. V.	150.00	1,495.00	1,645.00	50	218.57
+27&  28	Barnum, Verl E. & Nadine 241. No. 21st St., L. V.	150.00	1,1.35.00	1,585.00	50	218.57
+29&  30	Johnson, William E. & Sylvia 245 No. 21st St., L. V.	150.00	1,1.60.00	1,610.00	5o	218.57
+31&  32	Housley, Guy B. & Jean B. 241 No. 21st St., L. V.	150.00	1,460.00	1,610.00	5o	218.57
+33&  34	Tannahill, Lester & Lea 14 Bonneville, City	150.00	1,490.00	1,640.00	50	218.57
+35&  36	Claiborne, Charles D. & Madge 233 No. 21st St., L. V.	150.00	1,1.90.00	1,61.0.00	50	218.57
+37&  38	Templeton, Hershel Eugene & Ruby  229 No. 21st St., L. V.	150.00	1,1.90.00	1,61.0.00	50	218.57
+39&  40	Hyde, Charles W. & Virginia R. 225 No. 21st St., L. V.	150.00	1,460.00	1,610.00	50	218.57
+41&  42	Guccione, Frank & Shirley 221 No. 21st St., L. V.	150.00	1,1.90.00	1,61.0.00	50	218.57
+43&  44	Barrett, John E.  217 No. 21st St., L. V.	150.00	1,460.00	1,610.00	50	218.57
+45&  46	Harrod, Bert G. & Fannie L. 213 No. 21st St., L. V.	150.00	1,1.90.00	1,640.00	50	218.57
+47&  48	Dee, Elmet Wayne &  Jacqueline Ann  209 No. 21st St., L. V.	150.00	1,1.60.00	1,610.00	50	218.57
+49&  50	Pribble, Jack B. & Elaine V. 205 No. 21st St., L. V.	150.00	1,460.00	1,610.00	50	218.57
+51&  52	Pickens, Clyde & Lila M 201 No. 21st St., L. V.	150.00	1,465.00	1,615.00	68.4	129.01 

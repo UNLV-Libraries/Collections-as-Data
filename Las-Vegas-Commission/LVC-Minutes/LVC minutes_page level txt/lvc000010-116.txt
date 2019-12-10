@@ -1,0 +1,120 @@
+﻿SPECIAL ASSESSMENT DISTRICT
+#100-36
+
+ORIGINAL ROLL TOTAL	70 710,104.75
+
+Less Corrections:
+
+As shown	27,206.51
+
+Should be	22,509.93
+
+Net Corrections	(4,696.58)
+
+Total before valuation	adjustment	705,408.17
+
+Valuation adjustment	(21,032.49)
+
+NET ORIGINAL ROLL	684,375.68
+
+LOW BIDDER:
+
+Ideal Asphalt	555,122.25
+
+Add 15% overhead	83,268.34
+
+TOTAL COST	638,390.59
+
+CONVERSION FACTOR:
+
+$638,390.59 + 705,408.17	=	.9049946076
+
+RECONCILIATION:
+
+Total Cost	638,390.59
+
+Add decimal adjustments	 .13
+
+638,390.72
+
+Less excess cost over Assessed Valuation	(13,942.00)
+
+FINAL ROLL TOTAL	624,448.72
+
+FINAL
+
+LOT # PROPERTY OWNER	REALTY	IMPROVEMENTS	FORMULA	COST
+
+7	Watson, George & Fredenia
+
+1211 "H" St., L.V.	820.00	2,700.00	120	560.77
+
+8	Veley, George &	Rosalie
+
+1216 N. "H" St., L.V.	670.00	3,200.00	120	560.77
+
+9	Conway, Louis &	Luddie
+
+220 Jefferson Ave., L.V.	670.00	120	560.77
+
+10	Thompson, Harry	W. & Butler,
+
+Mary
+
+3825 W. Adams Blvd.,
+
+Los Angeles, California	670.00	900.00	120	560.77
+
+11	Taylor, Henry &	Marie
+
+716 Madison Ave., L.V.	670.00	120	560.77
+
+BLOCK 1 B.M. JONES SUBDIVISION
+
+1	Boob Jones Auto	Sales, Inc.
+
+1200 S. 5th St., L.V.	710	240	710.00
+
+2	Same as above	590=	239	590.00
+
+3	Hampton, Lula
+
+420 Washington Ave., L.V.	590	1,850.	239	724.23
+
+4	Perkins, Elois
+
+408 Washington Ave., L.V.	590	3,480.	238	812.24
+
+5 Irr.	(H.F.M. &M. )
+
+Perkins, Elois
+
+408 Washington Ave., L.V.	290	302	290.00
+
+5	Irr.	(Valley View)
+
+Miller, Iola Bell &
+
+Snowden, Myrtle
+
+412 Jefferson Ave., L.V.	345	180.	303	45l.09
+
+6	(Valley View)
+
+Tanner, Minnie
+
+903 "D" St., L.V.	710	480.	237	1056.12
+
+7	(N½ Valley View)
+
+Mason, L.J. & Lula
+
+923 N. "D" St., L.V.	355	1,600.	305	487.b3
+
+7	(S½ Valley View)
+
+Mason, William
+
+408 W.Adams,L.V.	355	304	355.00
+
+l-4-56

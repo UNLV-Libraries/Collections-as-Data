@@ -1,0 +1,133 @@
+﻿Page 1
+
+CITY BUDGETS
+
+Budget of the City of Las Vegas, 1937.
+
+Information Required:
+
+Assessed Valuation—	Actual	Estimated
+
+1936	1937
+
+Real Estate and improvements	$4,256,376.00	$4,250,000.00
+
+Personal Property (County tax roll
+
+plus Assessor's collections)	 470,981.00	 650.000.00
+
+Total Taxable Property	4,727,357.00	4,900,000.00
+
+Actual Tax rate 1936	$ 1.40
+
+Total city taxes levied 1937	$1.45
+
+A.	Unencumbered balance in City Treasury on January 1, 1937	$	39,842.99
+
+B.	Revenues from taxes already levied, estimated	42,601.56
+
+C.	Nontax revenues in 1937, estimated	94,170.79
+
+D.	Expenditures 1937, estimated	170,005.79
+
+E. Nontax revenues 1938 estimated	54,500.00
+
+F.	Expenditures 1938, estimated	132,159.65
+
+Explanation:
+
+A.	Unencumbered balance is total balance less warrants outstanding on January 1.
+Exclude all special funds.
+
+B.	Revenues from taxes already levied would include taxes levied in previous year and
+uncollected, and collections from taxes no delinquent.
+
+C.	See	Schedule	No.	1,	Col. 2.
+
+D.	See	Schedule	No.	2,	Col.	"2
+
+E.	See	Schedule	No.	1,	Col.	3.
+
+F.	See	Schedule	No.	2,	Col.	3.
+
+Page 2.
+
+SCHEDULE NUMBER 1
+REVENUES FROM NONTAX SOURCES
+
+General Fund	Actual	Estimated	Estimated
+
+1936	1937	1938
+
+Licenses	$64,275.20	$60,500.00	40,000.00
+
+Fines and fees	10,131.70	9,000.00	6,000.00
+
+Permits	2,262.20	1,500.00	1,000.00
+
+Poll Taxes	8,386.00	6,500.00	6,500.00
+
+Sales and rentals	2,149.50	1,500.00	1,000.00
+
+Special street improvements	17,326.88	15,170.79        -0-
+
+Miscellaneous	    543.08           -0-           -0-   
+
+Total	$105,074.96	$94,170.79	$54,500.00
+
+Page 3.
+
+SCHEDULE NUMBER 2
+CITY EXPENDITURES
+
+Actual	Estimated	Estimated
+
+	 1936	1937	1938
+
+Administration salaries	$10,248.00	$7,000.00
+
+Administration expenses	3,464.09	5,	105.00
+
+Police salaries	25,136.46	17,800.00
+
+Police department expenses	10,585.93	6,400.00
+
+Fire Department salaries	448.55	600.00
+
+Fire department expenses	4,513.18	1,920.00
+
+Street department salaries	22,668.92	13,	900.00
+
+Street department expenses	16,973.60	7,800.00
+
+City parks	8,338.64	8,020.00
+
+Legal expenses	4,799.58	4,000.00
+
+Electric lights and power	19,263.03	9	,050.00
+
+Sewage disposal	8,201.73	3,160.00
+
+Health and sanitation	11,892.93	6	,350 00
+
+Airports	1,888.38	500.00
+
+Insurance, fire	397.71	400.00
+
+Insurance, industrial	3,366.95	3,	000.00
+
+Bond redemption	25,827.28	25,827.28
+
+Bond interest	13,919.52	12,273.51
+
+Cemetery	2,852.20	500.00
+
+Library	1,858.00	1,400.00
+
+Publicity	446.00	5,000.00
+
+Underpass	3,000.00	-0-
+
+General Fund		     57.50	30,000.00                 
+
+TOTAL	$200,149.08			  $170,005.79    $132,159.65

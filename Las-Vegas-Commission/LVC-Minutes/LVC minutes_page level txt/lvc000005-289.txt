@@ -1,0 +1,104 @@
+﻿APPLICANT	LOCATION	TYPE
+
+Lee Hughes	Low Price Market, 131 No. Main St.	1 Slot
+
+W. E. Greene	Mandalay Bar, 111 Fremont St.	10 Slots
+
+J. W. McMichael	The Market Spot, 117 Carson St.	4 Slots
+
+Mark Schulman	Mark's Food Company, 1500 Fremont	6 Slots
+
+Mike Gordon	Mike’s Liquor Store, 106 Fremont	4 Slots
+
+R. D. Bingham	Modern Food, 315 Fremont St.	2 Slots
+
+Phyllis Helm	Mom’s Lunch, 1401 Fremont St.	2 Slots
+
+Thos. A. Campbell and Nevada Biltmore Hotel,	9 slots
+
+Kinsley	600 North Main St.	1 Crap
+
+2 ”21" Games
+
+1	Roulette
+
+Sun Wing Won	New Overland Cafe, 6 Fremont	4 Slots
+
+Chas. A. Bennett	Oasis Cafe, 123 Fremont St.	4 slots
+
+Boysie Ensley	Oklahoma Cafe, 220 No. 1st. St.	3 Slots
+
+L. VanDer Meer	Oppedyk Dairy, 1000 No. Main St.	1 slot
+
+Pat Rozzelle	Orange Julius, 405 Fremont St.	5 slots
+
+Lee Hughes	Orton’s Grill, 121 So. 5th. St.	2 Slots
+
+Sid Martin	Overland Bar, 6 Fremont	4 slots
+
+L. M. Wilson	Overland Hotel, Main & Fremont	2 Slots
+
+R. Roschl	P & B Cafe, 201 No. l3t. St.	1 Slot
+
+Lee Hughes	Pearl’s Cafe, 224 No. 1st. St.	2 Slots
+
+Charles Addison	Pioneer	Club (Club) 25 Fremont	38	Slots
+
+2	Pan
+
+1	Race	Horse Keno    6	Poker
+
+7 "21"	Games	2	Craps
+
+2	Roulette	1	Faro Bank
+
+Cocktail Lounge	7 Slots
+
+George G. Parry	Playland Arcade, 129 So. 1st. St.	43	Slots
+
+Guy McAfee	Pool Hall, 125 Fremont Street	9 Slots
+
+Lee Hughes	Prescription Pharmacy, 814 Fremont	1 Slot
+
+"	"	Professional Pharmacy, 423 Fremont 4 Slots
+
+P. O. Silvagni	S. S. Rex, 2nd and Fremont Street	28	Slots
+
+2 Poker
+
+1 Pan	2	Roulette
+
+4	"21"	Games	1	Faro Bank
+
+1 Race Horse Keno
+
+Sid Martin	Sal Sagev Tavern, 1 Fremont	8 Slots
+
+John A. Katsaros	Sam’s Cafe, 320 Fremont Street	5 Slots
+
+Lee Hughes	Shady Rest Cafe, F & Jackson	2 Slots
+
+Orpha Sill Miller	Sill’s, 5th & Charleston	4	Slots
+
+John H. Blandford	Silver	Cafe,	106	No.	1st.	St.	4	Slots
+
+"	"	"	Silver	Club,	108	No.	1st.	St.	2	Slots
+
+Joe Morgan	Silver	Club,	106	No.	1st.	St.	1	Roulette
+
+2 "21" Games
+2 Craps
+
+R. Roschl	Silver State News Stand, 110 So.	2nd.  4	Slots
+
+Lee Hughes	Silver State Texaco, 5th & Fremont	1	Slot
+
+R. Roschl	Smith’s Rootbeer Stand, No. 3rd and
+
+Stewart	1	Slot
+
+Frank Lancaster	Snyder's Grocery, 300 Bonanza	2	Slots
+
+L. L. Snyder	Snyder’s Grocery, 300 Bonanza	1	Slot
+
+Ted Konduris	S. W. Liquor Store, 101 Carson	3	Slots

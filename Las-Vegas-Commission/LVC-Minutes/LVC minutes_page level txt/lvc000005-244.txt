@@ -1,0 +1,149 @@
+﻿NAME	REPRESENTATIVE	ADDRESS	TYPE
+
+Food Center	Albert Goot	770	Fremont St.	5	slots
+
+Foreign Club	Walter Argyle	1ll	No. 1st. St.	2	slots
+
+Fremont Arcade	M. B. Abrams	105	Fremont	34	slots
+
+1 craps
+1 "21"
+
+Fremont Tavern	James Fare	105	So. First	3	slots
+
+Frontier Club	J. W. Schaum	117	Fremont	37	slots
+
+3	blackjack	1	pan
+
+4	poker	3	craps
+
+2	roulette	1	keno
+
+1 hopper keno-102 ch.   1	race	horse
+
+book
+
+Gilbert Bros.	Jimmie Fulcher	316 Bonanza	4	slots
+
+Golden Camel Bar	Joe Morgan	110 No. 1st. St.	4	slots
+
+Horseshoe Cafe	John Montoya	118½ North First St.    2	slots
+
+Hughes Grocery	Lee Hughes	Jackson 509	1	slot
+
+Jackpot Club	Nate Mack	116 Fremont	5	slots
+
+1 "21"
+
+1 craps
+1 roulette
+
+Jimmies Bar	R. Roschl	807 So. Main St.	3	slots
+
+John’s Desert Inn	John Anton	1503 So. 5th. St.	1	slot
+
+Johnson Grocery	Blaine Johnson	630 South 5th. St.	1	slot
+
+Kiva Bar	P. O. Silvagni	2nd and Fremont	8	slots
+
+Kiva Bar	Jack Pruitt	2nd and Fremont	1	slot
+
+Knipp, George	Jack Weisberger	1711 Fremont	1	slot
+
+Las Vegas	Barbecue	Louis	DuBois	22	Fremont	3	slots
+
+Las Vegas	Club	J.	K.	Houssels	21-23 Fremont	29	slots
+
+1 pan	1 poker
+
+3	"21"	1	roulette
+
+1 craps	1 faro
+
+1 race horse	book	1	r.h.keno
+
+1	tango-130 chairs
+
+Las Vegas Liquor Store	Charles Travis	812 Fremont	1	slot
+
+Las Vegas	Pharmacy	W.	E.	Ferron	32	Fremont	2	slots
+
+Las Vegas	Tavern	J.	K.	Houssels	19	Fremont	7	slots
+
+Lee's Drive Inn	Lee Hughes	10th and Fremont	2	slots
+
+Leonard’s Stand	Pat Rozzelle	324½ Fremont	5	slots
+
+Lido Bar	Anna Mae Weller	107 North First	4	slots
+
+Log Cabin	Jack Pruitt	124 North First	1	slot
+
+Log Cabin	Clifford Griggs	122 North First	3	slots
+
+Low Price Market	Lee Hughes	Main and Stewart	1	slot
+
+Mandalay Bar	W. E. Greene	111 Fremont	10	slots
+
+Market Spot	J. W. McMichael	117 Carson	4	slots
+
+Marks Food Company	Mark S. Schulman	1500 Fremont	6	slots
+
+Mike’s Liquor Store	S. J. Gordon	106 Fremont	4	slots
+
+Mom’s Lunch	Phyllis Helm	1401 Fremont	2	slots
+
+Nevada Bar	Ralph S. Purdy	115 North 1st. St.	5	slots
+
+Nevada Biltmore	Thomas A. Campbell	600 North Main	9	slots
+
+2	"21" - 1 roulette 1	craps
+
+Nevada Coffee Shop	George J. Adras	113 North First	2	slots
+
+New Overland Cafe	Sun Wing Won	6 Fremont	4	slots
+
+Oasis Cafe	Charles Bennett	123 Fremont	4	slots
+
+Oklahoma Cafe	Boysie Ensley	220 North 1st. St.	3	slots
+
+Oppedyk Dairy	M. Wan Der Meer	600 North Main St.	1	slot
+
+Orange Julius	Pat Rozzelle	405 Fremont	5	slots
+
+Orton’s Grill	Lee Hughes	121 South 5th. St.	2	slots
+
+Overland Bar	J. K. Houssels	6 Fremont	4	slots
+
+Overland Hotel	L. M. Wilson	Main and Fremont	2	3lots
+
+P and B Cafe	R. Roschl	200 North First	1	slot
+
+Pioneer Club	Charles Addison	25 Fremont	38	slots
+
+2 pan	6 poker
+
+1	race horse	keno	7 "21"
+
+2	roulette	2 craps
+
+1 faro bank
+
+Pioneer Lounge	Charles Addison	25 Fremont	7	slots
+
+Playland Arcade	George Parry	129 So. First	41	slots
+
+Pony Express	Earl E. Wilson	123 So. 1st. St.	7	slots
+
+Pool Hall	Guy McAfee	125 Fremont	9	slots
+
+Prescription Pharmacy	Lee Hughes	814 Fremont	1	slot
+
+Professional Pharmacy	Lee Hughes	423 Fremont	4	slots
+
+Rancho Grande Creamery	Bert O’Donnell	406 South Second	1	slot
+
+Recreation Tavern	V. M. Benson	123 South Second	4	slots
+
+Red’s Richfield	Jack Weisberger	300 Fremont	1	slot
+
+Rex Bar	R. Roschl	128 South first	2	Blots

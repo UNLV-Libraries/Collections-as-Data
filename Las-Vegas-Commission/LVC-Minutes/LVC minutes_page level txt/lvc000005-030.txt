@@ -1,0 +1,183 @@
+﻿GAMING - renewals	Slot Machine	101 Fremont	34 slot machines
+
+Boulder Liquor Store   423 Fremont	3	"	"
+
+Silver State Newsstand 110	S. 2nd	4	"	"
+
+Rex Bar	128	S. 1st	2	"	"
+
+Jimmies Bar Cafe	807	S. Main.	2	"	"
+
+Dick's Bar	118	N. 1st	1	"	"
+
+Star Drive Inn	325	N. 5th	1	"	"
+
+P & B Cafe	202	N. 1st	1	"	"
+
+Yon-Del's	508	Fremont	1	"	"
+
+Tower Service Station 125	S. 5th	1	"	"
+
+Exchange Bar	123	S. 1st	2	"	"
+
+Sill's	5th	& Charleston	4	"	"
+
+Wimpy's	210	Fremont	3	"	"
+
+Trail Cafe	13 Fremont	1	"	   "
+
+Orange Julius	405	Fremont	4	"	"
+
+Mandalay Bar	111	E. Fremont	9	"	"
+
+Richfield Station	5th	& Fremont	1	"	"
+
+Geo Knipp	5th	& Fremont	1	"	"
+
+Frontier Club	117	E. Fremont	40	"	"
+
+"	2	crap games
+
+"	5	twenty-one
+
+"	2	roulette
+
+"	1	big six
+
+"	2	pan
+
+"	5	poker
+
+"	1	race horse keno
+
+"	1 hopper keno - 102 chairs
+
+Sam's Cafe	320 E. Fremont	5	 slot 	machines
+
+Sal Sagev Hotel Lobby  5 Fremont	5	"	"
+
+Professional Drug	421	Fremont	1	"	"
+
+Fremont Arcade	105	Fremont	32	"	"
+
+Shine Parlor	102	N. 1st	1	"	"
+
+B.	& H. Store	402 Bonanza Rd.	1	"	"
+
+Snyder Store	300	"	"	1	"	"
+
+Shell Oil Station	5th	& Main	1	"	"
+
+Reed’s Pool Hall	226	N. 1st	4	"	"
+
+Nevada Biltmore	600	N. Main	8	"	"
+
+"	2	twenty one
+
+"	1	roulette
+
+"	1	crap
+
+Log Cabin Bar	122 N. 1st	3 slot machines
+
+The Market Spot	117	Carson	4	"	"
+
+Anna B. Kennedy	201	Bridger	2	"	"
+
+Busy Bee Cafe	105	N. 1st	2	"	"
+
+Foreign Club	111	N. 1st	2	"	"
+
+Sal Sagev Tavern	1 Fremont	9	"	"
+
+Las Vegas Barbecue	22 Fremont	3	"	"
+
+Tivoli Bar	126 N. 1st	3	"	"
+
+Edward Tip Rowe	1516 S. 5th	2	"	"
+
+Associated Service	10th & Fremont	2	"	"
+
+Fremont Arcade	105	Fremont	2	craps	- 1 twenty-one
+
+White Cross Drug	201 Fremont	2	 slot 	machines
+
+Las Vegas Pharmacy	32 Fremont	2	"	"
+
+Overland Bar	6 Fremont	3	"	"
+
+Silver Club	108	N. 1st	1	 Roulette
+
+"	1	Craps
+
+"	2	Twenty-one
+
+Lido Bar	107	N. 1st	6	slot	machines
+
+Mike's Liquor Store	106 Fremont	4	"	"
+
+Rancho Grande Creamery 406	S.	2nd	1	"	"
+
+Navajo Grill	419	S.	5th	1	"	"
+
+Al's Bar	118	S.	1st	12	"	"
+
+R. Garner	123	S.	2nd	4	"	"
+
+Opedyke Dairy	600	N.	Main	1	"	"
+
+Adams Grocery	816	E.	Fremont	1	"	"
+
+Camel Bar	110	N.	1st	4	"	"
+
+Silver Cafe	108 N. 1st	4	"	"
+
+Silver Club	108 N. 1st	2	"	"
+
+Oklahoma Cafe	220 N. 1st	1	"	"
+
+"	1 poker - 1 crap
+
+Professional	Drug	421	Fremont	4	slot	machines
+
+Peggy's Cafe	124 S. 1st	4	"	"
+
+El Cortez Hotel	6th & Fremont	17	"	"
+
+"	1 twenty-one, 1 roulette, 1 dice
+
+Las Vegas Tavern	19 Fremont	8	 slot 	machines
+
+West Side Tavern	206 W. Wilson	3	"	"
+
+A.T. Spatz 	101 Carson Rd.	1	"	"
+
+Underhill Bowling Alley l25 S. 2nd	10	"	"
+
+Underhill Pool Hall	125 Fremont	9	"	"
+
+Eight Ball Bar	117 N. 1st	8	"	"
+
+Nevada Bar	115 N. 1st	6	"	"
+
+Read City Drug	231 Fremont	11	"	"
+
+Signal Oil Co	4th & Fremont	1	"	"
+
+Overland Cafe	8 Fremont	1	"	"
+
+Gilbert’s Store	314 W. Bonanza	4	"	"
+
+Cornets Variety Store	Fremont	3	"	"
+
+Betty's Cafe	1039 S. Main	2	"	"
+
+Play - Land	127 S. 1st	34	"	"
+
+Las Vegas Club	23 Fremont	30	"	"
+
+Pioneer Club	25 Fremont	45	"	"
+
+1	Faro, 2 pan, 6 poker, 1 race horse keno, 6 21, 3 roulette
+
+2	craps.

@@ -1,0 +1,65 @@
+﻿Administration salaries	$ 45,821.75	$	64,446.11	$67,000.00
+
+Administration Expenses	13,868.66	13,817.50	16,200.00
+
+Police Salaries	92,524.29	85,180.00	87,000.00
+
+Police department expenses	22,080.99	24,277.00	74,000.00
+
+Fire department salaries	58,296.64	57,738.00	66,000.00
+
+Fire department expenses	18,459.73	28,350.00	36,000.00
+
+Street department salaries	50,040.73	50,647.00	55,000.00
+
+Street department expenses	33,848.85	49,250.00	75,000.00
+
+City parks	7,364.67	8,780.00	17,000.00
+
+Legal expenses	3,561.54	3,125.00	3,500.00
+
+City court	1,540.00	3,790.00	4,500.00
+
+Electric lights and power	13,833.13	16,088.00	20,000.00
+
+Motor vehicles - included in depts.	-	-
+
+Sewage disposal and sewer maintenance	14,441.81	31,361.58	32,500.00
+
+Health and sanitation and garbage	52,651.73	70,456.00	67,000.00
+
+Civilian Defense	4,004.41
+
+Airports	396.42	830.00	600.00
+
+City Hall expense	2,457.11	4,650.00	4,500.00
+
+Insurance fire	-	-	-
+
+Insurance, all	14,767.93	18,400.00	15,800.00
+
+Elections	2,576.87	-	3,000.00
+
+Bond redemption	12,500.00	13,500.00	13,500.00
+
+Bond interest	6,495.00	5,730.00	4,905.00
+
+Recreation and educational	15.103.31	17,653.31	33,000.00
+
+Miscellaneous	4,040.90	2,000.00	2,000.00
+
+Cemetery fund	7,032.47	17,079.25	12,000.00
+
+Emergency loan	51,093.78	-
+
+Land Acquisition	-	5,000.00
+
+TOTAL:	$548,802.72	$592,148.75	$710,005.00
+
+# # # #
+
+SCHEDULE NUMBER 2	(page 3)
+
+AMENDED
+
+CITY EXPENDITURES

@@ -1,0 +1,57 @@
+﻿55
+
+Block 26 (con't)
+14th Street Addition
+
+LOT		REALTY
+8	Williams, Emerson D. & Louis Le Fuun W.  505 Bruce St., L. V.	$ 300.00
+9	Lawson, Theo & Margaret Box 1912, L. V.	300.00
+10	Sulawske, John Jr. & Eunice Hall Sulawske 513 N. Bruce St., L. V.	300.00
+11	La Vance, Roy & Helen Ruth Box 498, L. V.	300.00
+S  61.91  Lot  12	Dimaggio, Anthony J. & Genevieve  521 N. Bruce St., L. V.	300.00
+Block 1  Gibson & Jones Addition		
+LOT		REALTY
+13	Fails, Evna Marie C/0 Pioneer Club, L. V.	$ 850.00
+14	Cecil, William R. & Helen M. 2217 Ash St., L. V.	200.00
+15	Glover, Charles 0. & Kathleen 2213 Ash St., L. V.	200.00
+16	Stockton, James L. & Pauline 2211 Ash St., L. V.	200.00
+17	Pfleeger, Roy J. & Betty L. 106 E Bonanza Rd., L. V.	670.00
+18& Petty, Lavelle E. & Verne H. E1/2 19 2201 Ash St., L. V.  W1/2 19 Gibson A.P. & Rachel Ann 2117 Ash St., L. V.		300.00  335.00
+20	Gibson, Alson P. 2117 Ash St., L. V.	200.00
+21	Thompson, William Ladd Jr. 62S So. 8th St., L. V.	200.00
+22	King, Harley A. & Evelyn L. C/0 Pecolle Realty Co.  311 So. 5th St., L. V.	200.00
+23& Waterman, Ethel M. 24 2105 Ash St., L. V. 63.90'  11.2.25		400.00
+Block 2  Gibson & Jones Addition		
+LOT		REALTY
+1	Worthen, Charles E. & Grace S. 2100 Ash Ave., L. V.	$ 200.00
+2	Coe, John D. & Jean Alice 2104 Ash St., L. V.	305.00
+3	Coady, Ray & Viola & Raymond L.  2108 Ash St., L. V.	200.00
+4	Smith, Paul G. & Beatrice R. 2112 Ash St., L. V.	200.00
+5	Bennett, Leonard N. & Cleta F. 2116 Ash St., L. V.	200.00
+
+IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+$ 1,335.00	$ 1,635.00	60 	$ 364.29
+1,455.00	1,755.00	•  60	364.29
+1,405.00	1,705.00	60	364.29
+1,295.00	1,595.00	60	364.29
+1,290.00	1,590.00	61.91	375.88
+
+IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+$	$ 850.00	63.1.0	$ 384.93
+1,295.00	1,1.95.00	50	303.57
+1,240.00	1,440.00	50	303.57
+905.00	1,105.00	50	303.57
+	670.00	5o	303.57
+1,460.00	1,760.00	75	455.36
+	335.00	25	151.79
+1,630.00	1,830.00	50	303.57
+1,670.00	1,870.00	5o	303.57
+1,320.00	1,520.00	50	303.57
+1,125.00	1,525.00	113.90	691.51.
+
+IMPROVEMENTS	TOTAL	FRONTAGE  FEET	COST OF IMPROVEMENTS
+$ 855.00	$ 1,055.00	63.59	$ 386.08
+365.00	670.00	50	303.57
+1,935.00	2,135.00	50	303.57
+1,510.00	1,710.00	50	303.57
+1,105.00	1,305.00	50	303.57

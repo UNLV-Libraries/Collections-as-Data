@@ -1,0 +1,183 @@
+﻿CUMMINGS, PHIL
+
+Las Vegas	Precinct	No.	1	63
+
+Las Vegas	Precinct	No.	2	33
+
+Las Vegas	Precinct	No.	3	33
+
+Las Vegas	Precinct	No.	4	18
+
+Las Vegas	Precinct	No.	5	35
+
+Las Vegas	Precinct	No.	6	23
+
+Las Vegas	Precinct	No.	7	33
+
+Las Vegas	Precinct	No.	8	7
+
+Las Vegas	Precinct	No.	9	35
+
+Las Vegas	Precinct	No.	10	30
+
+Las Vegas	Precinct	No.	11	29
+
+Las Vegas	Precinct	No.	12	39
+
+Las Vegas	Precinct	No.	13	36
+
+Las Vegas	Precinct	No.	14	32
+
+Las Vegas	Precinct	No.	15	31
+
+Las Vegas	Precinct	No.	16	14
+
+Total 491
+
+RUBIDOUX, A. P.
+
+Las Vegas	Precinct	No.	1	51
+
+Las Vegas	Precinct	No.	2	27
+
+Las Vegas	Precinct	No.	3	28
+
+Las Vegas	Precinct	No.	4	24
+
+Las Vegas	Precinct	No.	5	19
+
+Las Vegas	Precinct	No.	6	25
+
+Las Vegas	Precinct	No.	7	19
+
+Las Vegas	Precinct	No.	8	25
+
+Las Vegas	Precinct	No.	9	38
+
+Las Vegas	Precinct	No.	10	8
+
+Las Vegas	Precinct	No.	11	46
+
+Las Vegas	Precinct	No.	12	23
+
+Las Vegas	Precinct	No.	13	34
+
+Las Vegas	Precinct	No.	14	41
+
+Las Vegas	Precinct	No.	15	24
+
+Las Vegas	Precinct	No.	16	27
+
+Total 459
+
+WEST. EARL
+
+Las Vegas	Precinct	No.	1	26
+
+Las Vegas	Precinct	No.	2	18
+
+Las Vegas	Precinct	No.	3	10
+
+Las Vegas	Precinct	No.	4	8
+
+Las Vegas	Precinct	No.	5	8
+
+Las Vegas	Precinct	No.	6	21
+
+Las Vegas	Precinct	No.	7	7
+
+Las Vegas	Precinct	No.	8	9
+
+Las Vegas	Precinct	No.	9	13
+
+Las Vegas	Precinct	No.	10	14
+
+Las Vegas	Precinct	No.	11	32
+
+Las Vegas	Precinct	No.	12	5
+
+Las Vegas	Precinct	No.	13	20
+
+Las Vegas	Precinct	No.	14	15
+
+Las Vegas	Precinct	No.	15	4
+
+Las Vegas	Precinct	No.	16	12
+
+Total 222
+
+On the Question "Shall the City of Las Vegas Adopt a City Manager Form of
+
+Municipal Government?”
+
+VOTING - YES
+
+Las Vegas	Precinct	No.	1	63
+
+Las Vegas	Precinct	No.	2	57
+
+Las Vegas	Precinct	No.	3	83
+
+Las Vegas	Precinct	No.	4	61
+
+Las Vegas	Precinct	No.	5	68
+
+Las Vegas	Precinct	No.	6	83
+
+Las Vegas	Precinct	No.	7	78
+
+Las Vegas	Precinct	No.	8	44
+
+Las Vegas	Precinct	No.	9	35
+
+Las Vegas	Precinct	No.	10	50
+
+Las Vegas	Precinct	No.	11	42
+
+Las Vegas	Precinct	No.	12	87
+
+Las Vegas	Precinct	No.	13	68
+
+Las Vegas	Precinct	No.	14	63
+
+Las Vegas	Precinct	No.	15	59
+
+Las Vegas	Precinct	No.	16	41
+
+Total 982
+
+VOTING - NO
+
+Las Vegas	Precinct	No.	1	104
+
+Las Vegas	Precinct	No.	2	55
+
+Las Vegas	Precinct	No.	3	56
+
+Las Vegas	Precinct	No.	4	31
+
+Las Vegas	Precinct	No.	5	48
+
+Las Vegas	Precinct	No.	6	47
+
+Las Vegas	Precinct	No.	7	40
+
+Las Vegas	Precinct	No.	8	25
+
+Las Vegas	Precinct	No.	9	47
+
+Las Vegas	Precinct	No.	10	41
+
+Las Vegas	Precinct	No.	11	69
+
+Las Vegas	Precinct	No.	12	52
+
+Las Vegas	Precinct	No.	13	50
+
+Las Vegas	Precinct	No.	14	67
+
+Las Vegas	Precinct	No.	15	43
+
+Las Vegas	Precinct	No.	16	47
+
+Total 822

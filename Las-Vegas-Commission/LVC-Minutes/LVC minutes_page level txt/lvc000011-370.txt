@@ -1,0 +1,105 @@
+﻿352 J
+
+OPERATING EXPENSE	CITY MANAGER 04
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+)___________ 1957-58	1958-59	1959-60
+
+Administration	01	34,248.57	36,002.00	39,013.00
+
+TOTAL OPERATING EXPENSES	34,248.57	.	36,002.00	39,013.00
+
+CAPITAL OUTLAY
+
+Office Equipment	255.00	1,100.00	1,000.00
+
+TOTAL CAPITAL OUTLAY	255.00	1,100.00	1,000.00
+
+DEPARTMENTAL TOTAL	34,503.57	37,102.00	40,013.00
+
+PERSONNEL SCHEDULE
+
+CITY MANAGER 04
+
+Title	Authorized	Employed	Budget
+
+_______ 1958-59	12-31-58	1959-60
+
+City Manager	1	1	1
+
+Administrative Assistant	1	1	1
+
+Secretary - Steno.	2	2	2
+
+TOTAL	4	4	4
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+_______ Range___________________________________________________
+
+City Manager	1,250.00
+
+Administrative Assistant	715.00 - 867.00
+
+Secretary - Steno.	308.00 - 370.00
+
+OPERATING EXPENSE	CITY ATTORNEY 06
+
+Function	Expenditures	Expenditures	Expenditures
+
+_______________________ 1957-58	1958-59_________________ 1959-60
+
+Administration	01	37,240.36	33,154.00	36,961.00
+
+Criminal Prosecution	02	-0-	-0-	-0-
+
+TOTAL OPERATING	EXPENSES	37,240.36	33,154.00	36,961.00
+
+CAPITAL OUTLAY
+
+Office Equipment	377.50	_______300.00	______400.00
+
+TOTAL CAPITAL OUTLAY	377.50	 300.00	400.00
+
+DEPARTMENTAL TOTAL	37,617.86	33,454.00	37,361.00
+
+PERSONNEL SCHEDULE
+
+CITY ATTORNEY 06
+
+Title	Authorized	Employed	Budget
+
+_______ 	1958-59	12-31-58	1959-60
+
+City Attorney	1	1	1
+
+Deputy City Attorney	1	1	1
+
+Attorney	1	1	1
+
+Sec. -Steno	1	1	1
+
+Sr. Steno - Clerk	1	1	1
+
+TOTAL	___5_	5	5
+
+SALARY SCHEDULE
+
+Title	Monthly
+
+_______ Salary Range
+
+City Attorney	625.00	-	750.00
+
+Deputy City Attorney	750.00	-	910.00
+
+Attorney	489.00	-	591.00
+
+Sec. - Steno	308.00	-	370.00
+
+Sr. Steno - Clerk	282.00	-	338.00

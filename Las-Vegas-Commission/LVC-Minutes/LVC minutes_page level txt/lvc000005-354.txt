@@ -1,0 +1,163 @@
+﻿Applicant	Name of Concern	Address	Device
+
+Orpha Sill Miller	Wimpy's Cafe	210	Fremont	3 slots
+
+Orpha Sill Miller	Sill's Drive	Inn	5th	and Charleston	4 slots
+
+Joe Morgan	Silver Club	108	No. 1st	2 slots
+
+George Parry	Playland	129	So. 1st	50 slots
+
+Robert Kroloff	Ace Bar	111	So. 1st	16 slots
+
+M.B. Abrams	Fremont Arcade	105	Fremont	35 slots
+
+M.B. Abrams	Slot Machine	101	Fremont	34 Slots
+
+Joe Morgan	Golden Camel Bar	110 North 1st	4 slots
+
+Joe Morgan	Silver Cafe	106	No. 1st	4 slots
+
+Clifford Griggs	Log Cabin Bar	122	No. 1st	3 slots
+
+Joe Cornet	Cornet's 5 &	10	205	Fremont	3 slots
+
+Charles Addison	Pioneer Cocktail Lounge	25 Fremont	7 slots
+
+Charles Addison	Pioneer Club	25 Fremont	38 slots
+
+2 pan
+
+5	poker
+
+1	Race Horse Keno
+
+6	"21"
+
+2	Roulette
+
+3	Craps
+
+S. J. Gordon	Mike's Liquor Store	106 Fremont	4 slots
+
+Mark Schulman	Mark's Food Company	1500 Fremont	6 slots
+
+Josie Dondich	Cut Rate Liquor Store	123 South 5th	2 slots
+
+M. T. Shorie	Frontier Club	117 Fremont	38 slots
+
+	3 crap
+
+3	"21"
+
+1 Pan
+5 Poker
+
+1 Race Horse Keno
+1 Hopper Keno
+1 Race Horse Book
+
+John Anton	John's Desert Inn	1503 So. 5th	1 slot
+
+A.R. Stowell	Charleston Grocery	19 W. Charleston	3 slots
+
+M. T. Shorie	Golden Nuggett	125 Fremont	1 poker
+
+1	craps
+
+Joe Morgan	Silver Club	108 No. 1st	2 "21"
+
+2	Craps
+1 Roulette
+
+Walter Argyle	Foreign Club	111 No. 1st	2 slots
+
+A. H. Stevenson, Jr. Boulder Club, Inc.	122 Fremont	4 slots
+
+W.E. Greene	Mandaly Bar	111 Fremont	10 slots
+
+Ethel Rappaport	Ethel's Liquor Store	409 Fremont	1 slot
+
+Ethel Rappaport	Ethel's Liquor Store	28 Fremont	1 slot
+
+Earl Turman	Earl's Liquor Store	501 Jackson	3 slots
+
+M.T. Shorie	Rex Club	128 Fremont	23 Slots
+
+1	crap
+
+3	"21"
+
+2	Roulette
+2 poker
+
+1	Race Horse Keno
+
+A. H. Stevenson, Jr. Boulder Club, Inc.	118-20 Fremont	33 Slots
+
+2	Poker
+
+1	Tango - 100 Chairs
+
+2	roulette
+2 craps
+1 Faro
+1 Big "6" Wheel
+5 "21"
+
+1 Race Horse Book
+
+Earl Turman	Earl's Place	501 Jackson	2 Poker
+
+1	Crap
+
+M.B. Hicks	Club Savoy	116 Fremont	7 slots
+
+2	"21"
+
+1 crap
+1 Roulette
+
+Earl E. Wilson	Pony Express	123 So. 1st	7 slots
+
+G.E. Kinsey	Nevada Biltmore Hotel 	600 No. Main	9 slots
+
+1	crap
+
+2	"21"
+
+1	Roulette
+
+L. L. Snyder	Snyder's Grocery	300 Bonanza	4 slots
+
+Ted Konduris	S.W. Liquor Store	101 Carson	3 slots
+
+Sid Martin	Sal Sagev Tavern	1 Fremont	8 slots
+
+John Miller	Sal Sagev Hotel	Main and Fremont	3	slots
+
+John Miller	Sal Sagev Cafe	Main and Fremont	2	slots
+
+R. R. Russell	Apache Hotel	3rd and Fremont	3 slots
+
+Pat Rozzele	Smith's Hamburger	324½ Fremont	5	slots
+
+Pat Rozzele	Orange Julius Co.	405 Fremont	5	slots
+
+Pat Rozzele	Stephen's Market	729 So. 5th	3	slots
+
+Boysie Ensley	Oklahoma Cafe	220 North 1st	3 slots
+
+Mervyn Rosenthal	Monte Carlo (New Owner)	15 Fremont	18 slots
+
+2	craps
+2 "21"
+
+2 Roulette
+1 Hazard
+
+Madeline N. Love	Love Cafe		127 So. 2nd St.	3 slots
+
+Harry Farnow	Boulder Drug Co.				   121 E. Fremont	7 slots
+
+P.O. Silvagni	Apache Bar	2nd and Fremont	10 slots

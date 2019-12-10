@@ -1,0 +1,172 @@
+﻿Cocktail Lounge	122	Fremont	4	Slots
+
+BROWN DERBY CAFE	P. L. Jefferson	320	Monroe	4	Slots
+
+BUS TERMINAL CAFE	Mon Woo	127	South 1st	2	Slots
+
+BUSH'S BAR-B-Q	Gayer Co.,-Lee Hughes	E &	Jackson	2	Slots
+
+BUSY BEE CAfE	John Stathis	105	North 1st	2	Slots
+
+CHARLESTON INN	A. R. Stowell	19 W. Charleston	3 Slots
+
+CHRISTIE STEAK HOUSE	George G. Parry	122	South 1st	4	Slots
+
+CINNABAR	L. P. Lawrence	103	South 1st	5	Slots
+
+CLUB SAVOY	J. A. Alexa	116	Fremont	16	Slots
+
+2	"21" games
+1 Craps
+1 Roulette
+
+CORK 'N BOTTLE	E. Van Tassel	508 Fremont	3 Slots
+
+COTTON CLUB	Gayer	Co., -	Lee	Hughes	E	and Jackson	1	S1ot
+
+COTTON CLUB	Susie	Parker	E	and Jackson	6	Slots
+
+1	"21" Game
+
+2	Poker
+
+1	RH Keno
+
+ 	1 Craps
+
+CUTY RATE LIQUOR STORE Josie Dondich	132 South 5th	2 Slots
+
+DEW DROP GROCERY	Gayer Co., -	Lee Hughes 	D and Jackson	1 Slot
+
+DOC’S	Edward Ladd	1200 S. Main	2 Slots
+
+DON BORAX VARITY
+
+STORE	L. P. Lawrence	500	North Main	3	Slots
+
+EDMOND’S ASSOC. STA.	Gayer Co.,-Lee Hughes	5th	and Carson	1	Slot
+
+EL MORROCCO	Gayer Co.,-Lee 	Hughes	E	& Jackson	1	Slot
+
+EL MORROCCO	Frank	Wilson	E	& Jackson	3	Slots
+
+2	Poker
+1 Crap
+
+5TH ST. LIQUOR STORE	Gordon W. Potter	727	So. 5th	3	Slots
+
+FOOD CENTER	Reuben Specktor	770	Fremont	5	Slots
+
+FOREIGN CLUB	Walter Argyle	111	N. 1st	2	Slots
+
+FREMONT ARCADE	M. B. Abrams	101 E. Fremont	34 Slots
+
+1 Crap
+
+1	"21" game
+
+FRONTIER CLUB	M. T. Shorie	117 E. Fremont	37 Slots
+
+3	Craps
+
+4	"21" games
+
+2	Roulette
+1 Pan
+
+5	Poker
+
+1 RH Keno
+1 Hopper
+1 RH Book
+1 Big "6" Wheel
+
+GEORGE KNIPP TIRE
+
+SHOP	Jack Weisberger	1711 Fremont	1	Slot
+
+GOLDEN CAMEL BAR	Joe Morga	110 N. 1st	4	Slots
+
+GOLDEN NUGGET	M. T. Shorie	2nd and Fremont	1	poker
+
+1	Craps
+
+HAROLD'S DRIVE INN	Gayer Co.,-Lee 	Hughes	726 No. Main	2	Slots
+
+HANNIBALS	T. E. Kirby	1509 South Main	2	Slots
+
+HAROLD'S DRIVE INN	Reed Whittwer	600 North Main	4	Slots
+
+J. D. DRIVE INN	Gayer Co.,-Lee	 Hughes	418 Madison	2	Slots
+
+JOE’S LUNCH	L. P. Lawrence	119 North 1st	2	Slots
+
+JOHN'S DESERT INN	John Anton	1507 S. 5th	1	Slot
+
+JOHN'S DESERT INN	Jack Weisberger	1507 S. 5th	2	Slots
+
+LARNIN DRUG	Jack Furnace	812 S. 5th	3	slots
+
+L. V. BOWLING REC.	Max Gordon	125 S. 2nd	8	Slots
+
+LAS VEGAS CLUB	Herbert	SIMMONS	23 Fremont	29	Slots
+
+2	Craps
+
+4	"21" Games
+2 Big Wheels
+1 RH Keno
+
+1 Faro
+
+1	Tango - 100 Chs.
+
+2	Poker
+
+1	Pan
+
+2	Bridge
+
+1	RH Book
+
+LAS VEGAS TAVERN	Herbert Simmons	19 Fremont	7	Slots
+
+LOG CABIN BAR	Clifford G. Griggs	122 N. 1st	3	Slots
+
+LOVE'S CAFE	Jack Weisberger	125 S. 2nd	3	Slots
+
+LOW PRICE MARKET	Gayer Co.,-Lee Hughes	131 N. Main	1	Slots
+
+MIKES LIQUOR STORE	S.J. Gordon	106 Fremont	4	Slots
+
+MODERN FOOD		J. P. Mudd	316 Fremont	2	Slots
+
+MANDALAY BAR	W. E. Greene	111 Fremont	10	Slots
+
+MARKS FOOD CO.	C. Schulman	1500 Fremont	6	Slots
+
+NEVADA COFFEE SHOP	G. J. Adras	113 N. 1st	2	Slots
+
+OPPEDYK DAIRY	L. Van Der Meer	1000 N. Main	1	Slot
+
+ORTON’S GRILL	Gayer Co.,-Lee Hughes	121 South 5th	3	Slots
+
+OVERLAND HOTEL	L.M. Wilson	Main and Fremont    3	Slots
+
+PEARL’S CAFE	Gayer Co.,-Lee Hughes	224 N. 1st	2	Slots
+
+PIONEER CLUB	Charles Addison	25 Fremont	38	Slots
+
+2	Pan
+
+5	Poker
+
+1 R.H. Keno
+5 "21" games
+
+3	Roulette
+3 Craps
+
+PIONEER COCKTAIL LG.	Charles Addison	25 Fremont	7	Slots
+
+PIONEER NEWS SERVICE	L.M. Wilson	114½ n. 1st	1	Slot

@@ -1,0 +1,192 @@
+﻿LOT #	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA	FINAL COST
+
+1	Irr.	Lopez, John C. & Dolores S.
+
+801 N. "A" St., L.V.	100.00	670.00	4	122.35
+
+2	Irr.	Same as above	100.00	670.00	5	197.31
+
+3	Same as above	110.00	690.00	6	276.65
+
+4	Butler, Michael L. & Margaret E.
+
+811½ N. "A" St., L.V.	340.00	695.OO	7	272.77
+
+5	Butler, Michael L.
+
+8ll½ N. "A" St.,L.V.	340.00	7	272.77
+
+6	Beckman, Laura
+
+800 N. "B" st., L.V.	340.00	410.00	7	272.77
+
+7	Same as above	340.00	410.00	8	269.87
+
+8	Same as above	340.00	410.00	8	269.87
+
+9	Same as above	340.00	410.00	8	269.87
+
+10	Same as above	340.00	410.00	8	269.87
+
+11	Same as above	340.00	410.00	8	269.87
+
+12	Same as above	410.00	450.00	9	496.33
+
+13	Mankiewicz, Susanna
+
+116	E. Hoover Ave., L.V.	340.00	550.00	13	281.09
+
+14	Same as above	340.00	550.00	13	281.09
+
+15	Cameron, Hugh & Thelma
+
+820 N. "B" St., L.V.	340.00	510.00	13	281.09
+
+16	Same as above	340.00	510.00	13	281.09
+
+17	Lingo, Robert
+
+Box 23, L.V.	340.00	1,710.00	13	281.09
+
+18	Same as above	410.00	1,710.00	12	524.97
+
+19	(E 90') Nagiller, J.L. & Mae
+
+819	N. "A" St.,L.V.	270.00	800.00	271	355.20
+
+20	(E	90')	Same as above	60.00	200.00	274	55.55
+
+19	(W 50') Jeppsen, Herbert E. & Edith
+
+111	Morgan Ave., L.V.	150.00	440.00	272	173.13
+
+20	(W	50')	Same as above	125.00	440.00	273	86.03
+
+21	(W	50')	Same as above	125.00	440.00	273	86.03
+
+22	(N 21' of W 50')
+
+Same as above	100.00	430.00	275	72.26
+
+20	( E 90' of S 18')
+
+Terry, Elmo & Everlean
+
+817 N. "A" St.,L.V.	155.00	605.00	276	142.87
+
+21	(E 90' of N 14')
+
+Same as above	125.00	605.00	277	111.12
+
+21	(E 90' of Sll')
+
+Campbell, Henry & Pearly Beatrice	90.00	600.00	278	87.30
+
+22	(E 90' of N 21')
+
+Campbell, Henry & Pearly Beatrice
+
+815	N. "A" St., L.V.	180.00	1,160.00	279	166.68
+
+22	(E 90' of S 4')
+
+Jones, Bess
+
+813	N. "A" St.,L.V.	30.00	160.00	281	31.76
+
+23	(E 90') Same as above	225.00	1,000.00	282	198.42
+
+22	(S 4' of W 50')
+
+Butler, Michael L. & Margaret E.
+
+811½ N. "A" St.,L.V.	10.00	55.00	280	13.76
+
+23	(W	50')	Same as above	125.00	320.00	273	86.03
+
+24	(W	50')	S ame as above	125.00	320.00	273	86.03
+
+24	(E 90') Wenth, Ernest Fritz
+
+811 N. "A" St., L.V.	225.00	1,340.00	282	198.42
+
+BLOCK 15 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Parks, S. Gene & Anna (½ Int)
+
+Jennings, Edith Anna (½ Int)
+
+132 s. 1st st.,L.V.	410.00	490.00	9	496.33
+
+2	Same as above	340.00	480.00	8	269.87
+
+3	Same as above	340.00	480.00	8	269.87
+
+4	Same as above	340.00	480.00	8	269.87
+
+5	Langford, Sam W. & Myrtle Lee
+
+408 Jefferson Ave., L.V.	340.00	670.00	8	269.87
+
+6	Dalton, Thelma
+
+412 Hart St., L.V.	340.00	770.00	8	269.87
+
+7	Colton, R.A.
+
+Box 187, North Las Vegas, Nevada 340.00	8	269.87
+
+8	Same	as	above	340.00	8	269.87
+
+9	Same	as	above	340.00	8	269.87
+
+10	Same	as	above	340.00	8	269.87
+
+11	Same	as	above	340.00	8	269.87
+
+12	Same as above	410.00	600.00	9	496.33
+
+13	Black, C.J. (Deceased)
+c/o Rodney Colton, Admr.
+
+Box 187, North Las	Vegas, Nevada	350.00	25.00	13	281.09
+
+14	Same as above	350.00	25.00	13	281.09
+
+15	Woolley, William R.
+
+806 "C" St., L.V.	350.00	1,175.00	13	281.09
+
+16	Same as above	350.00	1,175.00	13	281.09
+
+17	(E 70') Gray, Nathaniel & Beulah
+
+215	Morgan Avenue, L.V.	180.00	685.00	286	118.78
+
+18	(E 70')	Same as above	210.00	685.00	285	240.72
+
+17	(W 70') Woolley, William R. & Vivian
+
+806 N. "C" St.,	L.V.	180.00	195.00	284	162.33
+
+18	(N 70')	Same as above	210.00	195.00	283	284.27
+
+19	Morgan, Edith
+
+c/o Ray W. Burgess
+
+821 N. "B" St.,	L.V.	425.00	260.00	12	524.97
+
+20	Same as above	350.00	260.00	13	281.09
+
+21	Cameron, Thelma Mary
+
+820	N. "B" St.	L.V.	350.00	395.00	13	281.09
+
+22	Same as above	350.00	395.00	13	381.09
+
+23	Gay,James & Hazel J.
+
+8ll "B" St., L.V.	350.00	1,180.00	13	281.09
+
+1-4-56

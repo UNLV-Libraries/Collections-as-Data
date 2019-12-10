@@ -1,0 +1,179 @@
+﻿LOT #	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA	FINAL COST
+
+$	Thomas, William
+
+711 Madison Ave.,L.V.	590	1070	11$	555.86
+
+10	(N ½)	Cannon, Jodie & Emma A. (½ Int)
+
+Calbert, James & Cecile (½ Int)
+
+711 "C" st.,L.V.	295	1350	333	412.63
+
+10	(S	½)	Washington, W.M.
+
+713	Madison Ave.,L.V.	295	1290	334	325.54
+
+11	Moore, Vance M. Jr. & Grace
+
+16 Stewart Ave., L.V.	600	247	600.00
+
+BLOCK 30 H.F.M. & M. ADDITION
+
+2	Miller, Virginia
+c/o James Gardner
+
+719 Jefferson Ave.,L.V.	700	1290	244	973.20
+
+3	Miller, Reinhold
+
+c/o Rev. Levi E. Tugwell
+
+719 Jefferson Ave., L.V.	590	960	114	738.17
+
+4	Amis, James H. & Blanchie
+
+708	Adams Ave.,L.V.	590	1210	115	555.86
+
+5	Hall, James & Helen
+
+1013 "G" St.,L.V.	590	2020	115	555.86
+
+6	Same	as	above	710	2220	116	799.73
+
+7	Archie, Martin & Martha
+
+701 Jefferson Ave, L.V.	710	5700	116	799.73
+
+8	Walker, Clarence A.
+
+705 Jefferson Ave, L.V.	590	1910	115	555.86
+
+9	(N	60')	Williams, Viola
+
+709	Jefferson	Ave.,	L.V.	250	810	335	288.01
+
+9	(S	80')	Miller, Reinhold & Virginia
+
+c/o Viola Williams
+
+709 Jefferson	Ave.,	L.V.	340	2145	336	267.84
+
+10	(W	2')	Same	as	above	20	125	337	29.52
+
+10	(E	48')	Byrd, William & Maude
+
+713	Jefferson	Ave.,	L.V.	570	580	338	708.65
+
+11	Miller, Reinhold
+
+c/o Rev. Levi E. Tugwell
+
+719 Jefferson	Ave., L.V.	6l0	2220	245	878.75
+
+BLOCK 31 H.F.M. & M. ADDITION
+
+2	Yarbrough, Temmie
+
+402 Jackson Ave.,L.V.	810	242	$10.00
+
+3	Same as above	590	24l	590.00
+
+4	Lopez, Josephine
+
+708 Washington Ave.,L.V.	590	930	239	724.23
+
+5	Church: Zion Methodist	Church
+
+of Las Vegas, Nevada, Inc.
+
+209 Jefferson Ave., L.V.	590	4500	239	724.23
+
+6	Same	as	above	710	4500	240	968.11
+
+7	Moore, Robert T.
+
+Box 1901, L.V.	710	116	710.00
+
+8	Funches, Jesse & Essie	B.
+
+705 Adams Ave., L.V.	590	1360	115	555.86
+
+9	Amis, James H. & Blanch M.
+
+708 Adams Ave., L.V.	590	1875	115	555.86
+
+10	(Pt)	Same	as	above	30	95	345	6.51
+
+10	(Less portion 2.33 x 29.67)
+
+Lockett, Curley & Edna
+
+713	Adams Ave., L.V.	560	1930	344	731.67
+
+11	(N½)	Dixon, Vernon & Fannie Mae
+
+715 Adams Ave., L.V.	365	940	340	541.97
+
+11	(S ½)	Crisp, Russel & Ella Mae
+
+914 "H" st., L.V.	365	1300	339	453.34
+
+BLOCK 32 H.F.M. & M. ADDITION
+
+1	Vasquez, Pilar & Rhea
+
+224 Bonanza Rd., L.V.	865.00	85O.OO	38	318.80
+
+2	Roberts, Marian Ann
+
+222 Bonanza Rd., L.V.	720.00	985.00	39	101.05
+
+3	Same	as	above	720.00	98$.00	39	101.05
+
+4	-----------City-of-Las -Vegas----------------------564.00--------------------------26---------------------
+
+5-------------Same as above----------------------------------------------------------------------------------
+
+6-------------Same	as-	above-------------------------564.00--------------------------28---------------------
+
+7	-----------Seme	as	above--------------------------564.00--------------------------29---------------------
+
+8	-----------Same	as	above--------------------------564.00--------------------------30---------------------
+
+9	Montesanto, Tony & Grace
+
+4325 Evergreen Place, L.V.	300.00	297.50	31	220.67
+
+10	Steepleton, Lenore M.
+c/o Walter Bozarth
+
+211 W. Wilson Ave., L.V.	310.00	32	243.35
+
+11	Bozarth, Walter
+
+211 Wilson Ave., L.V.	320.00	33	266.02
+
+12	Same as above	330.00	34	265.82
+
+13	Same	as	above	330.00	1,080.00	34	265.82
+
+14	Same as above	420.00	35	420.00
+
+15	Montesanto, Tony&Grace
+
+4325 Evergreen Place., L.V.	440.00	297.50	37	286.03
+
+16	Same	as	above	360.00	297.50	37	286.03
+
+17	Same	as	above	360.00	297.50	37	286.03
+
+18	Young, Ada C.
+
+226 Anderson Lane, L.V.	216.00	650.00	37	286.03
+
+19	Same	as	above	216.00	650.00	37	286.03
+
+20	Same	as	above	263.00	700.00	36	547.33
+
+BLOCK 2 ORIGINAL LAS VEGAS TOWNSITE

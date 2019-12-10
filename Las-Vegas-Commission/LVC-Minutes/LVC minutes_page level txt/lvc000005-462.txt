@@ -1,0 +1,166 @@
+﻿BEACON SHOP	112	North	3rd	L.	P.	Lawrence	3	slots
+
+FREMONT TAVERN	105	South	1st	L.	P.	Lawrence	5	slots
+
+ELDORADO CLUB	128 Fremont	Moe Sedway	24 slots
+
+(Formerly Rex Club)	3-21 Games
+
+2 - Craps
+2 - Roulette
+1 - RH Book
+
+ESQUIRE BAR	120	South	2nd	L.	R.	Schway	4	slots
+
+BOULDER LIQUOR STORE	423	Fremont	L.	R.	Schway	4	slots
+
+EL CORTEZ HOTEL	600 Fremont	Raymond Salmon (Casino) 8 Slots
+
+2-21 Games
+1 - Roulette
+1 - Crap
+
+(Hotel) 10 slots
+(Cafe)	2	slots
+
+COREY'S FINE FOODS	402 Fremont	Gus Corey	5	slots
+
+WESTSIDE TAVERN	206 Wilson	J. Chewning	4	slots
+
+CHARLESTON INN	19 Charleston	A. R. Stowell	3	slots
+
+TIVOLI TAVERN	126 North 1st	A. B. Gaut	3	slots
+
+Las Vegas Barbecue	22 Fremont	Louis DuBois	4	slots
+
+JOHN’S DESERT IN	1507 South 5th	John Anton	1	slot
+
+LAS VEGAS LIQUOR	822 Fremont	C. M. Travis	2	slots
+
+SAM'S CAFE	320 Fremont	John Katsaros	6	slots
+
+CHEVRON SER. STATION	1328 South 5th	Bucknam Distributing	1	slot
+
+TRIANGLE SERVICE	5th & Main	Bucknam Distributing	1	slot
+
+HERBERT'S ASSOC. SER.	3rd & Fremont	Bucknam Distributing	1	slot
+
+HOUSE OF MURPHY	1407 South 5th	Bucknam Distributing	3	slots
+
+APACHE BACK BAR	2nd & Fremont	Bucknam Distributing  l slot
+
+JOHN’S DESERT IN	1507 South 5th	Jack Weisberger	2	slots
+
+MALT SHOP 	5th & Carson	Jack Weisberger	2	slots
+
+MONTE CARLO CLUB	15 Fremont	J. L. Young	4 slots
+
+1	- Pan
+
+2	- Poker
+2-21 Games
+
+1	- RH Keno
+
+2	- Craps
+1 - Faro
+
+1 - Roulette
+
+MALT SHOP	5th & Carson	Jack Weisberger	1	slot
+
+TIP'S CAFE	1714 South 5th	Jack Weisberger	3	slots
+
+FOOD CENTER	770	Fremont	Albert Goot	5	slots
+
+MIKE'S LIQUOR STORE	106	Fremont	M. H. Gordon	4	slots
+
+S.W. LIQUOR STORE	101	Carson	Max Gordon	3	slots
+
+1st STREET GROCERY	631	South 1st	S. Grant Stewart	1	slot
+
+OLD RANCH MARKET	900	North 5th	Jack Furnace	1	slot
+
+OASIS NURSERY	808	South 5th	Jack Furnace	1	slot
+
+LARNIN DRUG STORE	813	South 5th	Jack Furnace	3	slots
+
+HAROLD'S DRIVE IN	600	North Main	Reed Wittwer	5	slots
+
+VICTORY SAND. SHOP	116	South 1st	Mrs. Silvia Saunders 1	slot
+
+NEVADA COFFEE SHOP	113	North 1st	George J. Adras	2	slots
+
+CLUB SAVOY	116	Fremont	Walter R. Schur	4	slots
+
+6 slots
+
+2-	21 Games
+1 - Crap
+
+1 - Roulette
+6 slots
+
+5th ST. LIQUOR STORE	727 South 5th	Gordon W. Potter	3	slots
+
+GOLDEN NUGGET	3rd & Fremont	M. T. Shorie     1 - Poker
+
+1	- Craps
+
+FRONTIER CLUB	117 Fremont	M. T. Shorie	37 slots
+
+2	- Craps
+
+3-	21 Games
+2 - Roulette
+1 - Pan
+
+4 - Poker
+1	- RH Keno
+
+1 - Hopper Keno
+1 - RH Book
+1 - Big 6 Wheel
+
+LIDO BAR	107	North	1st	Anna Mae Weller	5	slots
+
+GOLDEN CAMEL BAR	110	North	1st	Joe	Morgan	4	slots
+
+SILVER CAFE	106	North	1st	Joe	Morgan	4	slots
+
+SILVER CLUB	108	North	1st	Joe	Morgan	2	slots
+
+1 - Crap
+2-21 Games
+1 - Roulette
+
+VIRGINIA'S CAFE	917	Fremont	Virginia Barrett	1 slot
+
+2 slots
+
+CORK »N BOTTLE	508	Fremont	Ed Van Tassel	3 slots
+
+FREMONT ARCADE	103	Fremont	M. B. Abrams	34 slots
+
+1 - Crap
+1-21 Game
+
+SLOT MACHINE	103	Fremont	M. B. Abrams	36 slots
+
+FOREIGN CLUB	188	North 1st	Walter Argyle	4	slots
+
+RANCHO GRANDE CREAMERY   406	South 2nd	Bert O'Donnell	1	slot
+
+EL CORTEZ HOTEL	600	Fremont	Leuis S. Bunzel	1	slot
+
+ACE BAR	111	South 1st	A. Kroloff	16 slots
+
+MARK'S FOOD CO.	1500 Fremont	Albert Schulman	6 slots
+
+SILL'S DRIVE IN	5th	& Charleston	Orpha Sill Miller	5	slots
+
+WIMPY'S CAFE	210	Fremont	Orpha Sill Miller	3	slots
+
+APACHE BAR	2nd	& Fremont	Lena Silvagni	8	slots
+
+APACHE BACK BAR	2nd	& Fremont	Lena Silvagni	4	slots
