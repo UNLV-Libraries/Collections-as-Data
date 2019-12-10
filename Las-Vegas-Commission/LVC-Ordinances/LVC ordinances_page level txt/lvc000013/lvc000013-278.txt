@@ -1,0 +1,138 @@
+﻿
+
+such wiring, devices and material in a safe condition and have such work completed within
+fifteen days, or other reasonable period specified by the City Electrical Inspector in
+said notice and shall pay such fees as are required by any of the ordinances of the City
+of Las Vegas relating to electrical installations, alterations and/or repairs. The City
+Electrical Inspector is hereby empowered to disconnect or order the discontinuance of
+electrical service to such wiring, devices, and/or material so found to be defectively
+installed until the installation of such wiring, devices and material has been made safe
+as directed by the City Electrical Inspector and any person firm or corporation or
+political subdivision ordered to discontinue such electrical service shall do so within
+24 hours and shall not reconnect or allow it to be re-connected until notified to do so,
+by the City Electrical Inspector. Provided, however, that no reinspection shall be made
+in any dwelling, house, while same is occupied as as dwelling, without the consent of the
+occupant thereof. No person or persons shall hinder or prevent the City Electrical 
+Inspector or his deputies from making any electrical inspection except in dwelling houses.
+
+Section 15. The Electrical Inspector shall charge the sum of $1.00 for each
+survey of a proposed electrical installation, alteration or repairing for which a permit
+has not first been issued, which amount shall be paid by the person, firm or corporation
+responsible for such survey, and such sum or sums so received shall be handled and 
+disposed of by such Electrical Inspector as all other fees collected by him.
+
+Section 16. Rigid conduit shall be used in concrete tile buildings on such 
+portions of the installation where it is necessary to install outlets, plugs, and switches
+in the tile.
+
+All conduit used in underground installations shall be galvanised or sheradised
+and all joints must be leaded or its equal and made water tight. The use of running
+thread in underground installation is prohibited.
+
+Outlet boxes smaller than a four inch octagon box shall not be used on concealed
+conduit work,
+
+3-¼ inch outlet boxes may be used on open conduit work provided that 
+receptacles or drop cords are used.
+
+Table for number of wires to be used in outlet boxes:
+
+#14	#12	# 10	#8	#6 wire
+
+l½x4 Octagonal or round	9	7	5	4
+
+l½x4 Square	12	10	8	6	4
+
+l½x4 11-16 Square	16	13	10	8	6
+
+21-8x4 Square	20	16	12	10	8
+
+In stepping down wire sizes, splicing of small wire on to larger wire shall be
+prohibited. Wires shall be brought into a panel and properly fused. All subfeeds shall
+shall have a disconnecting switch and shall be fused according to size or wire.
+
+All disconnect switches shall be permanently grounded.
+
+Section 17. Ceiling outlets for Assembly Halls, Schools, Hospitals, Churches
+and Public Buildings shall be as follows:
+
+Corridors---------------------------50	watts
+
+Breakfast rooms--------------------100	watts
+
+Bed Rooms--------------------------100	watts
+
+Bath Rooms-------------------------100	watts
+
+Toilets--------------------------—-50	watts
+
+Auditoriums----------- 1 watt per square foot-200 watts per outlet.
+
+Rooms-----------------1 watt per square foot-200 watts per outlet.
+
+Kitchens--------------1 watt per square foot-150 watts per outlet.
+
+Laundries-------------1 watt per square foot-200 watts per outlet.
+
+Ceiling outlets for residences, plats, and apartments shall be, as follows:
+
+Porches--------------------50 watts	
+
+Reception halls ----------100	watts
+
+Passage halls---------------50	watts
+
+Living rooms -------------150	watts
+
+Dining rooms---------------100	watts
+
+Beam lights-----------------50	watts
+
+Dens------------------    100	watts
+
+Music Rooms---------------100	watts
+
+Libraries------------------150	watts
+
+Bed Rooms--------------—-100	watts 
+
+Bath Rooms-----------------150	watts
+
+Toilets---------------------50	watts
+
+Breakfast rooms------------100	watts
+
+Closets------------------  50	watts
+
+Laundries------------------100	watts
+
+Basement Lights-------------50	watts
+
+Bracket Lights-----------  50	watts
+
+All light outlets on front and rear porches (sleeping porches excepted) bath
+
+rooms, toilets, laundries and kitchens shall be controlled from wall switches, and lights
+in any room having running water shall be controlled from wall switches.
+
+There shall be installed at least one convenience outlet in the kitchen,
+breakfast room, service porch or laundry in every dwelling place.
+
+Convenience outlets shall not be installed in ironing cabinets.
+
+Ceiling outlets for store and shop rooms shall be as follows:
+
+Sales rooms--------------------1 watt per square foot-200 watts- per outlet.
+
+Basement and storage rooms-----½	"	"	"	"	100	"	"	"
+
+Commericial Buildings----------½    "	"	"	"	100	"	"	"
+
+Window outlets----------------50	"	" lineal foot-150 "	"	"
+
+Automobile Storage	Rooms-----½   "	"	Square	"	100 "	"	"
+
+Wash racks-----------------      ½   "	"	"	"	100 "	"	"
+
+Garages (Public)---------------1	"	"	"	"	200 "	"	"
+

@@ -1,0 +1,122 @@
+﻿Polyphase motors not larger that ten (10) horsepower capacity, if furnished
+with approved starting devices arranged for push button control, may be started 
+directly on the line, provided the rated capacity of any one such motor does not 
+exceed thirty per cent (30%) of the connected power load.
+
+CIRCUIT CAPACITY.
+
+SECTION VIII. All wiring installations shall be so constructed as to produce
+a drop voltage of not to exceed two (2) volts in one hundred and fifteen (115)
+volt single phase circuits, four (4) volts in two hundred and thirty (230) volt
+single phase circuits, and five (5) volts in two hundred and thirty volt (230)
+three phase circuits.
+
+The minimum wattage required per outlet shall be in accordance with the
+following table;
+
+(1) Public Buildings, School Buildings, Hotels, Assembly Halls, Club Houses,
+Mfg. Plants, Public-Garages, Commercial Buildings, Stores, etc.
+
+Ceiling Outlets	200	Watts
+
+Bracket outlets	50	"
+
+Storage rooms, hallways, closets, toilets                    50	"
+
+The capacity of any circuit for lighting shall not exceed one thousand (1,000)
+watts, except for Signs and Outline Lighting in which case all of the requirements
+as recommended in the National Electrical Code shall be accepted, and employed.
+
+The minium wattage for display cases and show window lighting shall be 
+computed in accordance with the recommendations of the National Electrical Code.
+
+Convenience outlets must be wired on separate circuits from lighting circuits
+and not more that four (4) convenience outlets shall be wired with No. Fourteen (14)
+wire on one circuit. Eight (8) convenience outlets may be wired with No. Twelve (12)
+wire on one circuit.
+
+(2) Residences, Flats Apartments, Cabins;	
+
+Ceiling outlets (Living room)	150 Watts
+
+"	"	( In all other rooms)	100	"
+
+Bracket Outlets	50	"
+
+Garage Outlets		100	"
+
+The capacity of any circuit for lighting shall is not exceed one thousand
+(1,000) watts.
+
+Convenience outlets must be wired on separate circuits from lighting
+circuits and not more than four (4) convenience outlets shall be wired with NO. 
+
+Fourteen (14) wire on one circuit. Eight (8) convenience outlets may be wired with No.
+Twelve (12) wire on one circuit.
+
+INSPECTION RULES.
+
+SECTION IX. All wires which are to be hidden from view shall be 
+inspected before concealment and any person firm or corporation installing such wires
+shall notify the Inspection Bureau to make the required inspection before such wires
+are concealed, and no person shall conceal the same until permission has been obtained
+from the Inspection Bureau in writing.
+
+Permission to cover work to be concealed shall indicate by attaching a
+tag or other marker to the work in a suitable place and shall show the date location,
+that such permission has been granted, and the signature of the inspector. Approval
+of fixtures, signs, and/or any apparatus used with electric lamps or other form of
+electrical lighting or other devices customarily or frequently installed under separate
+contract shall be in dictated by attaching a tag or marker to the work in a suitable
+place and shall show the date, location, approval and signature of the inspector.
+
+Upon completion and approval of a job there shall be a tag or marker
+attached to the service switch, granting permission to the power company or other
+serving agency to connect the installation for use. This tag shall show the date
+location, approval, permission and signature of the inspector.
+
+It shall be unlawful for any electric power company or other serving
+agency or for any officer, servant, agent or employee of such power company to connect
+its power lines or service wires to any installation of electrical construction
+until such installation has been approved by the Electrical Inspector as in this
+ordinance provided.
+
+Where approval is withheld, a written notice stating defects in the work
+shall be given to the person, firm or corporation to whom the permit was issued.
+
+In event of any conflict or inconsistency between any requirement herein
+ given or prescribed and any requirement of and law, order, rules or regulations of
+the State of Nevada concerning the same matter and applying to the case under consideration,
+ that the requirement which, in the opinion of the electrical Inspector,
+prescribes and establishes the high standard of safety for life and property shall
+take precedence and be complied with.
+
+TERMS OF OFFICE QUALIFICATIONS. COMPENSATION, ETC. OF
+ELECTRICAL INSPECTOR.
+
+SECTION X. The City Electrical Inspector shall hold office during the
+pleasure of the Board of City Commissioners. He must qualify within ten days from
+the time of	his appointment by taking the constitutional oath of office and filing a
+
+	bond in the	sum of One Thousand ($1,000.00) Dollars with the City Clerk, the same to
+
+	be approved	by the said Board of City Commissioners, or some officer delegated to
+
+	approve the	same by the said Board of City Commissioners. The City Electrical 
+
+Inspector shall be entitled to receive and shall be paid monthly an amount equal to the
+fees collected hereunder each month, up to but not to exceed Two Hundred ($200.00)
+Dollars, and such amount shall be full compensation for all services rendered; provided,
+ however, that the city shall not be liable in any respect for the differences
+between the amount of the fees collected and the said sum of Two Hundred ($200.00)
+Dollars.
+
+RESPONSIBILITY.
+
+SECTION XI. This ordinance shall not be constructed to relieve from or lessen
+the responsibility or liability of any party owing, controlling, operating or installing
+ any electrical construction and/or electrical material for damages to the person
+
+or property caused by any defect therein, nor shall the City be held as assuming any
+such liability by reason of the inspection authorized herein, or certificate of
+inspection issued as herein provided.

@@ -1,0 +1,128 @@
+﻿(6)	For each motor more than five (5) horse power, and not exceeding ten
+
+(10) horsepower	$2.00
+
+(7)	For each	motor	exceeding (10) horsepower 4.00
+
+(8)	Electric	Signs	2.00
+
+(9)	Ceiling Fans (Each)	.25
+
+The Electrical inspector may give temporary permission to furnish electric
+ current to, or the use of electric current, through any wires or other equipment
+for a length of time not to exceed thirty (30) days, if it appears to the Electrical
+inspector that such wire etc. may safely be used, and that there exists an urgent
+necessity for such use and special permission. In this case a special tag or marker
+shall be attached in a suitable place on the work, and shall show the date, location
+such special approval, date of expiration of such permission, and signature of the
+inspector.
+
+Temporary Permits for the use of lights and/or motors inbuildings in the
+course of construction or undergoing repairs shall be issued to cover a period of
+thirty (30) days upon payment of one ($1.00) Dollar.
+
+Temporary Permits shall be issued to cover a period of thirty (30) days
+for the use of current for outdoor attractions, such as circuses, carnivals, shows,
+fairs, boxing, and wrestling matches etc. as follows:
+
+Where the person or firm or organization conducting such attraction
+has held, and maintained their residence for (60) days or more in the City of Las
+Vegas, the payment shall be --------------------------------$1.00
+
+Where the person firm or organization conducting such attraction has
+not held, or maintained their residence for sixty (60) days or more in the City of
+Las Vegas, the payment shall be,-----------------------------$5.00.
+
+SPECIAL RULES AND REGULATIONS.__
+
+SECTION V. The installation of service switches, meter boards, meter loops
+and service wires, etc; shall be installed in conformity with the approved methods of
+construction for safety to life, and property. Installation in conformity with the
+rules and regulations as laid down by any firm or corporation in Las Vegas serving
+current (operating as a Public Utility under a franchise or Certificate of Convenience
+granted by the Public Service Commission of the State of Nevada) and approved by the
+Public Service Commission of the State of Nevada or as laid down in the National
+Electrical Code shall be accepted as prima facie evidence of approved methods.
+
+SECTION VI. For the purpose of this ordinance to regulate the issuing
+of permits and in fixing the inspection fees covering same, each recording watt-hour
+meter and all sub-feeder wires and branch circuit wires connecting the same shall be
+construed as one service, and a separate permit must be issued for each service.
+
+Rigid conduit shall be required for all wires used to conduct current for
+lights, heat, and power, in the wiring of new buildings, the re-wiring of old buildings
+and in the installation of new wiring in old buildings or additions thereto within
+the fire limits or fire zone of the City of Las Vegas, as they are now or may hereafter
+be established.
+
+Rigid conduit shall also be required for all wires used to conduct current
+for lights, heat, power in the wiring of new buildings, rewirings of old buildings and the installation of
+new wiring in old buildings or additions thereto not within the fire limits or the
+fire zone of the City of Las Vegas (as they now or may here after be established), provided
+ such building or addition is to be occupied by a church, a school, a theater,
+a hotel, a public building, a garage so constructed as to permit the storing of three
+or more cars (private or public) a gasoline filling station or an apartment house consisting
+of more than two apartments.
+
+The use of flexible conduit will be approved where it is impracticable
+to install rigid conduit by obtaining special permission from the Electrical Inspector.
+
+All conduit used in underground installations shall be galvanized.
+
+The use of non-metallic sheathed cable shall not be permitted.
+
+Bell transformers shall be installed in an accessible place and shall be
+fused and such fuses shall not be larger that ten (10) ampere capacity.
+
+Lights installed upon gasoline pumps shall be wired in duplex lead covered
+wires.			
+
+Lamps and sockets within filling stations shall be inclosed in vapor-tight
+
+globes.
+
+Under ground service wires shall be in lead covered cable. 
+
+All cutout panelboards shall be in dead-front type.
+
+Installations requiring more than two circuits shall be equipped with
+standard approved cabinets.
+
+Each outlet for fixtures shall be provided with a fixture stud fastened to
+the box by means of stove bolts or other approved methods.
+
+Drop cords commonly known as "green and yellow cord" used as part of a 
+fixture shall not exceed three (3) feet in length.
+
+All conduit and metal cable shall be secured to boxes, cabinets, plates,
+etc. by means of one lock nut inside and one outside of boxes, etc; or by other approved methods.
+
+The bridging of a fuse block or switch with wire or coin or the fusing
+of any conductor above its rated capacity shall be prohibited.
+
+A group of small buildings or cabins may be wired from one meter service
+board or source of supply, provided each cabin or, dwelling is protected by an enclosed
+fused disconnect switch, and such switch shall be not more that 8 feet and six inches
+nor less that 6 feet from the level ground.
+
+MOTORS.
+
+SECTION VII. All motors exceeding one-quarter (¼) horsepower shall be
+wired in conduit.
+
+disconnecting switch shall be placed on the line side of each motor of
+more that one-quarter (¼) horsepower and shall be within sight and not more that ten
+(10) feet distant from the motor.
+
+All alternating current motors having a normal rated capacity of over one
+(l) horse power when not equipped with approved starting devices or when hot properly
+protected with approval thermal cutouts must be provided with both starting and
+running fuses and controlled with an approved double throw spring switch designed to
+so it will not stay in starting position when released.
+
+All single phase motors having a normal rated capacity of five (5) horsepower
+or more and all three (3) phase motors having a normal rated capacity of seven
+and one half (7½) horsepower or more shall be provided with an approved compensator
+or equivalent device to reduce the excessive starting current required. Overload
+relays used with compensators shall have all connections enclosed within an approval
+metal box.

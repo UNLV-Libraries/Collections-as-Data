@@ -1,0 +1,122 @@
+﻿AFFIDAVIT OF PUBLICATION
+
+STATE OF NEVADA,	)
+
+COUNTY OF CLARK,	)	ss.
+
+RICHARD LOCHRIE, being first duly sworn, deposes and says:	That he is Foreman of the LAS VEGAS MORNING
+
+SUN, a daily newspaper of general circulation, printed and published at Las Vegas, in the County of Clark,
+State of Nevada, and that the attached was continuously published in said newspaper for a period of two
+weeks from June 20, 1955 to June 27, 1955 inclusive, being the issues of said newspaper for the following
+dates, to-2it¥ June 20, 27, 1955. That said newspaper was regularly issued and circulated on each of the
+dates above named.
+
+/s/ RICHARD LOCHRIE
+
+Subscribed and sworn to before me this 28h day of June, 1955
+
+/s/ BARBARA J. GREENSPUN
+NOTARY PUBLIC IN AND FOR CLARK COUNTY, NEVADA
+
+My Commission Expires Mar. 17, 1956.
+
+ORDINANCE NO. 648
+
+AN ORDINANCE TO ADOPT AMENDMENTS TO ORDINANCE NO. 6l0, KNOWN AS THE SPECIALIZED ELECTRICAL ORDINANCE OF
+THE CITY OF LAS VEGAS BY PROVIDING STANDARDS FOR THE INSTALLATION OF ELECTRICAL EQUIPMENT AND WIRING,
+METALLIC RACEWAYS, SERVICES AND GROUNDING, AND BRANCH CIRCUIT REQUIREMENTS, PROVIDING FOR THE ISSUANCE OF
+OWNER'S PERMITS; PROVIDING PENALTIES FOR THE VIOLATION THEREOF; PROVIDING OTHER MATTERS PROPERLY RELATED
+THERETO; AND REPEALING ALL ORDINANCES OR PARTS OF ORDINANCES IN CONFLICT THEREWITH.
+
+The Board of Commissioners of the City of Las Vegas do ordain as follows:
+
+SECTION 1. There is hereby added to Ordinance No. 610 five (5) new sections to immediately follow
+Section 11, to be designated 11-A, 11-B, 11-C, 11-D, and 11-E which shall read as follows:
+
+SECTION 11-A. STANDARDS FOR THE INSTALLATION OF ELECTRICAL EQUIPMENT AND WIRING.
+
+(a)	Installation:	All electrical installations, industrial, commercial and residential, in the
+
+Cith of Las Vegas, shall be in conformity with this code, the National Electrical Code, and with approved
+standards for safety to life and property.
+
+(b)	BX (armored cable) shall not be used in any type of building in the City of Las Vegas.
+
+(c)	Romes (Non-metallic sheathed cable) wherever used to connect any appliance or motor shall be pro-
+tected from mechanical injury.
+
+(d)	All domestic range circuits shall terminate in an approved range receptacle box.
+
+(e)	Double locknuts and bushings shall be required on all conduit and nipples. Offset nipples shall
+be made up securely, when used with junction boxes, panels, or gutters, to insure a firm mechanical connec-
+tion and continuity of the conduit system. The number and size of conductors installed in offset nipples
+shall be governed by Table No. TV of the National Electrical Co.
+
+SECTION 11 -B INSTALLATION OF METALLIC RACEWAYS.
+
+(a)	Galvanized or sherradized rigid metal conduit shall be required in concrete slabs and floors and
+
+underground. Where installed underground or in earth fills, rigid metal conduit shall be required to have
+at least one coat of approved asphaltic paint. Electrical Metallic Tubing may be used for both concealed
+and exposed work except in the following places: concrete floor slabs, underground, and in earth fills.
+
+(b)	Flexible metallic conduit may be used if concealed by the permanent construction of the building
+and must be strapped at both ends and the center of each bend. Conductors may not be pulled into flexible
+metallic conduit until after inspection has been made. All strapping and securing of all other metal conduit
+and of non-metallic sheathed cable shall be 18" from each box or junction and not less than every 5 ft.
+thereafter.
+
+SECTION 11-C SERVICES AND GROUNDING.
+
+(a)	Each dwelling of an area of 400 sq. ft. or less shall have a 60 ampere, 3 wire, 220-110 volt ser-
+vice and dwellings of more than two rooms and over 400 sq. ft. shall have not less than a 100 ampere, 3
+wire, 220-110 volt service.
+
+(b)	The grounder conductor of any system shall be the same size as authorized by Section 2594 N.E.C.,
+and shall be clearly identified. All grounding adn bonding material shall be copper. All residential
+bonding wire shall be at least #l4 AWG copper wire.
+
+(c)	All system ground clamps shall be accessible and shall be of the same material to which they are
+clamped.
+
+(d)	Disconnecting means of the same supply of current must not exceed two manual operations of the
+same phase current without a main line disconnecting device.
+
+(e)	Breaker-type panels installed on the exterior of buildings must have dust-tight enclosures.
+
+SECTION 11-D. BRANCH CIRCUIT REQUIREMENTS.
+
+(a)	Convenience Outlet Circuit. No convenience outlet shall be installed on a general lighting
+branch circuit except receptacles obviously intended for clocks or attachment of ceiling fixtures.
+
+(b)	Lighting Circuits. Each general lighting branch circuit wired with #14 AWG shall be protected
+by an over-current device rated at not more than fifteen (15) amperes. Each general lighting branch cir-
+cuit wired with #12 AWG shall be protected by an overcurrent device rated at not more than twenty (20)
+amperes. No receptacle shall be installed on a general lighting circuit.
+
+(c)	Receptacle Circuits. In every kitchen, dining room, breakfast room, living room, library, den,
+sun room, recreation room or bedroom, one receptacle outlet shall be provided for each fifteen (15) linear
+feet, or major fraction thereof, of the total (gross) distance around the room as measured horizontally
+along the wall at the floor line. These receptacles outlets shall, as far as practical be spaced equal
+distances apart. Receptacle outlet circuits shall be wired with not smaller than #12 AWG wire add shall be
+protected by an over-currect device rated' at not more than twenty (20) amperes.
+
+(d)	Not more than eight (8) receptacles of the duplex convenience type shall be installed on any one
+circuit.
+
+(e)	Fixed Appliance Circuits Each fixed appliance (washer, dishwasher, cooler, etc.) rated at 1250
+watts or more shall be supplied by a separate circuit. Each electric wall heater rated at one hundred and
+ten (110) volts shall be supplied by a separate circuit.
+
+(f)	Evaporative coolers,Installation of evaporative coolers shall meet the following requirements:
+
+1.	Each evaporative cooler shall have a disconnecting device located as near as practicable to
+the cooler.
+
+2.	All switches and receptacles used in cooler installations shall be weather proof, if mounted
+exposed to outside weather conditions.
+
+3. All exposed wiring to evaporative coolers must be installed in approved water tight metallic
+
+raceways.
