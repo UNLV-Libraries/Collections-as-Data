@@ -47,9 +47,8 @@ Legal Documents Datasets
 -	BooksTXT (1 file, 365 KB)
 -	BooksTXT split at page level (118 files, 365 KB)
 
-Inventory
-:: Las Vegas City Commission Minutes ::
-
+## Inventory
+### Las Vegas City Commission Minutes
 Las Vegas City Commission Minutes, June 22, 1911 to February 7, 1922	http://n2t.net/ark:/62930/d1gq1t (digital id: lvc000001)
 346 pages
 
@@ -86,8 +85,7 @@ Las Vegas City Commission Minutes, November 20, 1957 to December 2, 1959	http://
 Las Vegas City Commission Minutes, December 8, 1959 to February 17, 1960	http://n2t.net/ark:/62930/d12h3s (digital id: lvc000012)
 88 pages
 
-::Las Vegas City Ordinances ::
-
+### Las Vegas City Ordinances
 Las Vegas City Ordinances, July 18, 1911 to March 31, 1933	http://n2t.net/ark:/62930/d1xt1w (digital id: lvc000013)
 342 pages
 
@@ -97,7 +95,6 @@ Las Vegas City Ordinances, March 31, 1933 to October 25, 1950	http://n2t.net/ark
 Las Vegas City Ordinances, November 13, 1950 to August 6, 1958	http://n2t.net/ark:/62930/d1p952 (digital id: lvc000015)
 592 pages
 
-:: Las Vegas City Commission Legal Documents ::
-
+### Las Vegas City Commission Legal Documents
 Las Vegas City Commission Legal Documents, February 29, 1944 to February 21, 1945	http://n2t.net/ark:/62930/d1jh34 (digital id: lvc000016)
 118 pages
