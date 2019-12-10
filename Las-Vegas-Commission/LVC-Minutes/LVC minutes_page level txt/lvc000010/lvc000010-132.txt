@@ -1,0 +1,175 @@
+﻿LOT^	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA FINAL COST
+
+24	Same	as	above	350.00	1,180.00	13	281.09
+
+BLOCK 16 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Farnsworth, Hazel
+
+302 McWilliams Ave., L.V.	410.00	910.00	9	496.33
+
+2	Myers, Thos. H. , Estate of
+
+c/o Box 1552, L.V.	340.00	485.00	8	269.87
+
+3	Same	as	above	340.00	485.00	8	269.87
+
+4	Lujan, Gabriel & Lucy M.
+
+310	McWilliams Ave., L.V.	340.00	260.00	8	269.87
+
+5	Same	as	above	340.00	260.00	8	269.87
+
+6	Gay,	James A. & Hazel J.
+
+811 N. "B" St.,L.V.	340.00	320.00	8	269.87
+
+7	Same	as	above	340.00	310.00	55	310.74
+
+8	Same	as	above	340.00	310.00	55	310.74
+
+9	Same	as	above	340.00		55	310.74
+
+10	Same as above	340.00	55	310.74
+
+11	Same	as	above	340.00	835.00	55	310.74
+
+12	Same	as	above	410.00	835.00	54	537.20
+
+13	Gray, Nathaniel & Beulah
+
+215	Morgan Ave., L.V.	350.00	845.00	59	328.23
+
+14	Same as above	350.00	845.00	59	328.23
+
+15	King,Clarence Birdie & Leila	Mae
+
+300 Harrison Ave.,L.V.	350.00	180.00	59	328.23
+
+16	Same as above	350.00	180.00	599	328.23
+
+17	Delgade, Francisco add Merjilda
+
+8l8½ N. "D"St., L.V.	350.00	320.00	59	328.23
+
+18	Same as above	425.00	320.00	58	572.11
+
+19	Smith, Jack & Alberta
+
+819 N. "C" St., L.V.	425.00	295.00	12	524.97
+
+20	Same as above	350.00	295.00	13	281.09
+
+21	Matter, Letha
+
+815 N. "C" St., L.V.	350.00	450.00	13	281.09
+
+22	Same as above	350.00	450.00	13	281.09
+
+23	Alba, Juan & Guadalupe
+
+811 N. "C" St.,L.V.	350.00	855.00	13	281.09
+
+24	Same as above	350.00	855.00	13	281.09
+
+BLOCK 17 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Bravo, G.
+
+402 McWilliams Ave., L.V.	410.00	1,585.00	54	537.20
+
+2	Same as above	340.00	1,585.00	55	310.74
+
+3	Slade, Alfred & Mildred
+
+Box 445, L.V.	340.00	660.00	55	310.74
+
+4	Same as above	340.00	660.00	55	310.74
+
+5	Murata, Shigeru
+
+4l0 McWilliams Ave., L.V.	340.00	1,355.00	55	310.74
+
+6	Nasu, Otehei & Sada
+
+412 McWilliams Ave., L.V.	340.00	650.00	55	310.74
+
+7	Same as above	340.00	650.00	8	269.87
+
+8	Allen, Marshall A. & Callie M.
+
+4l6 McWilliams Ave.,L.V.	340.00	760.00	8	269.87
+
+9	Hawkins, William & Mary
+
+420 McWilliams Ave.,L.V.	340.00	290.00	8	269.87
+
+10	Same as above	340.00	290.00	8	269.87
+
+11	Hill, Capen & Hazel
+
+422 W. Washington Ave.,L.V.	340.00	475.00	8	269.87
+
+12	Same as above	410.00	475.00	9	496.33
+
+13	Wilson, Lou
+
+c/o Mrs. William Watkins
+
+815 "E" St., L.V.	350.00	940.00	13	281.09
+
+14	Same as above	350.00	940.00	13	281.09
+
+15	Nettles, Mary
+
+814 N. "E" St.,L.V.	350.00	250.00	13	281.09
+
+16	Same as above	350.00	250.00	13	281.09
+
+17	Same as above	350.00	250.00	13	281.09
+
+18	Same as above	425.00	280.00	12	524.97
+
+19	Jacomini, Daniel A. & Petra
+
+Box 372, L.V.	425.00	600.00	58	572.11
+
+20	Same as above	350.00	600.00	59	328.23
+
+21	Same as above	350.00	590.00	59	328.23
+
+22	Bustes, Manuel & Frances Teresa
+
+815	N. "D" St.,L.V.	350.00	2,180.00	59	328.23
+
+23	Jacomini, Dan & Petra D.
+
+819 N. "D" St., L.V.	350.00	100.00	59	328.23
+
+24	Same as above	350.00	100.00	59	328.23
+
+BLOCK 18 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Hodge, Clarence E. & Hattie
+
+502 W. McWilliams Ave.,L.V.	410.00	800.00	9	496.33
+
+2	Same as above	340.00	800.00	8	269.87
+
+3	Same as above	340.00	750.00	8	269.87
+
+4	Sims, Penia & Pearl
+
+508 McWilliams Ave., L.V.	340.00	560.00	8	269.87
+
+5	Same as above	340.00	560.00	8	269.87
+
+6	Johnson, Denetria
+
+510 McWilliams Ave., L.V.	340.00	960.00	8	269.87
+
+7	Same as above	340.00	960.00	8	269.87
+
+8	Hampton, Arneitha
+
+514	McWilliams Ave., L.V.	340.00	960.00	8	269.87

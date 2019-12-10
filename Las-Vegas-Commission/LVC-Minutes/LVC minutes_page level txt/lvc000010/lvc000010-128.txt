@@ -1,0 +1,176 @@
+﻿LOT #	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA	FINAL COST
+
+5	Rau, Frank G., Estate of (½ Int)
+
+Rau, Carl F.	(½ Int)
+
+822 W. 18th St., Apt. A
+
+Los Angeles, 15 Calif.	350.00	780.00	44	277.95
+
+6	Same	as	above	350.00	800.00	44	277.95
+
+7	Same	as	above	350.00	65O.00	53	303.10
+
+8	Leften, Eddie & Liazie	B.
+
+720	"D" st,, L.V.	350.00	400.00	303.10
+
+$	Same	as	above	350.00	390.00	53	303.10
+
+10	Same	as	above	350.00	390.00	53	303.10
+
+11	Same	as	above	350.00	660.00	53	303.10
+
+12	Same	as	above	425.00	660.00	52	546.88
+
+13	Porter, John William & Sweetie Alice
+
+633 McWilliams Ave., L.V.	425.00	960.00	52	546.98
+
+14	Same	as	above	350.00	960.00	53	303.10
+
+15	Caskey, C.E.
+
+121	McWilliams Ave., L.V.	350.00	50.00	53	303.10
+
+12	Same as above	350.00	53	303-10
+
+17	Same as above	350-00	53	303-10
+
+18	Same	as above	350.00	53	303-10
+
+19	Mason, Milton ½ Int
+
+Diamond, Mooris ½ Int
+c/o Dollar Market
+
+433 N.Main St., L.V.	350.00	44	277.95
+
+20	Same	as	above	350.00	44	277.95
+
+21	Same	as	above	350.00	44	277.95
+
+22	Same	as	above	350.00	44	277.95
+
+23	Ashley, Richard & Mary
+
+701	McWilliams Ave., L.V.	350.00	1,230.00	44	277.95
+
+24	Same	as	above	425-00	1,230.00	45	521.83
+
+BLOCK 8 ORIGINAL LAS VEGAS TOWNSITE
+
+1	Risch, Mrs. Zadie 0.
+
+707	N. "F" St., L.V.	410.00	255.00	9	496.33
+
+2	Same	as	above	340.00	250.00	8	269.87
+
+3	Smith, Evelyn F.
+
+Box 1412, L.V.	340.00	350.00	8	269.87
+
+4	Same	as	above	340.00	350.00	8	269.87
+
+5	Scott Invesment Co.
+
+Box 1348, L.V.	340.00	640.00	8	269.87
+
+6	(E 15')	Same	as	above	200.00	400.00	259	161.91
+
+6	(W 10')	Same	as	above	140.00	260	107.95
+
+7	Same	as	above	340.00	8	269.87
+
+8	Cortez, Louis & Josephine
+
+350 W. Washington Ave.,L.V.	340.00	680.00	8	269.87
+
+9	Jarrett, W.H. & Lenora
+
+6l8 Wilson Ave., L.V.	340.00	1,750.00	8	269.87
+
+10	Same as above	340.00	1,750.00	8	269.87
+
+11	Same	as	above	340.00	1,750.00	8	269.87
+
+12	Shephard, Paul & Julia
+
+624 Wilson Ave., L.V.	410.00	1,440.00	9	496.33
+
+13	(W 60') Porter, John W & Sweetie Alice
+
+633 McWilliams Ave., L.V.	150.00	245.00	262	144.00
+
+14	(W	60')	Same	as	above	150.00	245.00	262	144.00
+
+15	(w	60')	Same	as	above	150.00	245.00	262	144.00
+
+16	(w	60')	Same	as	above	150.00	245.00	262	144.00
+
+17	(w	60')	Same	as	above	150.00	245.00	262	144.00
+
+18	(w	60')	Same	as	above	180.00	255.00	261	248.52
+
+13	(E 40') Smith, Sylvester & Gladys
+
+808 N. "G" St., L.V.	100.00	115.00	264	66.97
+
+14	(E 40') Same	as	above	100.00	125.00	264	66.97
+
+15	(E	40')	Same	as	above	100.00	125.00	264	66.97
+
+16	(E	40')	Same	as	above	100.00	125.00	264	66.97
+
+17	(E	40')	Same	as	above	100.00	100.00	264	66.97
+
+18	(E	40')	Same	as	above	120.00	125.00	263	136.65
+
+BLOCK 9 ORIGINAL LAS VEGAS TOWNSITE
+
+13	(W40' of E80')
+
+Harvey, Moses & Nancy
+
+631 McWilliams Ave., L.V.	100.00	165.00	264	66.97
+
+14	(W 40' of E 80')
+
+Same as above	100.00	165.00	264	66.97
+
+15	(W40' of E80')
+
+Same as above	100.00	165.00	264	66.97
+
+16	(W40' of E80')
+
+S	ame as above	100.00	165.00	264	66.97
+
+17	(W40' of E80')
+
+Same as above	100.00	165.00	264	66.97
+
+18	(w40' of E80')
+
+Same as above	120.00	165.00	263	136.65
+
+19	Sheppard, John & Luella
+
+717	N. "F" St., L.V.	425.00	1,050.00	45	521.83
+
+20	Same	as	above	350.00	1,050.00	44	277.95
+
+21	Same	as	above	350.00	1,050.00	44	277.95
+
+22	Same	as	above	350.00	1,050.00	44	277.95
+
+23	Shea, James & Shea, Patrick J.
+
+1110 Mar Vista
+
+Pasadena 6, California	350.00	515.00	44	277.95
+
+24	Same	as	above	350.00	515.00	44	277.95
+
+BLOCK 9 ORIGINAL LAS VEGAS TOWNSITE

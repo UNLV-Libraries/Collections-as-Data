@@ -1,0 +1,137 @@
+﻿352 O
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+______	_______Range_______
+
+Chief of Police	825.00 -	1,003.00
+
+Ass't. Chief of Police	620.00	-	750.00
+
+Police Lieutenant	563.00	-	682.00
+
+Police Sergeant	489.00	-	591.00
+
+Patrolman	407.00	-	489.00
+
+Special Inspector	427.00	-	513.00
+
+Police Woman	407.00	-	489.00
+
+Matron	407.00	-	489.00
+
+Sec. Steno	308.00	-	370.00
+
+Police Reporter	282.00	-	338.00
+
+Police Clerk	258.00	-	308.00
+
+Telephone Operator	269.00	-	323.00
+
+Parking Meter Inspector	338.00	-	407.00
+
+Messenger	215.00	-	258.00
+
+Part-time Crossing Guard	308.00	-	370.00
+
+OPERATING EXPENSE	CITY ANIMAL SHELTER 21
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+__________ 1957-58	1958-59	1959-60_
+
+Administration	01	36,060.61	37,612.00	 37,811.00
+
+Animal Shelter and	02	_______                                                         2,560.00	3,366.00
+
+Buildings
+
+TOTAL OPERATING	EXPENSES	36,060.61	T	41,177.00	T
+
+________________ 40,172.00 T	________________________________
+
+CAPITAL OUTLAY
+
+Kennel Runways and Fencing	2,000.00
+
+Complete North end of Building	______________                                                                                                        3,000.00
+
+TOTAL CAPITAL OUTLAY	15,536.42 T	8,500.00 T	5,000.00 T
+
+DEPARTMENTAL	TOTAL	51,597.03	T	46,177.00	T
+
+________________ 48,672.00 T	 _________________________________
+
+PERSONNEL SCHEDULE
+
+ANIMAL SHELTER 21
+
+Title	Authorized	Employed	Budget
+
+______	1958-59	12-31-58	1959-60
+
+Poundmaster	1                                                           1	1
+
+Animal Shelter Officer	4                                                           4	4
+
+Kennelman	1                                                           1	1
+
+Cashier Clerk	1                                                           1	1
+
+Part-time Animal Shelter	0	0	1
+
+Officer
+
+TOTAL	7	7	8
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+____________________________________________________  Range
+
+Poundmaster	407.00	-	489.00
+
+Animal Shelter Officer	308.00	-	370.00
+
+Kennelman	282.00	-	338.00
+
+Cashier Clerk	269.00	-	323.00
+
+Part-time Animal	Shelter Officer	308.00	-	370.00
+
+OPERATING EXPENSE	FIRE DEPARTMENT 22
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+________ 1957-58__________________ 1958-59__________________ 1959-60________________________
+
+Administration	.01		29,943.78	36,611.00	50,709.00
+
+Training	.02	19,907.82	18,423.00	38,771.00
+
+Prevention	.03	19,624.58	18,275.00	28,891.00
+
+Alarm & Communications	.04	24,578.33	40,039.00	40,343.00
+
+Hydrant & Water Service	.05	4,098.00	3,629.00
+
+Engine Service	.06	444,770.10	429,273.00	494,395.00
+
+Truck Service	.07	26,249.00	30,575.00
+
+Volunteer Service	.08	3,375.00	2,700.00	2,890.00
+
+Rescue Squad	.09	11,767.00	11,780.00
+
+Stations & Buildings	.10	_________ 12,305.00	16,326.00
+
+TOTAL OPERATING EXPENSES	542,199.61  T	718, 309.00  T
+
+_________________ 599,740.00 T	_

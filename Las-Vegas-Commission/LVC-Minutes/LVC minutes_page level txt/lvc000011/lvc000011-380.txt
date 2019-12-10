@@ -1,0 +1,129 @@
+﻿352 T
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+Range
+
+Director of Public Works	867.00	-	1,053.00
+
+Principal Civil Engineer	650.00	-	787.00
+
+Senior Civil Engineer	513.00	-	620.00
+
+Civil Engineer	447-00	-	537-00
+
+Electrical Engineer	447-00	-	537-00
+
+Principal Engineer Assistant	407-00	-	489-00
+
+Senior Engineer Assistant	353-00	-	427-00
+
+Engineer Assistant	308.00      	-   370.00	
+
+Right-of-Way Agent	447-00	-	537-00
+
+Radio Operator	247-00	-	295-00
+
+Reproduction Machine Operator	269.00	-	323-00
+
+Cashier Clerk	269.00	-	323-00
+
+Secretary Steno	308.00	-	370-00
+
+Senior Steno	282.00	-	338.00
+
+Steno Clerk	258.00	-	308.00
+
+OPERATING EXPENSE	OFF-STREET PARKING	57	
+
+Actual	Projected	Recommended	
+
+Function	Expenditures	Expenditures	Expenditures
+
+_________	1957-58	1958-59_______                       1959-60
+
+Administration	.01	24,079.00_________________ ____________ No Budget Necessary
+
+TOTAL	24,079.00 T	___________-0-______ ____________________________________________
+
+CAPITAL OUTLAY
+
+TOTAL CAPITAL OUTLAY	424.17 T	______-0-______ ______________________________________________
+
+DEPARTMENTAL TOTAL	24,503.17 T	_______________ ______________________________
+
+OPERATING EXPENSE	STREET LIGHTING 58
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+___________	1957-58___________________                      1958-59_                    1959-60_
+
+Administration	.01	25,213.42	32,875.00	33,356.00
+
+street Lighting	.02	39,673.94	45,468-00	52,600.00
+
+Traffic Signals	.03	5,694.95	5,931.00	7,581.00	
+
+TOTAL OPERATING EXPENSES	70,582.31	T	93,537.00	T
+
+____________________________ 84,274.00	T	  
+
+CAPITAL OUTLAY
+
+SIGNALS
+
+Main and Gass	8,000.00
+
+Rancho Road and Charleston	12,000.00
+
+7th and Fremont	7,500.00
+
+Bonanza Road and Tonopah Highway	(½)	7,000.00
+
+San Francisco and Paradise Road	(½)	5,000.00
+
+STREET LIGHTING
+
+Hadland Park	6,000.00
+
+Mesquite	5,000.00
+
+Miscellaneous	__________________________ __________ 5,000.00
+
+TOTAL CAPITAL OUTLAY	1,869.81	-	T	55,500.00	*	T
+
+__________________________ 26,000.00	T	_____________
+
+DEPARTMENTAL TOTAL	68,712.50	T	149,037-00	T
+
+________________________  104,274.00	T	_______________________________________
+
+* Contingent upon sale of Land $8,800	
+
+PERSONNEL SCHEDULE
+
+STREET LIGHTING 58
+
+Title	Authorized	Employed	Budget
+
+______	1958-59	12-31-58	1959-60
+
+City Electrician	1	1	1
+
+Utility Electrician	8	8	8	
+
+TOTAL	9	9	9
+
+SALARY SCHEDULE
+
+Title	Monthly	Salary
+
+__________________________________________________  Range_________
+
+City Electrician	513.00	-	620.00
+
+Utility Electrician	388.00	-	468.00

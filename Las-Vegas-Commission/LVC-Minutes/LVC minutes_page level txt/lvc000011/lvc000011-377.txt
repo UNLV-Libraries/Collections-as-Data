@@ -1,0 +1,120 @@
+﻿352 Q
+
+PERSONNEL SCHEDULE
+
+BUILDING INSPECTION 23
+
+Title	Authorized	Employed	Budget
+
+______	1958-59	12-31-58	1959-60
+
+Supt. Building & Safety	1	1	1
+
+Ass't. Supt. Building & Safety1	0	1
+
+Plan Checker	1	0	0
+
+Senior Building Inspector	1                            1	1
+
+Building Inspector	3           2	3
+
+Plumbing Inspector	2	2	2
+
+Electrical Inspector	2                           2	2
+
+Steno-Clerk	2                            2	2
+
+Typist-Clerk	1	1	1
+
+TOTAL	14	11	13
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+______	Range_______
+
+Sup't. Building & Safety	591.00	-	715.00
+
+Ass't. Sup't. Building & Safety	468.00	-	563.00
+
+Plan Checker	447.00	-	537.00
+
+Senior Building Inspector	447.00	-	537.00
+
+Building Inspector	407.00	-	489.00
+
+Plumbing Inspector	407.00	-	489.00
+
+Electrical Inspector	407.00	-	489.00
+
+Steno-Clerk	258.00	-	308.00
+
+Typist-Clerk	247.00	-	295.00
+
+OPERATING EXPENSE	CIVIL DEFENSE 26
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+	1957-58	1958-59________________ 1959-60____________________________
+
+Administration	.01	400.00	1,927.00	5,000.00
+
+TOTAL OPERATING EXPENSES	400.00	T	5,000.00	T
+
+____________ 1,927.00 T	______________
+
+CAPITAL OUTLAY
+
+Capital Outlay items required	35,000.00
+
+to be on hand in event of a
+disaster
+
+TOTAL CAPITAL OUTLAY		35,000.00 T
+
+DEPARTMENTAL TOTAL	400.00	T	40,000.00	T
+
+_______________ 1,927.00 T	______________________________________
+
+OPERATING EXPENSE	HEALTH DEPARTMENT 30
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+____________	1957-58	1958-59	1959-60
+
+Administration	.01	36,486.86	26,288.00	28,512.00
+
+Insect Control	.02	11,161.00	11,750.00
+
+Mentally Retarded Program	.03	________________                              1,917.00	2,000.00
+
+TOTAL OPERATING EXPENSES	36,486.86 T	42,262.00 T
+
+__________________ 39,366.00 T	______________________________________
+
+OPERATING EXPENSE	SEWAGE DISPOSAL	31
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+__________	1957-58_______                          1958-59_                            1959-60_
+
+Administration	.01	5,727.12	No
+
+Sewage Disposal Opr.	.02	39,527.29	Budget
+
+Sewage Disposal Maintenance .03	22,617.85	_____Necessary
+
+TOTAL	67,882.26 T	-0-	_______-0-____________________________
+
+CAPITAL OUTLAY
+
+TOTAL CAPITAL.OUTLAY	167,585.32 T	-Q-__________________ __________________
+
+DEPARTMENTAL TOTAL	235,467.58 T	-Q-__________________

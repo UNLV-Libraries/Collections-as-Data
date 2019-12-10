@@ -1,0 +1,183 @@
+﻿LOT A	PROPERTY OWNERS	REALTY	IMPROVEMENTS FORMULA FINAL COST
+
+7	Moody, Henry
+
+321	Van Buren Ave., L.V.	710.00	3;700.00	154	831.17
+
+8	Bunton, Annie Mae
+
+317 Van Buren Ave., L.V.	590.00	4,620.00	158	587.30
+
+9	Wilson, Woodrow & Soma
+
+313	Van Buren Ave., L.V.	590.00	1,990.00	1$8	587.30
+
+10	Cannon, Jr., Jodie & Cannon, Jimmie
+
+Ray & Jerald, 305 Van Buren Ave.,L.V.       590.00	4,040.00	149	555.86
+
+11	Same as above	590.00	4,040.00	149	555.86
+
+12	George, David N. & Mai
+
+301	Van Buren Ave., L.V.	710.00	5,090.00	148	799*73
+
+BLOCK 10 VALLEY VIEW ADDITION
+
+1	Walten, Cendola & Orene
+
+300 Monroe Ave.,L.V.	710.00	1,150.00	147	806.47
+
+2	Williamson, Mattie B.
+
+304 Monroe Ave.,L.V.	590.00	1,140.00	146	562.59
+
+3	Wickliffe, Lawrence L.	& Willa Mae
+
+21$ Madison Ave., L.V.	590.00	146	562.59
+
+4	(plus 2' frontage on Lot 5)
+
+Johnson, Lizzie
+
+316	Monroe Ave., L.V.	590.00	610.00	362	597.51
+
+5	(less 2' frontage)
+
+Jefferson, P.L. & Vidalur
+
+320 Monroe Ave., L.V.	590.00	2,310.00	363	590.55
+
+6	Same as aboVe	710.00	10,000.00	153	837.91
+
+7	Sanders, Allen Jr. & Lillian
+
+1314 "D" St., L.V.	710.00	4,380.00	154	831.17
+
+8	Sparks, Coy & Mildred
+
+319	Jackson St., L.V.	590.00	1,610.00	158	587.30
+
+9	Page, Ruby
+
+31$ Jackson Ave., L.V.	590.00	1,010.00	1$8	587.30
+
+10	Stepps, H.C. & Hazel
+
+c/o Hazel Brown, 1417 Nevada,
+
+Flint, Michigan	590.00	600.00	149	555.86
+
+11	James, Isiah & Audrey Evelyn
+
+1323 "C" St., L.V.	590.00	4,740.00	149	555.86
+
+12	Same as above	710.00	4,740.00	148	799.73
+
+BLOCK 11 VALLEY VIEW ADDITION
+
+1	Ware, Zelma C. & Verna Mae
+
+300	Madison Ave.,L.V.	710.00	1,610.00	116	799.73
+
+2	Davis, Mattie
+
+304 Madison Ave., L.V.	590.00	1,930.00	115	555.86
+
+3	Shell, Ulles&Eva
+
+308 Madison Ave.,L.V.	590.00	1,600.00	115	555.86
+
+4	Robinson, Juluas
+
+314	Madison Ave., L.V.	590.00	450.00	117	587.30
+
+5	Hays, Lola
+
+316	Madison Ave., L.V.	590.00	2,140.00	117	587.30
+
+6	Pullens, E.L.
+
+322	Madison Ave., L.V.	710.00	1,890.00	119	831.17
+
+7	Johnson, R.M. & Elvessie
+
+408 Van Buren Ave., L.V.	710.00	7,350.00	38$	506.93
+
+8	Harris, Sam & Mary E.
+
+317	Monroe Ave., L.V.	590.00	75.00	107	594.03
+
+9	Anthony, Louise
+
+71$ N. "C" St.,L.V.	590.00	1,760.00	107	594.03
+
+10	Prldhomme, Joe & Creela
+
+311	Monroe Ave., L.V.	590.00	1,160.00	102	562.59
+
+11	Calhoun, Annie Mae
+
+163$ "G" St.,L.V.	590.00	1,230.00	102	562.59
+
+12	Johnson, Ike & Sadie
+
+301	Monroe Ave.,L.V.	710.00	3,470.00	103	806.47
+
+BLOCK 12 VALLEY VIEW ADDITION
+
+1	Knuckles, Louella
+
+302	Jefferson Ave., L.V.	710.00	754.00	116	799.73
+
+2	(E	 ½)	Same as above	295.00	536.00	34l	277.93
+
+2	(W ½)	Duncan, George E.
+
+306	Jefferson Ave., L.V.	295.00	317*00	34l	277.93
+
+3	Same as above	590.00	953*00	115	555.86
+
+4	Rose, Perry
+
+308 Jefferson Ave., L.V.	590.00	2,760.00	235	643.87
+
+5	Church: New Jerusalem Baptist Church,
+a Nevada Corp. c/o Ira B. Mason
+
+218 Adams Ave.,L.V.	590.00	2,480.00	235	643.87
+
+6	(S	60')	Same as above	255.00	1,120.00	342	430.24
+
+6	(N	80')	Same as above	335.00	270.00	343	457.50
+
+7	Spates, Blaney
+
+1122 "D" St., L.V.	710.00	2,400.00	236	887.75
+
+8	Coleman, Toy
+
+317	Madison Ave.,L.V.	590.00	1,190.00	235	643.87
+
+9	Same as above	590.00	1,190.00	235	643.87
+
+10	Church: St. James Missionary Baptist
+
+Church of Las Vegas, c/o Box 1948, L.V.    590.00	150.00	115	555.86
+
+11	Franklin, Verce & Franklin, Charlie Ross
+
+307	Madison Ave., L.V.	590.00	970.00	115	555.86
+
+BLOCK 13 VALLEY VIEW ADDITION
+14	City of Las Vegas
+
+Las Vegas, Nevada	7,560.00	14,480.00	372	6,497.73
+
+"A"	Las Vegas Grammar School
+
+District #12, Las Vegas, Nevada	2,000.00	67,500.00	383	6,994.94
+
+BLOCK 14 VALLEY VIEW ADDITION
+
+1-4-56

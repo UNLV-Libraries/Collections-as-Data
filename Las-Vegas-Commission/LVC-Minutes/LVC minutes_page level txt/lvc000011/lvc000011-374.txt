@@ -1,0 +1,157 @@
+﻿352 N
+
+PERSONNEL SCHEDULE
+
+PERSONNEL 13
+
+Title	Authorized	Employed	Budget
+
+______	1958-59	12-31-58	1959-60
+
+Director of Personnel	1                                           1	1
+
+Personnel Assistant	1	1	1
+
+Senior Clerk	1                1	1
+
+Clerk Typist	0	0	1
+
+TOTAL	3	3	4
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+Range________
+
+Director of Personnel	591.00	-	715.00
+
+Personnel Assistant	370.00	-	447.00
+
+Senior Clerk	308.00	-	370.00
+
+Clerk Typist	247.00	-	295.00
+
+OPERATING EXPENSE	POLICE 20
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+1957-58	1958-59	1959-60	
+
+Administration	01	65,831.64	38,740.00	38,258.00
+
+Training	02	2,765.43	1,649.00	13,703.00
+
+Records	03	56,612.20	56,486.00	60,814.00
+
+Traffic	04	85,406.46	83,535.00	130,033.00
+
+Juvenile	05	12,720.04	14,649.00	25,733.00
+
+Detective	06	100,981.92	124,827.00	132,197.00
+
+Patrol	07	288,112.58	346,587.00	381,487.00
+
+Detention of Prisoners	08	118,363.56	118,899.00	127,129.00
+
+Parking Meters	09	16,666.59	19,435.00	28,747.00
+
+School Guards	10	20,268.96	11,562.00	15,179.00
+
+Identification	11	27,504.52	26,932.00	29,351.00
+
+Rehabilitation Farm	12	28,139.83	25,586.00	24,799.00
+
+Licensing	13	159.00	22,636.00
+
+Communications System	14	11,818.00	25,521.00
+
+Ambulance Service	15	1,800.00	1,909.00
+
+Medical Service	16	12,387.00	13,713.00
+
+Stations and Buildings	17	22,753.00	24,812.00
+
+Auxiliary Police	18	2,700.00	2,700.00	2,863.00
+
+TOTAL OPERATING EXPENSE	826,073.73	920,504.00		1,098,884.00
+
+CAPITAL OUTLAY
+
+Heating and cooling system for the
+
+south portion of the police building	19,000.00
+
+Electrical Vault - removal & Emergency
+
+Generator	14,000.00
+
+Refrigerator and deep freeze	5,000.00
+
+File Cabinet - 4 drawer letter size	1,105.00
+
+File Cabinet - 8 drawer 4 x 6	185.00
+
+"	"	10 drawer 3 x 5	525.00
+
+Misc. File Cabinets	227.00
+
+Fingerprint Index & Misc. I.D. Equip.	1,890.00
+
+Electrical Sound Equipment	1,000.00
+
+Misc. Office Furniture & Office Equip.	1,705.00
+
+Misc. Medical Equipment	380.00
+
+Sirens, Red Lights, etc. (Training Equip.)	2,198.00
+
+Blankets, Mattresses & Mattress Covers	2,400.00
+
+Misc. Kitchen Utensils & Hand Tools	_______________ _______________________ ____________________385.00
+
+TOTAL CAPITAL OUTLAY	28,920.96	42,000.00	50,000.00
+
+DEPARTMENTAL TOTAL	854,994.69	962,504.00	1,148,884.00
+
+PERSONNEL SCHEDULE
+
+POLICE 20
+
+Title	Authorized	Employed	Budget
+
+______	1958-59	12-31-58	1959-60
+
+Chief of Police	1	1	1
+
+Ass't. Chief of Police                                            1	1	1
+
+Police Lieutenant	4	4	4
+
+Police Sergeant	16	16	16
+
+Patrolman	84	79	94
+
+Special Inspector                                                  1	1	1
+
+Policewoman	1	1	1
+
+Matron	4	4	4
+
+Sec. Steno	2	2	2
+
+Police Reporter	15		14	18
+
+Police Clerk	7	7	7
+
+Telephone Operator	4	4	4
+
+Parking Meter Inspector	2	2	2
+
+Messenger	1	1	1
+
+Part-time Crossing	 Guard                                   7	7	7
+
+150	144	163

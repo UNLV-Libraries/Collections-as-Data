@@ -1,0 +1,133 @@
+﻿352 D
+
+81 Recreation	95 Contribution to other Funds
+
+1.	Administration	1.	Print	Shop
+
+2.	Cultural	2.	Garage
+
+3.	Physical	3.	Maintenance
+
+4.	Social	4.	Urban	Renewal
+
+5.	Supervised Play	5.	Sever	System
+
+6.	Central Swimming Pool
+
+7. Westside Swimming Pool	99 Miscellaneous
+
+8. John C. Fremont Swim. Pool	1.	Administration
+
+9.	Hyde Park Swimming Pool	2.	S. N.	I. F.
+
+10.	Recreation Building
+
+86 Golf Course
+
+1.	Administration
+
+2.	Planting and care of Lawns
+
+3.	Tree and Shrub care
+
+4.	Bldg. Maint.
+
+314 Print Shop	640 Urban Renewal
+
+1.	Administration
+
+731 Sewage Disposal
+
+351	Garage	1.	Administration
+
+1.	Administration	2.	Sewage Disposal	Operation
+
+2.	Vehicle Operation	3.	Sewage Disposal	Maintenance
+
+4. Sewer Maintenance
+
+352	Maintenance	5.	Storm Drains
+
+1.	Administration
+
+757 Off-Street Parking
+392	Reimbursable Expense	1.	Administration
+
+Example:
+
+Department	Function	Object Explanation
+
+Operating Expense	10	9	4	Purchase of business licenses
+
+Capital Outlay	10	2	85	Purchase of adding machine
+
+for accounting
+
+CITY OF LAS VEGAS
+1959-60 BUDGET
+
+SUMMARY BY FUNDS
+
+ACTUAL	PROJECTED	ESTIMATED
+
+GENERAL FUNDS	1957-58	1958-59	1959-60
+
+Beginning Fund Balance	271,100.77	220,326.17	237,667.17
+
+Revenues_________________ 3,813,777.81	3,887,484.00	_______4,103,198.95_______
+
+Available Funds	4,084,878.58	4,107,810.17		4,340,866.12	
+
+Current Expenses	(3,086,905.10)	(3,324,560.00)	(3,588,318.12)
+
+Capital Outlay	(777,647.31)	(462,582.00)	(561,339.00)
+
+Contribution to other Funds_____________________(83,001.00) _______(191,209.00) 
+
+Ending Fund Balance___________220,326.17________237,667.17_______________-Q-
+
+DEBT SERVICE FUNDS:
+
+GENERAL OBLIGATION
+
+Beginning Fund Balance	274,840.20	288,610.03	305,772.79
+
+Revenues______________________ 470,705.33	 427,660.76	__________470,518.25
+
+Available Funds	745,545-53		716,270.79	776,291.04
+
+Bond Interest	(184,935.50)	(173,498.00)	(163,110.50)
+
+Bond Redemption______________(272,000.00)	(237,000.00)	 (237,000.00)
+
+_____Ending Fund Balance___________288,610.03________305,772.79	__________376,18.54
+
+TOTAL BUDGETED FUNDS
+
+Beginning Fund Balance	545,940.97	508,936.20	543,439.96
+
+Revenues_____________________4,284,483.14_____4,315,144.76	________4,573,717.20
+
+Available Funds	4,830,424.11		4,824,080.96	5,117,157.16
+
+Expenditures_______________(4,321,487.91)	(4,280,641.00)	 (4,740,976.62)
+
+Ending Fund Balance____________508,936.20	543,439.96	__________376,180.54
+
+CITY OF LAS VEGAS
+
+1959-60 BUDGET	
+
+PROPERTY TAX DATA
+
+Fiscal Year 1958-59	Fiscal Year 1959-60
+
+Tax Year	Amount	Tax Year	Amount
+
+ASSESSED VALUATIONS
+
+Realty Roll	1957-58	110,922,711	1958-59	114,976,369
+
+Personal Property	1958-59	13,525,000	1959-60	13,525,000
+
+TOTAL	124,447,711	128,501,369

@@ -1,0 +1,131 @@
+﻿352 X
+
+PERSONNEL SCHEDULE
+
+GOLF COURSE 86
+
+Title	Authorized	Employed	Budget
+
+_______	1958-59	12-31-58	1959-60
+
+Managing Pro	1	1	1
+
+Greenskeeper	1	1	1
+
+Golf Starter	1	2	2
+
+Light Equipment Operator	4	4	4
+
+Laborer	8	7	7
+
+TOTAL	15	15	15
+
+SALARY SCHEDULE
+
+Title	Monthly Salary
+
+_______ Range_______________________________________________________
+
+Managing Pro	206.00	-	247.00
+
+Greenskeeper	447.00	-	537.00
+
+Golf Starter	269.00	-	323.00
+
+Light Equipment Operator	323.00	-	388.00
+
+Laborer	269.00	-	323.00
+
+OPERATING EXPENSE	INSURANCE 92
+
+Actual	Projected	Recommended
+
+Function	Expenditures	Expenditures	Expenditures
+
+	1957-58	1958-59_______                                        1959-60_
+
+Fire and Theft	.02	18,044.98	16,500.00	Insurance
+
+Fidelity Bonds	.03	1,260.87	442.00	Allocated	to
+
+Public Liability	.04	14,854.37	52,458.00	Departments
+
+Industrial Insurance	.05	32,766.20	35,000.00
+
+Retirement	.06	108,829.32	114,555.00	______________________________________
+
+TOTAL OPERATING EXPENSES	175,755.74 T	-0-
+
+_________________ 218,955.00 T	______________________________________
+
+CONTRIBUTIONS TO OTHER FUNDS 95
+
+Actual	Projected	Recommended
+
+Expenditures	Expenditures	Expenditures
+
+1957-58______ 1958-59__________________ 1959-60________________________________________
+
+To Print Shop	8,027.00	330.00
+
+To Motor Equipment	58,310.00	39, 304.00
+
+To Maintenance	11,664.00	1,575.00
+
+To Urban Renewal	100,000.00
+
+To Sewer System	______________ 5,000.00	50,000.00
+
+TOTAL TRANSFERS	______-0-	83,001.00 T	191,209.00 T
+
+TRANSFERS TO COVER:
+
+Additional Print Shop Equipment
+
+1 File Cabinet	80.00
+
+1 Electric Stapling Machine	200.00
+
+1 Paper Cart	50.00
+
+TOTAL PRINT SHOP	330.00	 T
+
+Additional Motor Equipment
+
+Rubber Tired Roller	7,000.00
+
+Side Delivery Broom	1,000.00
+
+Lathe	5,000.00
+
+Drill Press		140.00
+
+Pronto Pullers	194.00
+
+Boring Bar	1,295.00
+
+Rehabilitation Equipment-Police	9,000.00
+
+5 Additional Cycle w/Radio	12,000.00
+
+Gang Mower - Park	2,500.00
+
+Lawn Sweeper - Park	375.00
+
+Aerifier - Golf	600.00
+
+Generator - Golf	200.00
+
+TOTAL MOTOR EQUIPMENT	304.00 	T
+
+Maintenance	1,	575.00
+
+TOTAL MAINTENANCE	1,575.00	T
+
+Urban Renewal - Madison School Proj.	100,000.00  T
+
+TOTAL URBAN RENEWAL	100,000.00  T
+
+Sewer System - Flood Control	000.00
+
+TOTAL SEWER SYSTEM	50,000.00	T

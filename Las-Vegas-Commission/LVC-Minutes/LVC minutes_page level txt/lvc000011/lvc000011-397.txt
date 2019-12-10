@@ -1,0 +1,157 @@
+﻿361
+
+PRECINCT	NAME
+
+51	Vera O. DeFrates	Insp.
+
+Dixie Rose McQueen	Clerk
+
+Margaret C. Biel	Clerk
+
+52	Phyllis H. Gronberg	Insp.
+
+Margaret Lawson	Clerk
+
+Patty Marion	Clerk
+
+53	Violet ,D. Gagliarde	Insp.
+
+Viola M. Clark	Insp.
+
+Shirley L. Shortslieve	Clerk
+
+Gladys J. Gamble	Clerk
+
+54	Phyllis M. Knox	Insp.
+
+Mary Aiken	Clerk
+
+Irma Weatherford	Clerk
+
+55	Arthur A. Thomas	Insp.
+
+Ruby C. Nawiratil	Clerk
+
+Beverly Hughes	Clerk
+
+56	Justine Griffen	Insp.
+
+Irene Carstens	Clerk
+
+Blanche E. Ennis	Clerk
+
+57	Harold E. Billings	Insp.
+
+G. C. Gansl	Clerk
+
+Della M. Capen	Clerk
+
+58a	Mildred Rodkey	Insp.
+
+Florence Bradford	Clerk
+
+Jane Scalise	Clerk
+
+58b	Carolyn M. Miller	Insp.
+
+Vera I. Brackin	Clerk
+
+Jacob H. Peelen	Clerk
+
+59	Beverly Price	Insp.
+
+Maxine Gates	Clerk
+
+Peggy Holley	Clerk
+
+60	Ethel Hurdle	Insp.
+
+Seleste Mae Scruggs	Clerk
+
+Essie B. Funches	Clerk
+
+61	Hazel Longo	Insp.
+
+Roberta Gaughan	Clerk
+
+Mary Quinn	Clerk
+
+62a	Nora L. Sholes	Insp.
+
+Rowena Warner	Clerk
+
+Helen Rasmussen	Clerk
+
+62b	Della Combs	Insp.
+
+Frances Greer	Clerk
+
+Wilma E. Fairhall	Clerk
+
+63	Tennys B. Mortensen	Insp.
+
+Dorothy S. Yeager	Insp.
+
+Alline Johnson	Clerk
+
+Hildegard D. Domina	Clerk
+
+64	Stella E. Reede	Insp.
+
+Artie M. Allen	Clerk
+
+Elizabeth S. Pick	Clerk
+
+65	Lela Peppi	Insp.
+
+Jean Egan		Clerk
+
+Oneadie Oliver	Clerk
+
+66	Barbara L. Green	Insp.
+
+Anne G. Ratner	Clerk
+
+Annette Goldfarb	Clerk
+
+67	Martha A. Kendall	Insp.
+
+Doris Blise	Clerk
+
+Rhea G. Mulvihill	Clerk
+
+68	Florene B. Egan	Insp.
+
+Irene Knadler	Clerk
+
+Helen Tsouras	Clerk
+
+69	Leda A. Mathis	Insp.
+
+Ruth E. Hazard	Insp.
+
+Ann Underwood	Clerk
+
+Myrtle G. Oliver	Clerk
+
+70	Shelia G. Dederichs	Insp.
+
+Beverly J. Johnson	Clerk
+
+Janet Kressler	Clerk
+
+71	Jeanette Purcell	Insp.
+
+June L. Vanwie	Clerk
+
+Clella M. Keckler	Clerk
+
+72	Leon O. Kinder	Insp
+
+Rose Mowinski
+
+Gloria Jensen	Clerk
+
+Clerk
+
+4-1-59

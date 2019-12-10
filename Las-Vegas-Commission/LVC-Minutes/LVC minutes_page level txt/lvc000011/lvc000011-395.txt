@@ -1,0 +1,155 @@
+﻿359
+
+PRECINCT	NAME
+
+5	Blanche Leland	Insp.
+
+Louise H. Natusch	Clerk
+
+Elizabeth Boswell	Clerk
+
+6	Celia Maynard	Insp.
+
+Irene Hauck	Clerk
+
+Anna Aljets	Clerk
+
+7	Ophie Smith	Insp.
+
+A. L. Bailey	Clerk
+
+Minna M. Flood	Clerk
+
+8	Eloise C. Achatz	Insp.
+
+Elizabeth S. Weber	Clerk
+
+Lilyan Johnson	Clerk
+
+9	Jeanette Richardson	Insp.
+
+Emma Walker	Clerk
+
+Mary E. Freeman	Clerk
+
+10	Marne E. Cohn	Insp.
+
+Howard L. Weiand	Clerk
+
+Helen L. Pierce	Clerk
+
+11	Nora Nicholson	Insp.
+
+Letha Ann Thomas	Clerk
+
+Ruth E. Butler	Clerk
+
+12	Doris E. Sellman	Insp.
+
+Bernice Pleger	Clerk
+
+Norma J. Mudd	Clerk
+
+13	Hazel T. Spendlove	Insp.
+
+Hilda Pine	Clerk
+
+Edna E. Bell	Clerk
+
+Lillian F. Ludwick	Insp.
+
+14	Elma M. Johnson	Insp.
+
+Anna A. Miller	Clerk
+
+Elizabeth Carmichael	Clerk
+
+15	Grace McNatt	Insp.
+
+Lila Crane	Clerk
+
+Alice L. Gifford	Clerk
+
+Susie M. Schmidt	Insp.
+
+16	B. Jeane Norman Diamond	Insp.
+
+Beulah Frehner	Clerk
+
+Hannah L. Estes	Clerk
+
+17	Mary R. McDorman	Insp.
+
+Kathryn Weiss	Clerk
+
+Rae O. Campbell	Clerk
+
+18	Lena M. Petitti	Insp.
+
+Margaret J. Donovan	Clerk
+
+Helen Holt	Clerk
+
+19	Genevieve Bonamy	Insp.
+
+Edith M. Allen	Clerk
+
+Minnie Garner	Clerk
+
+20	Mazie Martin Jones	Insp.
+
+Hellan C. Fancher	Clerk
+
+Antonia Eve Pico	Clerk
+
+21	Kate Santongue	Insp.
+
+Joanne Mirabelli	Clerk
+
+Sara Shamik	Clerk
+
+22	Bessie E. P. Harris	Insp.
+
+Harmon Northrop	Clerk
+
+Florence Holt Sims	Clerk
+
+23	Claire Samuels	Insp.
+
+Jeannett Carr	Clerk
+
+Estelle Powell	Clerk
+
+24	Elizabeth Pardaffy	Insp.
+
+Clarence E. Cannon	Clerk
+
+Frank Natusch	Clerk
+
+25	P. Jane Ewald	Insp.
+
+Alice Allredge	Clerk
+
+Glenna Wilson	Clerk
+
+26	Kathryn G. Johnson	Insp.
+
+Christina Smith	Clerk
+
+Lura Hazel Hardy	Clerk
+
+Leanna Chadwick	Insp.
+
+27	Grace M. Tuggle	Insp.
+
+Ruth Richert	Clerk
+
+Oma L. Gentner	Clerk
+
+28	Mattie Giasson	Insp.
+
+Barbara W. Parker	Clerk
+
+Cleo Purdy	Clerk
+
+4-1-59
