@@ -1,0 +1,126 @@
+﻿1 Race Horse Book
+
+1 Sports Book
+
+PLAYLAND ARCADE	129	So. 1st St	George G. Parry	35 Slots
+
+PLAYLAND BAR	131	So. 1st St	George G. Parry	3	Slots
+
+PRICE'S SHELL SERVICE	200	Fremont	Clyde R. Price	3	Slots
+
+PRIME MEATS & PROVISIONS 820	So. 5th St.	Al Wendelboe	5	Slots
+
+CO
+
+PROFESSIONAL DRUG CO.	421 Fremont St.	Gayer Amusement Co.	3 Slots
+
+RANCHO ANITA MOTEL	2121 So. 5th St.              W. Norman McConkey	3 Slots
+
+RED & WHITE CAFE	801 So. 1st St 	Kroloff Distributing Co.	4 Slots
+
+RICHFIELD TRUCK TERMINAL 629 South Main		C.E. Ronnow	3 Slots
+
+ROUND UP DRIVE INN	So. Main at 5th	Round Up, Inc.	6	Slots
+
+ROUND UP LIQUOR STORE	So. Main at 5th                 St.Round Up Inc.	5	Slots
+
+SAM'S CAEE	320 Fremont	John A. Katsaros	5 Slots
+
+SAMMY'S NEWS STAND	109 So. 1st St.	Vegas Enterprises Co.	2 Slots
+
+SAV-ON LIQUOR STORE	504 No. Main St.	Sam Don	3	Slots
+
+SAV-ON LIQUOR STORE	504 No. Main St.	O.W. Glenn	1	Slot
+
+SAVOY CAFE	624 So. 5th St.		D.T. Shea	3 Slots
+
+SILEX COFFEE SHOP	209 No. Main	Richard B. Borders	3 Slots
+
+SHAMROCK HOTEL	600 No. Main	Shamrock Hotel Corp	1	"21"
+
+SHAMROCK HOTEL	614 No. Main St.	Vegas Enterprises Co.	1	Slot
+
+SHELL TRIANGLE SERVICE	1800 So. Main	James A. Ward	1 Slot
+
+SILL'S	1002 So. 5th	Orpha Miller	68 Slots
+
+SILVER CAFE	106 North 1st	Mrs. Joe Morgan	5	Slots
+
+SILVER CLUB	108 North 1st	Mrs. Joe Morgan	5	Slots
+
+SILVER STATE SERVICE	1426 So. 5th	Cardinal & Sullivan	2	Slots
+
+THE SKILLET	1519 So. Main	Cardinal & Sullivan	3	Slots
+
+SOUTHWEST LIQUOR STORE	101 Carson	 M.H. and Max Gordon	2 Slots
+
+SPIC & SPAN	930 Fremont St.	Vegas Enterprises Co.	3 Slots
+
+SNYDER'S	300 W. Bonanza	 	L.L. Snyder	4 Slots
+
+STEWART'S MARKET	2021 Stewart St.	S. Grant Stewart	3 Slots
+
+SNYDER'S DRIVE INN	2222 Fremont	  L.L. Snyder	4 Slots
+
+SUNSET LIQUOR STORE	1027 So. Main	O.W. Glenn	7 Slots
+
+STANDARD MARKET	602 So. 5th	L.P. Lawrence	3	Slots
+
+SWISS VILLAGE RESTAURANT	116 No. 5th St.	Lawrence L. Henry	3	Slots
+
+THE TAVERN	123 So. 2nd	Vivian L. Swick	3 Slots
+
+TED AND DOT'S CAFE	506 South Main	 	Vegas Enterprises	1 Slot
+
+THRIFTY MARIE T	1054 So. Main	James Pickerell	2	Slots
+
+TOWN BARBECUE	506-Fremont	E.D.Ciliax	2	Slots
+
+WARDS MOBILE SERVICE	200 No. 5th	Gayer Amusement Co	1 Slot
+
+WESTERN LIQUOR STORE	#6 E. Charleston	O.W. Glenn	l Slot
+
+Blvd.
+
+WESTERN LIQUOR STORE	#6 E. Charleston	R.J. Stephens	3.Slots
+
+Blvd.
+
+THE WESTERNER	23	Fremont	E. Giorgetti & C. Horden	100 Slots
+
+3 Craps
+3 "21"
+
+1 Roulette
+1 Race Horse Keno
+1 Race Horse Book
+1 Pan
+1 Poker
+
+WESTSIDE SHOPPING CENTER	1315 D. St.	Gayer Amusement	Co.	1 Slot
+
+WESTSIDE TAVERN	206 Wilson	George Blohm	3	Slots
+
+WESTSIDE TAVERN	206 Wilson St.	O.W. Glenn	1	Slot
+
+WHITE BUNNY ICE CREAM CO. 517 So. 5th St.                  Paul Ward		2 Slots
+
+WHITE CROSS DRUG CO., INC.   201 Fremont St.              Aurelia Scheer	4	Slots
+
+WHITE SPOT CAFE	109 Fremont	James S. Pappas	5	Slots
+
+WILSHIRE SERVICE STATION	1529 So. 5th	Gayer Amusement Co.	1 Slot
+
+WIMPY'S	  210 Fremont	Kroloff Distributing Co. 	      4 Slots
+
+WIMPY'S DRIVE INN	1516 So. 5th	Vegas Enterprises Co,	5	Slots
+
+WING'S CAFE	12 Fremont	El Cortez Hotel, Inc.	3	Slots
+
+WOODWARD'S SIGNAL SERVICE 2102 So. 5th	Harold R. Woodward	3 Slots
+
+WITTWER CAFE	720 North Main	Reed Wittwer	4 Slots
+
+WRIGHT MARINELLO BEAUTY	318 Fremont	So. Nev. Vending Co.	1 Slot
+
+SALOON

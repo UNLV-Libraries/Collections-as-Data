@@ -1,0 +1,134 @@
+﻿LOCATION: Block 8, Ladd's Addition
+
+LOT	NAME & ADDRESS	LAND & IMPR.	COST
+
+OF OWNER	ASSESSMENT
+
+2	Kimball, O. A.	$1,140	$567.32
+
+Irreg. 3	125 North 10th Street
+
+City
+
+LOCATION:	Block 9, Ladd's Addition
+
+1,2,3	Viale, Charles & Irene M.	$9,575	$556.62
+
+1300 E. Fremont Ave.	10,225
+
+City
+
+4	Brown, B. Mahlon	$3,000	$139.16
+
+526 South 7th Street
+
+City
+
+5.6	Roschl, Richard & Lacy Mae	$6,650	$1,241.68
+
+15,16	201 North 3rd Street
+
+City
+
+7,8,9,10	Delkin, Fred & Esther L. (½ Int.)	$3,350	$1,659.14
+
+Delkin, James L. & Barbara (½ Int.)
+
+Bellevue, Washington
+
+11	Gillies, Fred & Margaret	$1,140	$567.32
+
+310 North 16th
+City
+
+12.13	Las Vegas Church of the Nazarene	$ 550	$984.78
+
+c/o Robert A. Lundgren	7,500
+
+Box 1192
+City
+
+14	Franklin, Albert & Oleta (½ Int.)	$ 840	$417.46
+
+Franklin, John Thomas (½ Int.)
+
+1028 E. Fremont Ave.
+
+City
+
+LOCATION:	Block 10, Ladd's Addition
+
+1,2	Hawkins, Stella	$6,575	$417.46
+
+130 North 5th Street
+City
+
+3	Jones, Herbert M.	$3,000	$139.16
+
+c/o Beckley Building
+
+City
+
+4.5.6	Sagstetter, Frank (1/3 Int.)	$10,350	$1,380.83
+
+12.13	Sagstetter, Anna (1/3 Int.)	13,070
+
+Olson, Mary S. (1/3 Int.)
+
+721 Gass Avenue
+City
+
+7	Jones, B. M. & Arlie	$ 600	$406.76
+
+Box 1735	1,885
+
+City
+
+9,14	Jones, Clifford A.	$1,200	$834.92
+
+Beckley Bldg.	1,380
+
+City
+
+10,11	Delkin, A. C. & Eugenia	$1,970	$984.78
+
+1100 South 4th Street
+Arcadia, California
+
+15	Henze, C. F. & Livinia J.	$ 600	$417.46
+
+124 South 14th Street	750
+
+City
+
+16	Rodgers, O. W. & Catherine R.	$ 650	$567.32
+
+1315 Carson Ave.	1,975
+
+City
+
+LOCATION:	Block 11, Ladd's Addition
+
+1,2,3,4	Whipple, Leroy & Laverna	$2,450	$1,819.70
+
+320 South 6th Street	1,500
+
+City
+
+5	Poole, Howard	$ 600	$267.60
+
+Box 403	1,640
+
+City
+
+6	Hufferd, Fred M.	$ 705	$267.60
+
+General Delivery
+
+City
+
+7,8	Schultz, Henry C.	$1,200	$178.02
+
+319 E. Fremont Ave.	13,736
+
+City

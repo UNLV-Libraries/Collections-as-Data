@@ -1,0 +1,74 @@
+﻿301
+
+Place	Operator	A dress	Type
+
+Las Vegas Club	J. Kell Houssels
+
+Las Vegas Tavern	J. Kell Houssels
+
+Las Vegas Liquor Store	C. M. Travis
+
+Las Vegas Pharmacy	Las Vegas Pharmacy, Inc
+
+Lido Bar	Anna Mae Weller
+
+Lincoln Market	Vaughn K. Leavitt
+
+Log Cabin Bar	Sam Taylor & Sam Jones
+
+Mainer's Richfield Service Station Gayer Co.- Lee Hughes
+
+Malt Shop	V. H. Dillehunt
+
+The Market Spot	Harry Levy
+
+The Market Spot Liquor Store Harry Levy
+
+Mayfair Drug Company	W. L. Holst, Jr.
+
+Mayfair Liquor Store	Blaine Beckwith
+
+Mexican Kitchen	C. W. Ansley
+
+Mike's Liquor Store	M. H. Gordon
+
+Mobile Service Station	0. T. Rast
+
+Modem Market	Vegas Enterprises Co.
+
+Modem Market	R. D. Bingham & DeWitt Tracht
+
+Mom's Cafe	Joseph Anzalone
+
+Monte Carlo Inc	Fred Soly
+
+Nevada Bar	Kroloff Distributing Co
+
+Oppedyk Fountain Lunch	L. P. Lawrence
+
+Orange Julius Company	Pat Rozzelle
+
+Overland Arcade	Sid Martin
+
+Overland Bar (Talk of the Town) El Cortez, Hotel, Inc.
+Overland Hotel	El Cortez Hotel
+
+Palace Barbecue	Kroloff Distributing Company
+
+Panos Cafe	Harry Levy
+
+Park Hotel	Vegas Sweet Shop
+
+Park Market	L. P. Lawrence
+
+Patsy's Cafe	L.L. Kelly
+
+Payless Liquor Store	Raymond Salmon
+
+Pioneer Club	Milton B Page
+
+Pioneer Cocktail Lounge	Milton B. Page
+
+Pioneer News	Sam Taylor & Sam Jones
+
+Playland Arcade	George G. Parry

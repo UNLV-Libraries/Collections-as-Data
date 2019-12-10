@@ -1,0 +1,164 @@
+﻿193
+
+Clerk, Payroll	Comptroller
+
+Clerk, Secretary	"
+
+Clerk, Secretary	Engineering
+
+Collector, Chief License	City Clerk
+
+Collector, Deputy License	"	"
+
+Commissioner	Commission
+
+Comptroller	Comptroller
+
+Comptroller, Chief Deputy	"
+
+Cook	Police
+
+Corpsman	Engineering
+
+Custodian	War	Memorial	Bldg.
+
+Detective	Police
+
+Director, Assistant	Recreation
+
+Director, Recreation	Recreation
+
+Director, Swimming Pools	Swimming pool
+
+Director, Wildcat Lair	Recreation
+
+Director, Lifeguard	"
+
+Draftsman,	Planning	Planning
+
+Driver, Fire Truck	Fire
+
+Driver, Truck	Street
+
+Electrician	Electrical
+
+Electrician, City	"
+
+Engineer,	Fire
+
+Engineer, Assistant	Engineering
+
+Engineer, City	"
+
+Engineer, Field	
+
+Engineer, Office	"
+
+Firemen, 1st Class	Fire
+
+Firemen,	2nd	Class	"
+
+Firemen,	3rd	Class	"
+
+Foremen	Electrical
+
+Foremen	Park
+
+Foremen	sewage disposal
+
+Foremen	Street
+
+Foremen, Assistant	Park
+
+Foremen, Assistant	Sewer	Maintenance
+
+Foremen, Equipment	Shop
+
+Helper, Mechanic's	Shop
+
+Inspector, Building	Building Inspector
+
+Inspector, Deputy	Engineering
+
+Inspector,	Deputy Bldg.	Building	Inspector
+
+Inspector, Electrical	Electrical	Inspector
+
+Inspector,	Plumbing	Plumbing	Inspector
+
+Instrument man	Engineering
+
+Janitor	Library
+
+Janitor	War	Memorial	Bldg.
+
+Janitor, Wildcat Lair	Recreation
+
+Janitor-watchman	Swimming	Pool
+
+Janitor-watchman, Jeff. Center - Recreation
+Judge, Municipal	Municipal
+
+Laborer	Cemetery
+
+Laborer	Engineering
+
+Laborer	Golf	Course
+
+Laborer	Park
+
+Laborer	Sewage	Disposal
+
+Laborer	Sewage	Maintenance
+
+Laborer	Street
+
+Laborer, Skilled	Street
+
+Leader, Jr. Recreation	Recreation
+
+Librarian	Library
+
+Librarian, Assistant	"
+
+Lifeguard	Swimming	Pools
+
+Linemen	Electrical
+
+Linemen, Apprentice	"
+
+Maintenance Man	Police
+
+Maintenance Man	War	Memorial	Bldg.
+
+Manager	Golf Course
+
+Manager, City	City	Manager
+
+Mayor	Commission
+
+Mechanic, Auto	Shop
+
+Officer, Identification	Police
+
+Officer, Juvenile	"
+
+Officer, Traffic	"
+
+Operator, Patrol	Street
+
+Operator, Shovel	"
+
+Operator, Sweeper	"
+
+Operator, Switchboard	War	Memorial	Bldg.
+
+Patrolman	Police
+
+Policewoman	"
+
+Poundmaster, Chief Deputy	Pound
+
+Poundmaster, Deputy	"
+
+Repairman, Fire	Shop

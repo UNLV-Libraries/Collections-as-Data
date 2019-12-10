@@ -1,0 +1,136 @@
+﻿LOCATION:	Block 1, Gibson and Jones Addition
+
+LOT	NAME & ADDRESS	LAND & IMPR.	COST
+
+OF OWNER	ASSESSMENTS
+
+3	Campbell, Ruth Lopez	$200	$269.33
+
+2110 E. Stewart Ave.	1,393
+
+City
+
+4	Regnier, Ivan A.	$ 200	$269.33
+
+2114 E. Stewart Ave.	1,080
+
+City
+
+5	Ellis, Francis & Evelyn	$ 200	$269.38
+
+2101 Ogden Ave.	1,100
+
+City
+
+6	Browning, John J. & Ethel	$ 200	$269.33
+
+2122 E. Stewart Ave.	1,310
+
+City
+
+7	Allred, Lee & Lauretta	$ 200	$269.33
+
+Gen. Del.	2,090
+
+City
+
+8	Preston, Sam & Dora	$ 200	$269.38
+
+787 So. Center St.	1,000
+
+Reno, Nevada
+
+9	Gallardo, Frank A.	$ 540	$269.38
+
+1975 Park Grove
+
+Los Angeles 7, California
+
+10	Hairgrove, Goldyn J.	$ 200	$269.38
+
+216 No. 11th St.	1,600
+
+City
+
+11	Leavitt, Max V. & Marba Rose	$ 200	$269.38
+
+2142 E. Stewart Ave.	2,080
+
+City
+
+12	Wilkinson, James R. & Hon M.	$ 200	$350.20
+
+2144 E. Stewart Ave.	850
+
+City
+
+LOCATION:	Block 4, Boulder Dam Homesite Addition, Tract No. 2
+
+25.26	Pike, Walter A. & Marcella	$ 540	$269.38
+
+Box 222
+
+North Las Vegas, Nevada
+
+27.28.29	Pershall, Harry G. & Iva L.	$ 300	$404.08
+
+Box 1342	950
+
+City
+
+30,31	Smith, Nettie Mae	$ 200	$269.38
+
+403 Jersey St.	1,215
+
+Silverton, Oregon
+
+32,33,34 St 35	Hidden, P. J. & Pearl	$ 400	$538.77
+
+Box 694	800
+
+Boulder City, Nevada
+
+36	Fairhurst, Frank & Dorothy	$ 270	$134.70
+
+Box F
+
+Whitney, Nevada
+
+37,38	Lewis, Gladys S.	$ 540	$269.38
+
+2301 Fairfield
+City
+
+39,40	Gregory, Mrs. E. R.	$ 455	$269.38
+
+503 Ash St.	250
+
+Boulder City, Nevada
+
+41	Baldwin, Harold S. & Mary W.	$270	$134.70
+
+Henderson, Nevada
+
+42,43,44	Livingston, Paul D. & Alice	$810	$404.08
+
+Box 1342
+City
+
+45,46,47 & 48	Crosse, F. P. & Phyllis	$1,080	$538.77
+
+218 South 4th St.
+
+City
+
+LOCATION:	Block 2, Boulder Dam Homesite Addition, Tract No. 3
+
+25.26	Stewarts Investment Corp.	$150	$180.38
+
+1505 Ogden Ave.	1,855
+
+City
+
+27.28.29 &30	Fails, Evna Marie	$1,080	$538.77
+
+c/o Pioneer Club
+City

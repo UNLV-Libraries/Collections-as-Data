@@ -1,0 +1,31 @@
+﻿Block 22
+
+Boulder Addition
+
+LOT 3 	Tomlinson, Mary K.  1917 Houston Ave., City	REALTY $ 450.00	IMPROVEMENTS $ 3,860.00	TOTAL $ 4,310.00	FRONTAGE  FEET  50	COST OF IMPROVEMENTS $ 334.34
+4 	Same as above	1+50.00	3,860.00	4,310.00	50	334.34
+5 	Lingo, Curtis H. & Ivy R. 1301 So. 3rd St., City	1+50.00	5,260.00	5,710.00	50	334.34
+6	Van Norsdall. R.A, & Daphne Louise  1303 So. 3rd St., City	1+50.00	1,930.00	2,380.00	50	334.34
+7	Titley, Edward L.  1305 So. 3rd St., City	450.00	730.00	1,180.00	50	334.34
+8	Norman, B. Jeane Box 2092, City	450.00	1,360.00	1,810.00	50	334.34
+9	Simons, Edna Wilma 1309 So. 3rd St., City	450.00	760.00	1,210.00	50	334.34
+10	Briggs, H.O.  C/0 Colorado River Commission Henderson, Nevada	465.00	335.00	800.00	50	334.34
+11	Pierce, Emma Wood & C.W. 1313 So. 3rd St., City	1+50.00	380.00	830.00	50	334.34
+12	Brinig, Anne E.  1325 So. 3rd St., City .	1+50.00	2,200.00	2,650.00	50	334.34
+13	Same as above	1+50.00	2,200.00	2,650.00	50	334.34
+14 	Marshall, Rosamond Box 421, City	800.00		800.00	50	334.34
+15	Marshall, Rosamond Box 421, City	800.00		800.00	50	334.34
+16 	Johnson, Carl B, & M. Lucille (1/2int) 450.00 Kreutzer, Paul J. & Mary (1/2int)  1416 So. 5th St., City ,		1,403.00	1,853.00	50	334.34
+17 	Same as above	500.00	1,1+03.00	1,903.00	50	334.34
+18 	" " "	2,000.00	1,403.00	3,403.00	50	334.34
+Irreg.Roesselet, Mrs. Lillie 19 1823 W. Charleston Blvd., City		1,750.00		1,750.00	50	334.34
+Irreg.Soss, Fanny  20  211 Fremont St., City		1,500.00		1,500.00	50	334.34
+21	Same as above	2,700.00		2,700.00	169.3	1,132.06
+Block 1  Meadows Addition			.			
+LOT 	All Block 1 west of H/W & Resubdivision Elks 1-9 Robinson, W.S.  525 Park Paseo, City	REALTY  11,750.00	IMPROVEMENTS  $ 3,000.00 $	TOTAL 14,750.00	FRONTAGE  FEET  629.18	COST OF IMPROVEMENTS $ 4,207.15
+Block 2  Meadows Addition			-			
+LOT   1-16 and 21+-36	REALTY  Elmirador Corporation  $ 12,305.00  C/0 Willis Robinson  2200 So. 5th St., City 		IMPROVEMENTS TOTAL $ 19,940.00 $ 32,245.00		FRONTAGE  FEET  628.91	COST OF IMPROVEMENTS  $ 4,205.34
+37 -	Stephenson, Gladys T.  2301 Fairfield Ave., City	440.00		440.00	27.5	183.88
+38	Same as above	440.00		440.00	27.5	183.88
+39	" " "	440.00		440.00	27.5	183.88
+40	" " "	365.00	75.00	440.00	27.5	183.88

@@ -1,0 +1,127 @@
+﻿Haymon, Harold & Elnore	500	263.99	6	8
+
+1725 Carson - City	1610
+
+Renis , Michael & Jane Q.	500	299010	10	8
+
+209	Spencer - City	1475
+
+Long, Lawrence H.	500	298.80	11	8
+
+213	Spencer - City	1475
+
+Garren, Frank J. & G. M,	500	298.80	12	8
+
+219 Spencer - City	1475
+
+Provine, Joe F., Jr & B. J.	500	298.80	13	8
+
+225 Spencer - City	1475
+
+Leavitt, Irving & Mary E.	500	298.80	14	8
+
+819 So 4th - City	1475
+
+Conway , Hugh Joseph & Peggy	500	298.80	15	8
+
+235 Spencer - City	1600
+
+Digregorio, Louis J & A. C. 500	273.90	16		8
+
+239 Spencer - City	1475
+
+Harrah, William & Scherry	500	273.90	17	8
+
+1051 So Virginia Street	1500
+
+Reno, Nevada
+
+Presley, Samuel & M. L.	500	342.18	18	8
+
+249 Spencer - City	1600
+
+Deverell, Geo. A. & Patricia	500	425.59	19	8
+
+1711 Lewis Avenue - City	1600
+
+Atol, Elias J. & G. M.	500	309.06	23	10
+
+1715 Lewis Avenue - City	1600
+
+Brown, Francis G. & S. H.	500	457.36	24	10
+
+407 Spencer - City	1500
+
+Clark, Adeline E.	1375	678.59	1	10
+
+1800 Fremont - City
+
+Wiley, Arthur C. & Ethel M.	1000	893.57	21,22	7
+
+1720 Carson Ave - City	2980
+
+Fletcher, Ray L.	500
+
+204 Spencer - City	1500	338.65	20	7
+
+Allen, Earl E. & Leola G.	500	250.05	19	7
+
+210	Spencer	-	City	1500
+
+Cannon, R. O., Jr. & Helen	500	298.80	18	7
+
+214	Spencer Avenue - City	1500
+
+Koehl, Charles A.	500
+
+218 Spencer - City	1500	298.80	17	 7
+
+Robbins, Harry S,	500	298.80	16	7
+
+224 Spencer	-	City	1515
+
+Dawson, Martha A.	500	298.80	15	7
+
+228 Spencer	-	City	1500
+
+Hirsch, Martha J.	500	298.80	14		                                            7
+
+605½ South Garfield	1600
+
+Pocatello, Idaho
+
+Quinn, Patrich & Mary McBride	500	202.80	13	7
+
+238 Spencer Ave - City	1600
+
+Leavitt, Wood & Zelma L,	500	202.80	11	7
+
+c/o Allied Building Credit	1600
+
+Dooley Bldg
+
+Salt Lake City 1, Utah
+
+Melio, Nacy E.	500	202.80	12	7
+
+244 Spencer Avenue - City	1525
+
+Ell Ingham, Robert H. & I. A.	500	298.80	10	7
+
+Box 704 - City	1500
+
+Geertsema, Richard H. & M.	600	298.80	9	7
+
+258 Spencer	- City	1875
+
+Ahern, John P. & M. L.	500	298.80	8	7
+
+400 Spencer	- City	1500
+
+Keener, John W. & A. F.	500	298.90	7	7
+
+402 Spencer	Ave - City	1500
+
+Harris, Virginia	500	266.48	6	7
+
+410 Spencer Ave - City	1500

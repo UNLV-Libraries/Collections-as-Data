@@ -1,0 +1,31 @@
+﻿Block 8 (con’t)
+
+Mayfair Tract # 2 Amended
+
+LOT  30	Clark, Adeline E.  1800 Fremont St., L.V.	REALTY $ 570.00	IMPROVEMENTS  $	TOTAL $ 570.00	FRONTAGE  FEET  42.35	COST OF IMPROVEMENTS $ 257.13
+31	Same as above	605.00		605.00	45.03	273.1.0
+32	" " "	605.00		605.00	45.03	273.40
+33	" " "	605.00		605.00	1.5.03	273.1.0
+34	" " "	605.00		605.00	45.03	273.1.0
+35	" " "	760.00		760.00	56.81.	31.5.10
+Block 9  Mayfair Tract # 2 Amended						
+LOT  1	Crane, Elda Clark (1/2 int.) Box 444, L.V.	REALTY $ 465.00	IMPROVEMENTS  $	TOTAL  $ 1.65.00) ) )  1.65.00)	FRONTAGE  FEET  69.28	COST OF IMPROVEMENTS $420.63
+1	Lehman, Don R. (1/2 int.) 325 W. 8th St.,  L.A., California	465.00				
+2	Painter, Edwin J. & Lauraine Z, 114 So. 5th St., L. V.	730.00		730.00	72.5	316.93
+3	Hunt, Dan P. & Ann M. 2712 Valley St., L. V.	730.00		730.00	72.5	1.1.0.18
+4	Parkinson, Ernest W. & Camilla 611 Ave. G Boulder City, Nev.	930.00		930.00	69.22	420.27
+10	Havas, Verl R. & Arlene M. 208 So. Bruce St., L. V.	500.00	2,090.00	2,590.00	56.62	21.7.52
+11	Wilde, Marie W.  205 E. Circle Drive, L. V.	500.00	2,190.00	2,690.00	95.83	1.18.92
+12	Angel, W.L. & A. Ruth 209 Circle Drive, L. V.	500.00	2,430.00	2,930.00	83.8	366.33
+13	Allen, John V. & Grace M. 213 Circle Drive, L. V.	500.00	2,100.00	2,600.00	77.21.	337.65
+14	Bails, John J. & Martha 217 Circle Drive, L.V,	500.00	2,020.00	2,520.00	64.56	282.22
+15	Hinkle, Truman  221 Circle Drive, L. V.	500.00	2,040.00	2,51.0.00	64.56	263.20
+16	Lucas, James W. & Barbara A, 225 Circle Drive, L. V.	500.00	2,915.00	3,415.00	60.21	282.22
+17	Henderson, William R. & Harriet 229 Circle Drive, L. V.	L. 500.00	2,310.00	2,810.00	59.1.3	259.80
+Block 10  Mayfair Tract # 2 Amended						
+LOT  13	Lehman, Don R. (1/2 int.) 325 W. 8th St.  Los Angeles, California	REALTY $ 820.00	IMPROVEMENTS  $	TOTAL $ 820.00	FRONTAGE  FEET  61.14	COST OF IMPROVEMENTS $ 371.21
+14	Same as above (1/2 int.)	865.00	.	865.00	64.50	391.61
+15	Same as above (1/2 int.)	865.00		865.00	64.50	391.61
+16	Gervie, C. & B.  1726 Lewis St., L. V.	500.00	2,180.00	2,680.00	64.50	281.96
+17	Brown, Robert J. & Myra J. 1724. Lewis St., L. V.	500.00	1,530.00	2,030.00	64.50	281.96
+18	Clark, Adeline E.  1800 Fremont St., L.V,	650.00		650.00	64.50	391.61

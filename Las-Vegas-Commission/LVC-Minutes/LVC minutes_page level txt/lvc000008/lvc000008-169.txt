@@ -1,0 +1,40 @@
+﻿BLOCK 2
+Contd:
+
+
+
+
+
+BLOCK	NO.	LOT NO.	OWNER & ADDRESS SITE	ASSESSED VALUE	ESTIMATED cost of
+					IMPROVEMENT S
+2		19&E31.5' of L20	McNeil Construction Co. 1  5869 Avalon Blvd.  Los Angeles, California	$1,055.00	$527.30
+2		E63' of L20 &W63' of 121	McNeil Construction Co. 1 5860 Avalon Blvd.  Los Angeles, California	1,055.00	527.30
+2		E31.5' of L21 & 122	Smoot, Frances Adkins 1 2920 Ashby Ave.  Los Angeles, California	8,340.00	527.30
+2		L23 & E5. of L24	Cooper, Chester C. & Esther M. 1 3000 Ashby Ave. las Vegas, Nevada	10,560.00	527.30
+2		W89. of L24 Sc E50' of L25	Cooper, Chester C. & Esther M. 1 3000 Ashby Ave. las Vegas, Nevada	1,055.00	527.30
+2		E44.5' of L25 & L26	McNeil Construction Co. 1  5860 Avalon Blvd.  Los Angeles, California	1,055.00	527.30
+2		27	Hall, Richard B. & Barbara Lee 1 3120 Ashby Ave.  Las Vegas, Nevada	2,900.00	527.30
+2		28	Belmont, Edwin M. & Marion F. 1 1125 Campbell Drive las Vegas, Nevada	3,060.00	527.30
+BLOCK	NO	LOT NO.	OWNER Sc ADDRESS SITE	ASSESSED VALUE	ESTIMATED COST OF
+					IMPROVEMENTS
+3		2	Kaye, Jerome H. & Janet 1 1111 Cahlan Drive Las Vegas, Nevada	$5,550.00	$527.30
+3		9	Danoflo, Nicholas, & Angela 1 1254 Barnard Drive Las Vegas, Nevada	1,055.00	527.30
+3		10	LaFortune, Lester & Thelma 1 1124 Strong Drive las Vegas, Nevada	2,565.00	527.30
+3		11	Fox, Francis H. Sc Hazel M. 1 1219 S. 8th Place Las Vegas, Nevada	1,055.00	527.30
+3		12	McNeil Construction Co. 1  5860 Avalon Blvd.  los Angeles, California	1,055.00	527.30
+3		13	Clower, Nelson R. Sc Helen L. 1 2612 Ashby Ave.  Las Vegas, Nevada	2,850.00	527.30
+3		14	Schaeffer, Robert A & Elizabeth 1 Box 771, Rte. 1, McCourtney Rd. Grass Valley, California	2,055.00	527.30
+3		15	Lorenao, Richard Sc Margaret E. 1 2706 Ashby Ave.  Las Vegas, Nevada	5,265.00	527.30
+3		E1/2 of S149' of L 16	Clark, Howard E. & Lela B. Ontario, California	Not Included	in District
+3		W1/2 of S 149' of L16 & 117	Reid, Ralph & Margaret Helen 1 1127 Cahlan Drive Las Vegas, Nevada	4,840.00	527.30
+3		118 & N 142.87' of 116	Rollins, Avis 1 1114 Francis Ave.  Las Vegas, Nevada	1,055.00	527.30
+BLOCK	NO	LOT NO.	OWNER & ADDRESS SITE	ASSESSED VALUE	ESTIMATED COST OF
+					IMPROVEMENTS
+4		1	Stevenson, Donald J. Sc Janet Y. 1 1913 Peyton Drive Las Vegas, Nevada	$1,055.00	$527.30
+4		2	Hemington, Ralph W. & Alene H. 1 2711 Ashby Ave.  Las Vegas, Nevada	5,415.00	527.30
+4		3	Sweeney M.M. & Lucille 1 2705 Ashby Ave.  Las Vegas, Nevada	5,465.00	527.30
+4		4	McNeil Construction Co. 1	1,055.00	527.30
+
+5860 Avalon Blvd.
+
+Los Angeles, California

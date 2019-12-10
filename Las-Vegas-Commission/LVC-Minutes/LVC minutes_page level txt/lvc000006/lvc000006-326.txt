@@ -1,0 +1,87 @@
+﻿302
+
+Place	Operator	Address	Type
+
+Pony Express Stages	Melvin B. Wolzinger
+
+Prescription Pharmacy	?Gayer Co. - Lee Hughes
+
+Price's Shell Service	C. R. P rice
+
+Prime Meats & Provisions Jack Wollenzien & All Wendlboe
+
+Professional Drug	Gayer Co. - Lee Hughes
+
+Quality Low Price	L. P. Lawrence
+
+Ray & Vick's Service	Vegas Sweet Shop
+
+Red & White Cafe	Kroloff Distributing Company
+
+Rex Bar	124 South 1st
+
+Richfield Truck Terminal Mrs. R. L. Ronnow
+Ritchie's Beer Garden	W. A. Ritchie
+
+Round-Up Drive In	Round Up Inc
+
+Round Up Liquor Store	Round Up Inc.
+
+Sal Sagev Hotel	John F. Miller
+
+Sal Sagev Restaurant	John F. Miller
+
+Sal Sagev Restaurant	Louis Dubois
+
+Sal Sagev Tavern	J. Kell Houssels
+
+Sam's Cafe	J. A. Katsaros
+
+The Santa Anita Turf Club	Dave Stearns
+
+Save On Liquor Store	El Cortez Hotel, Inc.
+
+Save Rite Drug Inc.	Vegas Enterprises Co.
+
+Savoy Grill	L. P. Lawrence
+
+Selex Coffee Shop	Richard B. Borders
+
+Self Service Launderette	Robert Peccole
+
+Sewells	A. H. Imming
+
+Shell Triangle Station	Mrs. D. H. Brockley
+
+Sill's	J. M. Sill, Orphas Miller
+
+E. C. Christian
+
+Silver Cafe	Mrs. J. H. Morgan
+
+Silver Club	Mrs. J. H. Morgan
+
+Silver Star Bakery	L. P. Lawrence
+
+Silver State Newstand	L. P. Lawrence
+
+Silver State	Texaco Service Gayer Co. - Lee Hughes
+
+Simon's Bar	B-Q	Gayer Co. - Lee Hughes
+
+Slot Machine	Irl Stewart
+
+Smith's Drive In	A. K. & Bert Smith
+
+Snyder's	L. L. Snyder
+
+Southwest Liquor Store	Max Gordon
+
+The Sportsman's Supply Company Kroloff Dist. Co.
+Spudnuts	C. W. Ansley
+
+Stan & Mary's Drive In	931 Fremont
+
+Standard Market	L. P. Lawrence
+
+Sunset Liquor Store	Weston W. Barnes

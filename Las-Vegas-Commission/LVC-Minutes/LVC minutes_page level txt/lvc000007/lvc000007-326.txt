@@ -1,0 +1,134 @@
+﻿LOCATION:	Block 5, Fairview Tract
+
+LOT	NAME & ADDRESS	LAND & IMPR.	COST
+
+OF OWNER	ASSESSMENTS
+
+12	Potthoff, Ethel E.	$200	$417.46
+
+530 South 3rd Street	1,230
+
+City
+
+13	Hardy, Grant & Lelia M.	$ 200	$417.46
+
+1404 Bridger Ave.	2,160
+
+City
+
+14	Burns, Viola	$	840	$417.46
+
+509 South 2nd Street
+
+City
+
+15	Marteletti, Tony & Fern	$	200	$417.46
+
+524 Linden Ave.	2,100
+
+City
+
+W 70’ 16	Walter, Gordon L. & Dorothy H.	$	125	$283.66
+
+Box 726	1,030
+
+City
+
+E 70' 16	McGuffie, Rosamond	$	125	$283.66
+
+201 North 13th Street	1,040
+
+City
+
+LOCATION:	Block 6, Fairview Tract
+
+1,2,3	Goldstrom, Wilbur, Villa E.	$1,250	$1,402.24
+
+231 North 11th Street	4,080
+
+City
+
+4,5	Hairgrove, Jo	$ 800	$834.92
+
+216 North 11th Street	1,820
+
+City
+
+6	St. John, F. E. & Gladys	$ 400	$417.46
+
+207 North 11th Street	900
+
+City
+
+7,8	Moore, R. C.	$ 850	$984.78
+
+1108 Ogden Ave.	1,190
+
+City
+
+9	Graves, Wm. J. & Kathryn R.	$1,140	$567.32
+
+632 Ave. C
+
+Boulder City, Nevada
+
+10, 11	Graves, Wm. J. & Kathryn R.	$1,670	$834.92
+
+632 Ave. C
+Boulder City, Nevada
+
+12	O'Connell, Kenneth P. & Marjorie	$ 350	$417.46
+
+217 North 12th Street	790
+
+City
+
+13	Kiwisar, Martin	$ 840	$417.46
+
+220 North 12th Street
+
+City
+
+14	Barker, Felton O.	$ 350	$417.46
+
+Box 605
+
+City
+
+15,16	Pine, Fred T. & Hilda A.	$1,970	$984.78
+
+500 North 7th Street
+City
+
+LOCATION:	Block 7, Fairview Tract
+
+1,2,9,10	Garehime, J. W.	$1,700	$1,969.56
+
+231 North 10th Street	2,820
+
+City
+
+3,4,5,6	Seymour, John L.	$3,340	$1,669,35
+
+c/o Rose Seymour
+615 South 6th Street
+City
+
+7	Dimock, Charles L.	$	400	$417.46
+
+205 North 10th Street	1,850
+
+City
+
+8	Price, Minnie	$	400	$567.32
+
+Wiley, Nell Price	740
+
+411 North 7th Street
+City
+
+11	Keach, Marion	$	400	$417.46
+
+Box 1381	1,840
+
+City
