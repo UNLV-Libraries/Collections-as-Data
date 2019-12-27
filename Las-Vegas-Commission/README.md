@@ -16,34 +16,31 @@ The Las Vegas City Commission Records Dataset (1911-1960) is comprised of bound 
 **Digitization and quality:**
 Each volume was photographed at 300 ppi by Kathleen Marx, UNLV Digital Collections staff. Each page was digitized, in addition to the inside and outside of the front and back covers. Blank pages were also digitized. In a few cases there were papers that were attached to a page and covered some of the text on the page. In these cases the page was digitized twice, once with the attached paper in place, and once with the attached paper lifted to capture the text underneath.
 
-The images were saved as master archival tiff files and as jpeg image files at 50% quality for transcription. Abbyy Finereader OCR (optical character recognition) software was used to transcribe the volumes using the jpeg image files. UNLV Digital Collections staff, including Kathleen Marx, Kayla Ott, Tierre Cabbell, Elizabeth Villasenor, Natale Muro, and Kelsey Mazmanyan, manually corrected the OCR output to create highly accurate digital transcripts. PDF/A files with the jpeg images and transcriptions were created. The transcription was also saved as text files, one for each volume, and also one text file for each image.
+The images were saved as master archival tiff files and as jpeg image files at 50% quality for transcription. Abbyy Finereader OCR (optical character recognition) software was used to transcribe the volumes using the jpeg image files. UNLV Digital Collections staff, including Kathleen Marx, Kayla Ott, Tierre Cabbell, Elizabeth Villasenor, Natale Muro, and Kelsey Mazmanyan, manually corrected the OCR output to create highly accurate digital transcripts. PDF/A files with the jpeg images and transcriptions were created. The transcription was also saved as text files, one for each volume, and also one text file for each image. The PDFs of each volume are available via the persistent identifiers listed in the inventory below.
 
-This dataset consists of the 12 volumes in three different versions: 1) one PDF file for each volume, 2) one text file for each volume, and 3) one text file for each image.
+This dataset consists of the 12 volumes in two different versions: 1) one text file for each volume and 2) one text file for each image.
 
 **File naming:** 
-Each book is assigned a digital identifier, e.g. lvc000001. The digital identifier is used as the file name for a digital file that represents an entire book, e.g. lvc000001.txt or lvc000001.pdf. For a digital file that represents part of the book (e.g. a digitized page), the file name is the digital id of the book and a sequential number, e.g. lvc000001-001.tif or lvc000001-001.txt.
+Each book is assigned a digital identifier, e.g. lvc000001. The digital identifier is used as the file name for a digital file that represents an entire book, e.g. lvc000001.txt. For a digital file that represents part of the book (e.g. a digitized page), the file name is the digital id of the book and a sequential number, e.g. lvc000001-001.txt.
 
-CollectionAliasID: e.g. lvc000001.txt  
+CollectionAliasVolumeID: e.g. lvc000001.txt  
 
-Collectionalias-sequential number part of book: e.g. lvc000001-001.txt
+CollectionAliasVolumeID-sequential number part of book: e.g. lvc000001-001.txt
 
 **Files and extents:**
 
 Minutes Datasets
 
--	BooksPDF (12 files, 7.52 GB)
 -	BooksTXT (12 files, 24.3 MB)
 -	BooksTXT split at page level (6,188 files, 24.3 MB)
 
 Ordinances Datasets
 
--	BooksPDF (3 files, 2.53 GB)
 -	BooksTXT (3 files, 6.53 MB)
 -	BooksTXT split at page level (1,457 files, 6.53 MB)
 
 Legal Documents Datasets
 
--	BooksPDF (1 file, 154 MB)
 -	BooksTXT (1 file, 365 KB)
 -	BooksTXT split at page level (118 files, 365 KB)
 
